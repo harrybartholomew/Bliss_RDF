@@ -1,0 +1,62 @@
+A               01Rational enquiry, formal & abstract modes of enquiry
+                     **  Philosophy schedule as used for published
+                         volume.
+                     **  August 1991 Colin Neilson.
+                     *   Studies in which reasoning is the fundamental
+                         instrument, whether or not combined with
+                         observation and experiment.
+                     *   For the organization of knowledge and the
+                         relations between different disciplines, see
+                         Class 6.
+A9              01Philosophy & science
+                     *   Considered together.
+AA              01Philosophy
+                     *   For history of ideas see Social sciences and
+                         humanities JZ9 Q.
+AA2             02(Common subdivisions)
+                     *   Add to AA numbers 2/6 from Auxiliary Schedule
+                         1 with the slight modifications indicated at
+                         6T/6Y.
+AA3B            03)Dictionaries, glossaries(
+AA3G            03)Serials, periodicals(
+AA5             03)Organizations in philosophy(
+AA5R            03)Documents & libraries in philosophy(
+AA6A            03)Study & education in philosophy(
+@               03Phase relations, interactions with other classes ]IT
+                     *   Use these instead of 9C/9K, if necessary. Most
+                         of the relations occur as integral classes
+                         within the philosophy schedule (e.g. in
+                         metaphilosophy - especially at AFX). When in
+                         doubt, prefer the enumerated classes.
+AA6T            04)Comparison(
+AA6U            04)Exposition(
+AA6V            04)General influence(
+                     *   When relations are two-way.
+AA6W            04)Influence of other subjects(
+                     *   See explanatory notes at ABA.
+                     *   Add to AA6 W numbers & letters from the whole
+                         classification.
+AA6X            04)Influence on other subjects(
+                     *   Alternative, not recommended, to subordination
+                         to the subject being influenced.
+                     *   Add to AA6 X numbers and letters from the
+                         whole classification.
+@               02General philosophy
+                     *   For works dealing with both Western and
+                         Oriental philosophy. DO NOT USE AA7/AAH for
+                         works confined to a particular broad tradition
+                         (Western or Oriental). Use AA for completely
+                         general works.
+                     *   Much the greater part of the literature in
+                         most libraries relates to a particular broad
+                         tradition and relatively little will fall in
+                         AA7/AAH. For this reason, the detailed
+                         enumeration of the two major facets
+                         (Viewpoints & doctrines, and Branches) is
+                         given under Western philosophy (AB/AH) and the
+                         truly general classes at AA7/AAH are extracted
+                         from these.
+                     *   Alternative (not recommended) whereby Western
+                         and Oriental are treated simply like
+                         historical schools is given at AA7.
+AA7             03History of philosophy in general
