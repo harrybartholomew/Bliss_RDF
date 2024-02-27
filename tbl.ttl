@@ -1,8 +1,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://example.org/0001> a skos:Concept ;
+    skos:altLabel "formal & abstract modes of enquiry" ;
     skos:notation "A" ;
-    skos:prefLabel "Rational enquiry, formal & abstract modes of enquiry" .
+    skos:prefLabel "Rational enquiry" .
 
 <http://example.org/0002> a skos:Concept ;
     skos:notation "A9" ;
@@ -17,12 +18,14 @@
     skos:prefLabel "(Common subdivisions)" .
 
 <http://example.org/0005> a skos:Concept ;
+    skos:altLabel "glossaries(" ;
     skos:notation "AA3B" ;
-    skos:prefLabel ")Dictionaries, glossaries(" .
+    skos:prefLabel ")Dictionaries" .
 
 <http://example.org/0006> a skos:Concept ;
+    skos:altLabel "periodicals(" ;
     skos:notation "AA3G" ;
-    skos:prefLabel ")Serials, periodicals(" .
+    skos:prefLabel ")Serials" .
 
 <http://example.org/0007> a skos:Concept ;
     skos:notation "AA5" ;
@@ -37,7 +40,8 @@
     skos:prefLabel ")Study & education in philosophy(" .
 
 <http://example.org/0010> a skos:Concept ;
-    skos:prefLabel "Phase relations, interactions with other classes ]IT" .
+    skos:altLabel "interactions with other classes ]IT" ;
+    skos:prefLabel "Phase relations" .
 
 <http://example.org/0011> a skos:Concept ;
     skos:notation "AA6T" ;
@@ -118,8 +122,10 @@
     skos:prefLabel "About the viewpoint derived from a particular philosopher ]IT" .
 
 <http://example.org/0031> a skos:Concept ;
+    skos:altLabel "'isms' in general philosophy ]",
+        "standpoints" ;
     skos:notation "AACE" ;
-    skos:prefLabel "Doctrines, standpoints, 'isms' in general philosophy ]" .
+    skos:prefLabel "Doctrines" .
 
 <http://example.org/0032> a skos:Concept ;
     skos:notation "AACG" ;
@@ -300,8 +306,10 @@
     skos:prefLabel "((About the viewpoint derived from a particular philosopher))" .
 
 <http://example.org/0078> a skos:Concept ;
+    skos:altLabel "`isms' in Western philosophy))",
+        "standpoints" ;
     skos:notation "ACE" ;
-    skos:prefLabel "((Doctrines, standpoints, `isms' in Western philosophy))" .
+    skos:prefLabel "((Doctrines" .
 
 <http://example.org/0079> a skos:Concept ;
     skos:notation "ACF" ;
@@ -344,8 +352,9 @@
     skos:prefLabel "Empiricism" .
 
 <http://example.org/0089> a skos:Concept ;
+    skos:altLabel "sensationism" ;
     skos:notation "ACHJ" ;
-    skos:prefLabel "Sensationalism, sensationism" .
+    skos:prefLabel "Sensationalism" .
 
 <http://example.org/0090> a skos:Concept ;
     skos:notation "ACHL" ;
@@ -356,8 +365,9 @@
     skos:prefLabel "Phenomenalism" .
 
 <http://example.org/0092> a skos:Concept ;
+    skos:altLabel "Comtism" ;
     skos:notation "ACHP" ;
-    skos:prefLabel "Positivism, Comtism" .
+    skos:prefLabel "Positivism" .
 
 <http://example.org/0093> a skos:Concept ;
     skos:notation "ACHS" ;
@@ -424,16 +434,18 @@
     skos:prefLabel "Materialism" .
 
 <http://example.org/0109> a skos:Concept ;
+    skos:altLabel "philosophy of Marxism" ;
     skos:notation "ACKJ" ;
-    skos:prefLabel "Dialectical materialism, philosophy of Marxism" .
+    skos:prefLabel "Dialectical materialism" .
 
 <http://example.org/0110> a skos:Concept ;
     skos:notation "ACKL" ;
     skos:prefLabel "Atomism" .
 
 <http://example.org/0111> a skos:Concept ;
+    skos:altLabel "mechanism" ;
     skos:notation "ACKO" ;
-    skos:prefLabel "Mechanicism, mechanism" .
+    skos:prefLabel "Mechanicism" .
 
 <http://example.org/0112> a skos:Concept ;
     skos:notation "ACKP" ;
@@ -508,16 +520,20 @@
     skos:prefLabel "Subjective idealism" .
 
 <http://example.org/0130> a skos:Concept ;
+    skos:altLabel "absolutism" ;
     skos:notation "ACNN" ;
-    skos:prefLabel "Absolute idealism, absolutism" .
+    skos:prefLabel "Absolute idealism" .
 
 <http://example.org/0131> a skos:Concept ;
+    skos:altLabel "transcendentalism" ;
     skos:notation "ACNP" ;
-    skos:prefLabel "Transcendental idealism, transcendentalism" .
+    skos:prefLabel "Transcendental idealism" .
 
 <http://example.org/0132> a skos:Concept ;
+    skos:altLabel "critical idealism",
+        "critical philosophy" ;
     skos:notation "ACNQ" ;
-    skos:prefLabel "Kantianism, critical idealism, critical philosophy" .
+    skos:prefLabel "Kantianism" .
 
 <http://example.org/0133> a skos:Concept ;
     skos:notation "ACNR" ;
@@ -764,16 +780,18 @@
     skos:prefLabel "Feminism" .
 
 <http://example.org/0194> a skos:Concept ;
+    skos:altLabel "philosophical analysis" ;
     skos:notation "ACU" ;
-    skos:prefLabel "Analytical philosophy, philosophical analysis" .
+    skos:prefLabel "Analytical philosophy" .
 
 <http://example.org/0195> a skos:Concept ;
     skos:notation "ACUJ" ;
     skos:prefLabel "Logical atomism" .
 
 <http://example.org/0196> a skos:Concept ;
+    skos:altLabel "logical empiricism" ;
     skos:notation "ACUL" ;
-    skos:prefLabel "Logical positivism, logical empiricism" .
+    skos:prefLabel "Logical positivism" .
 
 <http://example.org/0197> a skos:Concept ;
     skos:notation "ACUN" ;
@@ -822,8 +840,9 @@
     skos:prefLabel "((Schools))" .
 
 <http://example.org/0209> a skos:Concept ;
+    skos:altLabel "Ionian school" ;
     skos:notation "ADDD" ;
-    skos:prefLabel "Milesian school, Ionian school" .
+    skos:prefLabel "Milesian school" .
 
 <http://example.org/0210> a skos:Concept ;
     skos:notation "ADDE" ;
@@ -1122,8 +1141,9 @@
     skos:prefLabel "((Schools))" .
 
 <http://example.org/0285> a skos:Concept ;
+    skos:altLabel "Hellenistic Academy" ;
     skos:notation "ADGD" ;
-    skos:prefLabel "Middle Academy, Hellenistic Academy" .
+    skos:prefLabel "Middle Academy" .
 
 <http://example.org/0286> a skos:Concept ;
     skos:prefLabel "(Individual philosophers)" .
@@ -1315,8 +1335,9 @@
     skos:prefLabel "Other places in ancient Western philosophy ]IT" .
 
 <http://example.org/0334> a skos:Concept ;
+    skos:altLabel "Catholic philosophy" ;
     skos:notation "ADIR" ;
-    skos:prefLabel "Christian philosophy, Catholic philosophy" .
+    skos:prefLabel "Christian philosophy" .
 
 <http://example.org/0335> a skos:Concept ;
     skos:notation "ADIT" ;
@@ -1339,8 +1360,9 @@
     skos:prefLabel "((Schools))" .
 
 <http://example.org/0340> a skos:Concept ;
+    skos:altLabel "Islamic philosophy ]IT" ;
     skos:notation "ADK" ;
-    skos:prefLabel "Arabic philosophy, Islamic philosophy ]IT" .
+    skos:prefLabel "Arabic philosophy" .
 
 <http://example.org/0341> a skos:Concept ;
     skos:notation "ADL" ;
@@ -1410,8 +1432,9 @@
     skos:prefLabel "Jer - Joh ]IT" .
 
 <http://example.org/0358> a skos:Concept ;
+    skos:altLabel "Johannes Scotus" ;
     skos:notation "ADMMS" ;
-    skos:prefLabel "John the Scot, Johannes Scotus" .
+    skos:prefLabel "John the Scot" .
 
 <http://example.org/0359> a skos:Concept ;
     skos:notation "ADMN" ;
@@ -1590,8 +1613,9 @@
     skos:prefLabel "((By period))" .
 
 <http://example.org/0404> a skos:Concept ;
+    skos:altLabel "Renaissance philosophy" ;
     skos:notation "ADR" ;
-    skos:prefLabel "15th - 16th centuries -, Renaissance philosophy" .
+    skos:prefLabel "15th - 16th centuries -" .
 
 <http://example.org/0405> a skos:Concept ;
     skos:notation "ADR7" ;
@@ -1613,8 +1637,9 @@
     skos:prefLabel "A - Bo ]IT" .
 
 <http://example.org/0410> a skos:Concept ;
+    skos:altLabel "Behmen J -" ;
     skos:notation "ADRFM" ;
-    skos:prefLabel "Bohme J -, Behmen J -" .
+    skos:prefLabel "Bohme J -" .
 
 <http://example.org/0411> a skos:Concept ;
     skos:notation "ADRG" ;
@@ -1794,8 +1819,9 @@
     skos:prefLabel "Vic - Z ]IT" .
 
 <http://example.org/0456> a skos:Concept ;
+    skos:altLabel "Low Countries philosophy(" ;
     skos:notation "ADSJ" ;
-    skos:prefLabel ")Netherlands philosophy, Low Countries philosophy(" .
+    skos:prefLabel ")Netherlands philosophy" .
 
 <http://example.org/0457> a skos:Concept ;
     skos:prefLabel "((Individual philosophers))" .
@@ -1852,8 +1878,9 @@
     skos:prefLabel "((Schools & doctrines))" .
 
 <http://example.org/0471> a skos:Concept ;
+    skos:altLabel "Age of reason" ;
     skos:notation "ADTD" ;
-    skos:prefLabel "Enlightenment, Age of reason" .
+    skos:prefLabel "Enlightenment" .
 
 <http://example.org/0472> a skos:Concept ;
     skos:notation "ADTE" ;
@@ -2361,8 +2388,9 @@
     skos:prefLabel "((Schools))" .
 
 <http://example.org/0600> a skos:Concept ;
+    skos:altLabel "Brook Farm -" ;
     skos:notation "ADUSD" ;
-    skos:prefLabel "Transcendental schools, Brook Farm -" .
+    skos:prefLabel "Transcendental schools" .
 
 <http://example.org/0601> a skos:Concept ;
     skos:notation "ADUSE" ;
@@ -3034,8 +3062,9 @@
     skos:prefLabel "Reality" .
 
 <http://example.org/0770> a skos:Concept ;
+    skos:altLabel "nature of things" ;
     skos:notation "AGHS" ;
-    skos:prefLabel "Nature of reality, nature of things" .
+    skos:prefLabel "Nature of reality" .
 
 <http://example.org/0771> a skos:Concept ;
     skos:notation "AGHT" ;
@@ -3046,8 +3075,9 @@
     skos:prefLabel "The absolute" .
 
 <http://example.org/0773> a skos:Concept ;
+    skos:altLabel "existence" ;
     skos:notation "AGHX" ;
-    skos:prefLabel "Being, existence" .
+    skos:prefLabel "Being" .
 
 <http://example.org/0774> a skos:Concept ;
     skos:notation "AGHY" ;
@@ -3086,8 +3116,9 @@
     skos:prefLabel "Realism (Metaphysics)" .
 
 <http://example.org/0783> a skos:Concept ;
+    skos:altLabel "theory of ideas" ;
     skos:notation "AGKL" ;
-    skos:prefLabel "Theory of forms, theory of ideas" .
+    skos:prefLabel "Theory of forms" .
 
 <http://example.org/0784> a skos:Concept ;
     skos:notation "AGKM" ;
@@ -3146,8 +3177,10 @@
     skos:prefLabel "Subsistent entities" .
 
 <http://example.org/0798> a skos:Concept ;
+    skos:altLabel "negation",
+        "non-existence" ;
     skos:notation "AGLG" ;
-    skos:prefLabel "Non-being, non-existence, negation" .
+    skos:prefLabel "Non-being" .
 
 <http://example.org/0799> a skos:Concept ;
     skos:notation "AGLH" ;
@@ -3214,8 +3247,9 @@
     skos:prefLabel "Nature of universe ]IT" .
 
 <http://example.org/0815> a skos:Concept ;
+    skos:altLabel "cosmogony" ;
     skos:notation "AGMT" ;
-    skos:prefLabel "Origin of universe, cosmogony" .
+    skos:prefLabel "Origin of universe" .
 
 <http://example.org/0816> a skos:Concept ;
     skos:notation "AGMV" ;
@@ -3250,8 +3284,9 @@
     skos:prefLabel "Bifurcation of nature" .
 
 <http://example.org/0824> a skos:Concept ;
+    skos:altLabel "philosophy of life -" ;
     skos:notation "AGNW" ;
-    skos:prefLabel "Life, philosophy of life -" .
+    skos:prefLabel "Life" .
 
 <http://example.org/0825> a skos:Concept ;
     skos:notation "AGNX" ;
@@ -3274,8 +3309,9 @@
     skos:prefLabel "Time" .
 
 <http://example.org/0830> a skos:Concept ;
+    skos:altLabel "simultaneity" ;
     skos:notation "AGPS" ;
-    skos:prefLabel "Duration, simultaneity" .
+    skos:prefLabel "Duration" .
 
 <http://example.org/0831> a skos:Concept ;
     skos:notation "AGPT" ;
@@ -3309,8 +3345,9 @@
     skos:prefLabel "The infinite" .
 
 <http://example.org/0839> a skos:Concept ;
+    skos:altLabel "causality" ;
     skos:notation "AGQD" ;
-    skos:prefLabel "Causation, causality" .
+    skos:prefLabel "Causation" .
 
 <http://example.org/0840> a skos:Concept ;
     skos:notation "AGQF" ;
@@ -3408,12 +3445,14 @@
     skos:prefLabel "Epistemic logic" .
 
 <http://example.org/0864> a skos:Concept ;
+    skos:altLabel "origins of knowledge" ;
     skos:notation "AGSL" ;
-    skos:prefLabel "Sources of knowledge, origins of knowledge" .
+    skos:prefLabel "Sources of knowledge" .
 
 <http://example.org/0865> a skos:Concept ;
+    skos:altLabel "sense perception -" ;
     skos:notation "AGSM" ;
-    skos:prefLabel "Perception, sense perception -" .
+    skos:prefLabel "Perception" .
 
 <http://example.org/0866> a skos:Concept ;
     skos:notation "AGSMBA" ;
@@ -3436,8 +3475,9 @@
     skos:prefLabel "Causal theory of perception" .
 
 <http://example.org/0871> a skos:Concept ;
+    skos:altLabel "sense experience" ;
     skos:notation "AGSN" ;
-    skos:prefLabel "Sensation, sense experience" .
+    skos:prefLabel "Sensation" .
 
 <http://example.org/0872> a skos:Concept ;
     skos:notation "AGSNJ" ;
@@ -3508,8 +3548,9 @@
     skos:prefLabel "Material objects" .
 
 <http://example.org/0889> a skos:Concept ;
+    skos:altLabel "intellect" ;
     skos:notation "AGSS" ;
-    skos:prefLabel "Reason, intellect" .
+    skos:prefLabel "Reason" .
 
 <http://example.org/0890> a skos:Concept ;
     skos:notation "AGSTB" ;
@@ -3620,12 +3661,15 @@
     skos:prefLabel "Objects of knowledge" .
 
 <http://example.org/0917> a skos:Concept ;
+    skos:altLabel "ways of knowing" ;
     skos:notation "AGU" ;
-    skos:prefLabel "Kinds of knowledge, ways of knowing" .
+    skos:prefLabel "Kinds of knowledge" .
 
 <http://example.org/0918> a skos:Concept ;
+    skos:altLabel "factual knowledge",
+        "knowing that" ;
     skos:notation "AGUJ" ;
-    skos:prefLabel "Propositional knowledge, factual knowledge, knowing that" .
+    skos:prefLabel "Propositional knowledge" .
 
 <http://example.org/0919> a skos:Concept ;
     skos:notation "AGUK" ;
@@ -3640,8 +3684,9 @@
     skos:prefLabel "A priori knowledge" .
 
 <http://example.org/0922> a skos:Concept ;
+    skos:altLabel "empirical knowledge" ;
     skos:notation "AGUN" ;
-    skos:prefLabel "A posteriori knowledge, empirical knowledge" .
+    skos:prefLabel "A posteriori knowledge" .
 
 <http://example.org/0923> a skos:Concept ;
     skos:notation "AGUP" ;
@@ -3656,16 +3701,19 @@
     skos:prefLabel "Synthetic a priori knowledge" .
 
 <http://example.org/0926> a skos:Concept ;
+    skos:altLabel "knowing how" ;
     skos:notation "AGUS" ;
-    skos:prefLabel "Practical knowledge, knowing how" .
+    skos:prefLabel "Practical knowledge" .
 
 <http://example.org/0927> a skos:Concept ;
     skos:notation "AGUT" ;
     skos:prefLabel "Knowledge by acquaintance" .
 
 <http://example.org/0928> a skos:Concept ;
+    skos:altLabel "direct awareness",
+        "immediate knowledge" ;
     skos:notation "AGUV" ;
-    skos:prefLabel "Direct knowledge, direct awareness, immediate knowledge" .
+    skos:prefLabel "Direct knowledge" .
 
 <http://example.org/0929> a skos:Concept ;
     skos:notation "AGUW" ;
@@ -3768,24 +3816,28 @@
     skos:prefLabel "Certainty" .
 
 <http://example.org/0954> a skos:Concept ;
+    skos:altLabel "doubt" ;
     skos:notation "AGVV" ;
-    skos:prefLabel "Uncertainty, doubt" .
+    skos:prefLabel "Uncertainty" .
 
 <http://example.org/0955> a skos:Concept ;
+    skos:altLabel "philosophical logic" ;
     skos:notation "AGW" ;
-    skos:prefLabel "Philosophy of language & logic, philosophical logic" .
+    skos:prefLabel "Philosophy of language & logic" .
 
 <http://example.org/0956> a skos:Concept ;
     skos:notation "AGXB" ;
     skos:prefLabel "Communication" .
 
 <http://example.org/0957> a skos:Concept ;
+    skos:altLabel "symbolic forms" ;
     skos:notation "AGXC" ;
-    skos:prefLabel "Symbolism, symbolic forms" .
+    skos:prefLabel "Symbolism" .
 
 <http://example.org/0958> a skos:Concept ;
+    skos:altLabel "philosophical semiotics" ;
     skos:notation "AGXD" ;
-    skos:prefLabel "Signs, philosophical semiotics" .
+    skos:prefLabel "Signs" .
 
 <http://example.org/0959> a skos:Concept ;
     skos:notation "AGXDX" ;
@@ -3828,8 +3880,9 @@
     skos:prefLabel "Categorical frameworks" .
 
 <http://example.org/0969> a skos:Concept ;
+    skos:altLabel "theory of meaning" ;
     skos:notation "AGXK" ;
-    skos:prefLabel "Philosophical semantics, theory of meaning" .
+    skos:prefLabel "Philosophical semantics" .
 
 <http://example.org/0970> a skos:Concept ;
     skos:notation "AGXL" ;
@@ -3872,24 +3925,28 @@
     skos:prefLabel "Ostensive definition" .
 
 <http://example.org/0980> a skos:Concept ;
+    skos:altLabel "denoting" ;
     skos:notation "AGXQE" ;
-    skos:prefLabel "Denotation, denoting" .
+    skos:prefLabel "Denotation" .
 
 <http://example.org/0981> a skos:Concept ;
     skos:notation "AGXQG" ;
     skos:prefLabel "Connotation" .
 
 <http://example.org/0982> a skos:Concept ;
+    skos:altLabel "intensionality" ;
     skos:notation "AGXQJ" ;
-    skos:prefLabel "Intension, intensionality" .
+    skos:prefLabel "Intension" .
 
 <http://example.org/0983> a skos:Concept ;
+    skos:altLabel "extensionality" ;
     skos:notation "AGXQM" ;
-    skos:prefLabel "Extension, extensionality" .
+    skos:prefLabel "Extension" .
 
 <http://example.org/0984> a skos:Concept ;
+    skos:altLabel "sentential meaning" ;
     skos:notation "AGXQP" ;
-    skos:prefLabel "Meaning of sentences, sentential meaning" .
+    skos:prefLabel "Meaning of sentences" .
 
 <http://example.org/0985> a skos:Concept ;
     skos:notation "AGXR" ;
@@ -3928,8 +3985,9 @@
     skos:prefLabel "Indefinite descriptions" .
 
 <http://example.org/0994> a skos:Concept ;
+    skos:altLabel "reference" ;
     skos:notation "AGXV" ;
-    skos:prefLabel "Referring, reference" .
+    skos:prefLabel "Referring" .
 
 <http://example.org/0995> a skos:Concept ;
     skos:notation "AGXVY" ;
@@ -3952,8 +4010,9 @@
     skos:prefLabel "Modality" .
 
 <http://example.org/1000> a skos:Concept ;
+    skos:altLabel "homonymy" ;
     skos:notation "AGYCM" ;
-    skos:prefLabel "Ambiguity, homonymy" .
+    skos:prefLabel "Ambiguity" .
 
 <http://example.org/1001> a skos:Concept ;
     skos:notation "AGYE" ;
@@ -3968,8 +4027,9 @@
     skos:prefLabel "Nonsense" .
 
 <http://example.org/1004> a skos:Concept ;
+    skos:altLabel "statements & sentences" ;
     skos:notation "AGYH" ;
-    skos:prefLabel "Propositions, statements & sentences" .
+    skos:prefLabel "Propositions" .
 
 <http://example.org/1005> a skos:Concept ;
     skos:notation "AGYJ" ;
@@ -4000,8 +4060,9 @@
     skos:prefLabel "Universal propositions" .
 
 <http://example.org/1012> a skos:Concept ;
+    skos:altLabel "assertions" ;
     skos:notation "AGYN" ;
-    skos:prefLabel "Statements, assertions" .
+    skos:prefLabel "Statements" .
 
 <http://example.org/1013> a skos:Concept ;
     skos:notation "AGYP" ;
@@ -4072,20 +4133,23 @@
     skos:prefLabel "Philosophy of linguistics" .
 
 <http://example.org/1030> a skos:Concept ;
+    skos:altLabel "philosophical psychology" ;
     skos:notation "AHD" ;
-    skos:prefLabel "Philosophy of mind & action, philosophical psychology" .
+    skos:prefLabel "Philosophy of mind & action" .
 
 <http://example.org/1031> a skos:Concept ;
     skos:notation "AHE" ;
     skos:prefLabel "Philosophy of mind" .
 
 <http://example.org/1032> a skos:Concept ;
+    skos:altLabel "man" ;
     skos:notation "AHEL" ;
-    skos:prefLabel "Human nature, man" .
+    skos:prefLabel "Human nature" .
 
 <http://example.org/1033> a skos:Concept ;
+    skos:altLabel "human beings" ;
     skos:notation "AHEN" ;
-    skos:prefLabel "Persons, human beings" .
+    skos:prefLabel "Persons" .
 
 <http://example.org/1034> a skos:Concept ;
     skos:notation "AHEP" ;
@@ -4128,12 +4192,14 @@
     skos:prefLabel "Rejection of mental acts" .
 
 <http://example.org/1044> a skos:Concept ;
+    skos:altLabel "mental processes" ;
     skos:notation "AHEV" ;
-    skos:prefLabel "Mental events, mental processes" .
+    skos:prefLabel "Mental events" .
 
 <http://example.org/1045> a skos:Concept ;
+    skos:altLabel "thinking" ;
     skos:notation "AHEW" ;
-    skos:prefLabel "Thought, thinking" .
+    skos:prefLabel "Thought" .
 
 <http://example.org/1046> a skos:Concept ;
     skos:notation "AHEX" ;
@@ -4152,8 +4218,9 @@
     skos:prefLabel "Pleasure" .
 
 <http://example.org/1050> a skos:Concept ;
+    skos:altLabel "suffering" ;
     skos:notation "AHEXS" ;
-    skos:prefLabel "Pain, suffering" .
+    skos:prefLabel "Pain" .
 
 <http://example.org/1051> a skos:Concept ;
     skos:notation "AHEY" ;
@@ -4228,8 +4295,9 @@
     skos:prefLabel "Philosophy of action" .
 
 <http://example.org/1069> a skos:Concept ;
+    skos:altLabel "human behaviour" ;
     skos:notation "AHGJ" ;
-    skos:prefLabel "Action, human behaviour" .
+    skos:prefLabel "Action" .
 
 <http://example.org/1070> a skos:Concept ;
     skos:notation "AHGK" ;
@@ -4280,8 +4348,9 @@
     skos:prefLabel "Freewill & determination" .
 
 <http://example.org/1082> a skos:Concept ;
+    skos:altLabel "freedom" ;
     skos:notation "AHHL" ;
-    skos:prefLabel "Freewill, freedom" .
+    skos:prefLabel "Freewill" .
 
 <http://example.org/1083> a skos:Concept ;
     skos:notation "AHHM" ;
@@ -4312,8 +4381,9 @@
     skos:prefLabel "Philosophy of psychology" .
 
 <http://example.org/1090> a skos:Concept ;
+    skos:altLabel "theory of value" ;
     skos:notation "AHJ" ;
-    skos:prefLabel "Axiology, theory of value" .
+    skos:prefLabel "Axiology" .
 
 <http://example.org/1091> a skos:Concept ;
     skos:notation "AHJJ" ;
@@ -4328,8 +4398,9 @@
     skos:prefLabel "Extrinsic value" .
 
 <http://example.org/1094> a skos:Concept ;
+    skos:altLabel "moral philosophy" ;
     skos:notation "AHK" ;
-    skos:prefLabel "Ethics, moral philosophy" .
+    skos:prefLabel "Ethics" .
 
 <http://example.org/1095> a skos:Concept ;
     skos:notation "AHKBA" ;
@@ -4340,8 +4411,10 @@
     skos:prefLabel "((Special to ethics))" .
 
 <http://example.org/1097> a skos:Concept ;
+    skos:altLabel "Hume's fork",
+        "is-ought relationship" ;
     skos:notation "AHKCVC" ;
-    skos:prefLabel "Naturalistic fallacy, Hume's fork, is-ought relationship" .
+    skos:prefLabel "Naturalistic fallacy" .
 
 <http://example.org/1098> a skos:Concept ;
     skos:notation "AHKCVE" ;
@@ -4403,8 +4476,10 @@
     skos:prefLabel "Moral values & principles & rules" .
 
 <http://example.org/1113> a skos:Concept ;
+    skos:altLabel "ideas",
+        "notions" ;
     skos:notation "AHLO" ;
-    skos:prefLabel "Moral concepts, ideas, notions" .
+    skos:prefLabel "Moral concepts" .
 
 <http://example.org/1114> a skos:Concept ;
     skos:notation "AHN" ;
@@ -4438,8 +4513,9 @@
     skos:prefLabel "Aesthetics" .
 
 <http://example.org/1122> a skos:Concept ;
+    skos:altLabel "theory of beauty -" ;
     skos:notation "AHPL" ;
-    skos:prefLabel "Beauty, theory of beauty -" .
+    skos:prefLabel "Beauty" .
 
 <http://example.org/1123> a skos:Concept ;
     skos:notation "AHPN" ;
@@ -4534,8 +4610,9 @@
     skos:prefLabel "Good & evil" .
 
 <http://example.org/1146> a skos:Concept ;
+    skos:altLabel "Oriental philosophy" ;
     skos:notation "AI" ;
-    skos:prefLabel "Eastern philosophy, Oriental philosophy" .
+    skos:prefLabel "Eastern philosophy" .
 
 <http://example.org/1147> a skos:Concept ;
     skos:notation "AI9" ;
@@ -4732,8 +4809,9 @@
     skos:prefLabel "(Schools & traditions)" .
 
 <http://example.org/1196> a skos:Concept ;
+    skos:altLabel "Cabbalah" ;
     skos:notation "AIJPM" ;
-    skos:prefLabel "Kabbalah, Cabbalah" .
+    skos:prefLabel "Kabbalah" .
 
 <http://example.org/1197> a skos:Concept ;
     skos:notation "AIJPMI" ;
@@ -4758,19 +4836,23 @@
     skos:prefLabel "Book of beliefs & opinions" .
 
 <http://example.org/1203> a skos:Concept ;
+    skos:altLabel "Moses ben Maimon -" ;
     skos:notation "AIJPR" ;
-    skos:prefLabel "Maimonides, Moses ben Maimon -" .
+    skos:prefLabel "Maimonides" .
 
 <http://example.org/1204> a skos:Concept ;
     skos:prefLabel "Guide for the perplexed" .
 
 <http://example.org/1205> a skos:Concept ;
+    skos:altLabel "Avencebrol",
+        "Avicebron" ;
     skos:notation "AIJPS" ;
-    skos:prefLabel "Ibn Gabirol S -, Avicebron, Avencebrol" .
+    skos:prefLabel "Ibn Gabirol S -" .
 
 <http://example.org/1206> a skos:Concept ;
+    skos:altLabel "Ibn David -" ;
     skos:notation "AIJPT" ;
-    skos:prefLabel "Hallevi Y -, Ibn David -" .
+    skos:prefLabel "Hallevi Y -" .
 
 <http://example.org/1207> a skos:Concept ;
     skos:notation "AIJPV" ;
@@ -4796,8 +4878,9 @@
     skos:prefLabel "(Individual philosophers)" .
 
 <http://example.org/1213> a skos:Concept ;
+    skos:altLabel "Judah Abrabanel" ;
     skos:notation "AIJSP" ;
-    skos:prefLabel "Ebreo L -, Judah Abrabanel" .
+    skos:prefLabel "Ebreo L -" .
 
 <http://example.org/1214> a skos:Concept ;
     skos:notation "AIJSR" ;
@@ -4808,8 +4891,9 @@
     skos:prefLabel "Cohen H -" .
 
 <http://example.org/1216> a skos:Concept ;
+    skos:altLabel "Achad Haam -" ;
     skos:notation "AIJST" ;
-    skos:prefLabel "Ginzberg A -, Achad Haam -" .
+    skos:prefLabel "Ginzberg A -" .
 
 <http://example.org/1217> a skos:Concept ;
     skos:notation "AIJSU" ;
@@ -4824,8 +4908,10 @@
     skos:prefLabel "Others A/Z ]IT" .
 
 <http://example.org/1220> a skos:Concept ;
+    skos:altLabel "Arab philosophy",
+        "Muslim philosophy" ;
     skos:notation "AIK" ;
-    skos:prefLabel "Islamic philosophy, Arab philosophy, Muslim philosophy" .
+    skos:prefLabel "Islamic philosophy" .
 
 <http://example.org/1221> a skos:Concept ;
     skos:notation "AIKBA" ;
@@ -4866,12 +4952,15 @@
     skos:prefLabel ")Theodicy(" .
 
 <http://example.org/1231> a skos:Concept ;
+    skos:altLabel "Muslim Scholastic theology" ;
     skos:notation "AIKBCBOT" ;
-    skos:prefLabel "Kalam, Muslim Scholastic theology" .
+    skos:prefLabel "Kalam" .
 
 <http://example.org/1232> a skos:Concept ;
+    skos:altLabel "`isms')",
+        "standpoints" ;
     skos:notation "AIKCE" ;
-    skos:prefLabel "(Doctrines, standpoints, `isms')" .
+    skos:prefLabel "(Doctrines" .
 
 <http://example.org/1233> a skos:Concept ;
     skos:notation "AIKCOS" ;
@@ -4902,12 +4991,14 @@
     skos:prefLabel "Mu'tazilah school" .
 
 <http://example.org/1240> a skos:Concept ;
+    skos:altLabel "Islamic mysticism" ;
     skos:notation "AIKL" ;
-    skos:prefLabel "Sufism, Islamic mysticism" .
+    skos:prefLabel "Sufism" .
 
 <http://example.org/1241> a skos:Concept ;
+    skos:altLabel "Illuminationist school" ;
     skos:notation "AIKM" ;
-    skos:prefLabel "Ishraqi school, Illuminationist school" .
+    skos:prefLabel "Ishraqi school" .
 
 <http://example.org/1242> a skos:Concept ;
     skos:prefLabel "((Individual philosophers & works))" .
@@ -4917,8 +5008,10 @@
     skos:prefLabel "Al-Kindi Y -" .
 
 <http://example.org/1244> a skos:Concept ;
+    skos:altLabel "Abunaser",
+        "Alfarabius" ;
     skos:notation "AIKQ" ;
-    skos:prefLabel "Al-Farabi, Abunaser, Alfarabius" .
+    skos:prefLabel "Al-Farabi" .
 
 <http://example.org/1245> a skos:Concept ;
     skos:prefLabel "((Works))" .
@@ -4928,24 +5021,28 @@
     skos:prefLabel "Virtuous city -" .
 
 <http://example.org/1247> a skos:Concept ;
+    skos:altLabel "Ishwan al-Safari" ;
     skos:notation "AIKRE" ;
-    skos:prefLabel "Epistles of the Brethren of Purity, Ishwan al-Safari" .
+    skos:prefLabel "Epistles of the Brethren of Purity" .
 
 <http://example.org/1248> a skos:Concept ;
+    skos:altLabel "Rhazes" ;
     skos:notation "AIKRG" ;
-    skos:prefLabel "Al-Rasi, Rhazes" .
+    skos:prefLabel "Al-Rasi" .
 
 <http://example.org/1249> a skos:Concept ;
     skos:notation "AIKRJ" ;
     skos:prefLabel "Al-Ash'ari" .
 
 <http://example.org/1250> a skos:Concept ;
+    skos:altLabel "Ibn Sina" ;
     skos:notation "AIKRN" ;
-    skos:prefLabel "Avicenna, Ibn Sina" .
+    skos:prefLabel "Avicenna" .
 
 <http://example.org/1251> a skos:Concept ;
+    skos:altLabel "Algazel" ;
     skos:notation "AIKRP" ;
-    skos:prefLabel "Al-Ghazali A H M -, Algazel" .
+    skos:prefLabel "Al-Ghazali A H M -" .
 
 <http://example.org/1252> a skos:Concept ;
     skos:prefLabel "((Works))" .
@@ -4954,8 +5051,9 @@
     skos:prefLabel "Incoherence of the philosophers -" .
 
 <http://example.org/1254> a skos:Concept ;
+    skos:altLabel "Ibn Rushd -" ;
     skos:notation "AIKRR" ;
-    skos:prefLabel "Averroes, Ibn Rushd -" .
+    skos:prefLabel "Averroes" .
 
 <http://example.org/1255> a skos:Concept ;
     skos:notation "AIKS" ;
@@ -4985,16 +5083,19 @@
     skos:prefLabel "((Viewpoints reflecting methods of study & presentation & practice))" .
 
 <http://example.org/1262> a skos:Concept ;
+    skos:altLabel "exegesis" ;
     skos:notation "AIMBH" ;
-    skos:prefLabel "Hermeneutics, exegesis" .
+    skos:prefLabel "Hermeneutics" .
 
 <http://example.org/1263> a skos:Concept ;
+    skos:altLabel "bhasyas" ;
     skos:notation "AIMBJ" ;
-    skos:prefLabel "Commentaries, bhasyas" .
+    skos:prefLabel "Commentaries" .
 
 <http://example.org/1264> a skos:Concept ;
+    skos:altLabel "tikas" ;
     skos:notation "AIMBK" ;
-    skos:prefLabel "Subcommentaries, tikas" .
+    skos:prefLabel "Subcommentaries" .
 
 <http://example.org/1265> a skos:Concept ;
     skos:notation "AIMBM" ;
@@ -5028,32 +5129,41 @@
     skos:prefLabel "((Doctrines special to Indian & related philosophies))" .
 
 <http://example.org/1273> a skos:Concept ;
+    skos:altLabel "being & not-being",
+        "emptiness of phenomena" ;
     skos:notation "AIMDH" ;
-    skos:prefLabel "Sunyata, emptiness of phenomena, being & not-being" .
+    skos:prefLabel "Sunyata" .
 
 <http://example.org/1274> a skos:Concept ;
+    skos:altLabel "factors of existence" ;
     skos:notation "AIMDJ" ;
-    skos:prefLabel "Dharmas, factors of existence" .
+    skos:prefLabel "Dharmas" .
 
 <http://example.org/1275> a skos:Concept ;
+    skos:altLabel "categories of that-ness" ;
     skos:notation "AIMDK" ;
-    skos:prefLabel "Tattwas, categories of that-ness" .
+    skos:prefLabel "Tattwas" .
 
 <http://example.org/1276> a skos:Concept ;
+    skos:altLabel "Pradhana" ;
     skos:notation "AIMDL" ;
-    skos:prefLabel "Prakriti, Pradhana" .
+    skos:prefLabel "Prakriti" .
 
 <http://example.org/1277> a skos:Concept ;
+    skos:altLabel "pure consciousness" ;
     skos:notation "AIMDM" ;
-    skos:prefLabel "Purusha, pure consciousness" .
+    skos:prefLabel "Purusha" .
 
 <http://example.org/1278> a skos:Concept ;
+    skos:altLabel "Mahat",
+        "cosmic consciousness" ;
     skos:notation "AIMDN" ;
-    skos:prefLabel "Buddhi, Mahat, cosmic consciousness" .
+    skos:prefLabel "Buddhi" .
 
 <http://example.org/1279> a skos:Concept ;
+    skos:altLabel "senses" ;
     skos:notation "AIMDP" ;
-    skos:prefLabel "Ahamkara, senses" .
+    skos:prefLabel "Ahamkara" .
 
 <http://example.org/1280> a skos:Concept ;
     skos:notation "AIMDQ" ;
@@ -5076,32 +5186,39 @@
     skos:prefLabel "Other categories - A/Z ]IT" .
 
 <http://example.org/1285> a skos:Concept ;
+    skos:altLabel "Cakras" ;
     skos:notation "AIMEA" ;
-    skos:prefLabel "Chakras, Cakras" .
+    skos:prefLabel "Chakras" .
 
 <http://example.org/1286> a skos:Concept ;
+    skos:altLabel "Kundalini" ;
     skos:notation "AIMEB" ;
-    skos:prefLabel "Muladhara, Kundalini" .
+    skos:prefLabel "Muladhara" .
 
 <http://example.org/1287> a skos:Concept ;
+    skos:altLabel "Samadhi" ;
     skos:notation "AIMEC" ;
-    skos:prefLabel "Saharara, Samadhi" .
+    skos:prefLabel "Saharara" .
 
 <http://example.org/1288> a skos:Concept ;
     skos:notation "AIMED" ;
     skos:prefLabel "Avidya" .
 
 <http://example.org/1289> a skos:Concept ;
+    skos:altLabel "illusion" ;
     skos:notation "AIMEG" ;
-    skos:prefLabel "Maya, illusion" .
+    skos:prefLabel "Maya" .
 
 <http://example.org/1290> a skos:Concept ;
+    skos:altLabel "Podgala",
+        "Pudgala" ;
     skos:notation "AIMEH" ;
-    skos:prefLabel "Person, Podgala, Pudgala" .
+    skos:prefLabel "Person" .
 
 <http://example.org/1291> a skos:Concept ;
+    skos:altLabel "Selfconsciousness" ;
     skos:notation "AIMEJ" ;
-    skos:prefLabel "Ahankara, Selfconsciousness" .
+    skos:prefLabel "Ahankara" .
 
 <http://example.org/1292> a skos:Concept ;
     skos:notation "AIMEK" ;
@@ -5112,12 +5229,16 @@
     skos:prefLabel "Duhkha" .
 
 <http://example.org/1294> a skos:Concept ;
+    skos:altLabel "cycle of rebirth",
+        "reincarnation",
+        "transmigration" ;
     skos:notation "AIMEO" ;
-    skos:prefLabel "Samsara, cycle of rebirth, transmigration, reincarnation" .
+    skos:prefLabel "Samsara" .
 
 <http://example.org/1295> a skos:Concept ;
+    skos:altLabel "Moksa" ;
     skos:notation "AIMEQ" ;
-    skos:prefLabel "Liberation, Moksa" .
+    skos:prefLabel "Liberation" .
 
 <http://example.org/1296> a skos:Concept ;
     skos:notation "AIMES" ;
@@ -5207,8 +5328,9 @@
     skos:prefLabel "Vedanta" .
 
 <http://example.org/1318> a skos:Concept ;
+    skos:altLabel "non-dualistic Vedanta" ;
     skos:notation "AIOB" ;
-    skos:prefLabel "Advaita Vedanta, non-dualistic Vedanta" .
+    skos:prefLabel "Advaita Vedanta" .
 
 <http://example.org/1319> a skos:Concept ;
     skos:prefLabel "((Writers))" .
@@ -5256,8 +5378,9 @@
     skos:prefLabel "Virasaiva advaita" .
 
 <http://example.org/1331> a skos:Concept ;
+    skos:altLabel "Vaisnava" ;
     skos:notation "AIOC" ;
-    skos:prefLabel "Visistadvaita, Vaisnava" .
+    skos:prefLabel "Visistadvaita" .
 
 <http://example.org/1332> a skos:Concept ;
     skos:prefLabel "((Writers))" .
@@ -5423,8 +5546,9 @@
     skos:prefLabel "Kumarila" .
 
 <http://example.org/1376> a skos:Concept ;
+    skos:altLabel "Gurumata" ;
     skos:notation "AIOJP" ;
-    skos:prefLabel "Prabhakara Mimamsa, Gurumata" .
+    skos:prefLabel "Prabhakara Mimamsa" .
 
 <http://example.org/1377> a skos:Concept ;
     skos:notation "AIOK" ;
@@ -5434,8 +5558,9 @@
     skos:prefLabel "((Special doctrines))" .
 
 <http://example.org/1379> a skos:Concept ;
+    skos:altLabel "Categories(" ;
     skos:notation "AIOKDK" ;
-    skos:prefLabel ")Tattwas, Categories(" .
+    skos:prefLabel ")Tattwas" .
 
 <http://example.org/1380> a skos:Concept ;
     skos:notation "AIOKDL" ;
@@ -5534,8 +5659,9 @@
     skos:prefLabel "Sahaja yoga" .
 
 <http://example.org/1405> a skos:Concept ;
+    skos:altLabel "Gnana yoga" ;
     skos:notation "AIOU" ;
-    skos:prefLabel "Jnana yoga, Gnana yoga" .
+    skos:prefLabel "Jnana yoga" .
 
 <http://example.org/1406> a skos:Concept ;
     skos:notation "AIOV" ;
@@ -5546,8 +5672,9 @@
     skos:prefLabel "Karma yoga" .
 
 <http://example.org/1408> a skos:Concept ;
+    skos:altLabel "royal yoga" ;
     skos:notation "AIOX" ;
-    skos:prefLabel "Raja yoga, royal yoga" .
+    skos:prefLabel "Raja yoga" .
 
 <http://example.org/1409> a skos:Concept ;
     skos:notation "AIOY" ;
@@ -5573,8 +5700,9 @@
     skos:prefLabel "((Writers & works))" .
 
 <http://example.org/1415> a skos:Concept ;
+    skos:altLabel "Aksapada Gautama -" ;
     skos:notation "AIPCHAIG" ;
-    skos:prefLabel "Gautama, Aksapada Gautama -" .
+    skos:prefLabel "Gautama" .
 
 <http://example.org/1416> a skos:Concept ;
     skos:notation "AIPCHAIJ" ;
@@ -5616,8 +5744,9 @@
     skos:prefLabel "Theory of six categories" .
 
 <http://example.org/1426> a skos:Concept ;
+    skos:altLabel "eternal souls" ;
     skos:notation "AIPDDRJ" ;
-    skos:prefLabel "Jivas, eternal souls" .
+    skos:prefLabel "Jivas" .
 
 <http://example.org/1427> a skos:Concept ;
     skos:prefLabel "((Writers))" .
@@ -5704,11 +5833,13 @@
     skos:prefLabel "Nirvana" .
 
 <http://example.org/1449> a skos:Concept ;
-    skos:prefLabel "((Individual writers, persons))" .
+    skos:altLabel "persons))" ;
+    skos:prefLabel "((Individual writers" .
 
 <http://example.org/1450> a skos:Concept ;
+    skos:altLabel "Siddhartha Gauthama" ;
     skos:notation "AIQI" ;
-    skos:prefLabel "Buddha, Siddhartha Gauthama" .
+    skos:prefLabel "Buddha" .
 
 <http://example.org/1451> a skos:Concept ;
     skos:prefLabel "((Systems))" .
@@ -5797,8 +5928,9 @@
     skos:prefLabel "Others - A/Z ]IT" .
 
 <http://example.org/1474> a skos:Concept ;
+    skos:altLabel "Vijnanavada" ;
     skos:notation "AIY" ;
-    skos:prefLabel "Yogacara, Vijnanavada" .
+    skos:prefLabel "Yogacara" .
 
 <http://example.org/1475> a skos:Concept ;
     skos:prefLabel "((Writers))" .
@@ -5851,8 +5983,9 @@
     skos:prefLabel "Kunda-Kunda" .
 
 <http://example.org/1488> a skos:Concept ;
+    skos:altLabel "Carvaka" ;
     skos:notation "AJD" ;
-    skos:prefLabel "Indian materialism, Carvaka" .
+    skos:prefLabel "Indian materialism" .
 
 <http://example.org/1489> a skos:Concept ;
     skos:prefLabel "(Branches of philosophy)" .
@@ -5900,20 +6033,24 @@
     skos:prefLabel "T'ai-chin" .
 
 <http://example.org/1501> a skos:Concept ;
+    skos:altLabel "The Way" ;
     skos:notation "AJFDL" ;
-    skos:prefLabel "Tao, The Way" .
+    skos:prefLabel "Tao" .
 
 <http://example.org/1502> a skos:Concept ;
+    skos:altLabel "virtue" ;
     skos:notation "AJFDN" ;
-    skos:prefLabel "Te, virtue" .
+    skos:prefLabel "Te" .
 
 <http://example.org/1503> a skos:Concept ;
     skos:notation "AJFDP" ;
     skos:prefLabel "Jen" .
 
 <http://example.org/1504> a skos:Concept ;
+    skos:altLabel "Yi",
+        "righteousness" ;
     skos:notation "AJFDR" ;
-    skos:prefLabel "I, Yi, righteousness" .
+    skos:prefLabel "I" .
 
 <http://example.org/1505> a skos:Concept ;
     skos:notation "AJFDS" ;
@@ -5936,8 +6073,9 @@
     skos:prefLabel "T'ien" .
 
 <http://example.org/1510> a skos:Concept ;
+    skos:altLabel "Mandate of Heaven -" ;
     skos:notation "AJFED" ;
-    skos:prefLabel "T'ien Ming, Mandate of Heaven -" .
+    skos:prefLabel "T'ien Ming" .
 
 <http://example.org/1511> a skos:Concept ;
     skos:notation "AJFF" ;
@@ -5947,16 +6085,20 @@
     skos:prefLabel "((Classic works))" .
 
 <http://example.org/1513> a skos:Concept ;
+    skos:altLabel "Five classics" ;
     skos:notation "AJFJ" ;
-    skos:prefLabel "Wu ching, Five classics" .
+    skos:prefLabel "Wu ching" .
 
 <http://example.org/1514> a skos:Concept ;
+    skos:altLabel "Book of changes -",
+        "Classic of changes" ;
     skos:notation "AJFK" ;
-    skos:prefLabel "I Ching, Classic of changes, Book of changes -" .
+    skos:prefLabel "I Ching" .
 
 <http://example.org/1515> a skos:Concept ;
+    skos:altLabel "Classic of history -" ;
     skos:notation "AJFL" ;
-    skos:prefLabel "Shu ching, Classic of history -" .
+    skos:prefLabel "Shu ching" .
 
 <http://example.org/1516> a skos:Concept ;
     skos:notation "AJFM" ;
@@ -5982,8 +6124,9 @@
     skos:prefLabel "((Writers & works))" .
 
 <http://example.org/1522> a skos:Concept ;
+    skos:altLabel "Tao-te Ching -" ;
     skos:notation "AJHR" ;
-    skos:prefLabel "Lao-Tzu, Tao-te Ching -" .
+    skos:prefLabel "Lao-Tzu" .
 
 <http://example.org/1523> a skos:Concept ;
     skos:notation "AJHS" ;
@@ -6005,8 +6148,9 @@
     skos:prefLabel "Confucius" .
 
 <http://example.org/1528> a skos:Concept ;
+    skos:altLabel "Lun-yu" ;
     skos:notation "AJJS" ;
-    skos:prefLabel "Analects, Lun-yu" .
+    skos:prefLabel "Analects" .
 
 <http://example.org/1529> a skos:Concept ;
     skos:notation "AJJT" ;
@@ -6020,8 +6164,9 @@
     skos:prefLabel "Hsiao Ching -" .
 
 <http://example.org/1532> a skos:Concept ;
+    skos:altLabel "Meng-tzu" ;
     skos:notation "AJJV" ;
-    skos:prefLabel "Mencius, Meng-tzu" .
+    skos:prefLabel "Mencius" .
 
 <http://example.org/1533> a skos:Concept ;
     skos:notation "AJJWC" ;
@@ -6185,8 +6330,11 @@
     skos:prefLabel "Tradition of special significance to library ]IT" .
 
 <http://example.org/1575> a skos:Concept ;
+    skos:altLabel "Abstract science",
+        "Formal science",
+        "Scientia" ;
     skos:notation "AK" ;
-    skos:prefLabel "Science of science, Formal science, Abstract science, Scientia" .
+    skos:prefLabel "Science of science" .
 
 <http://example.org/1576> a skos:Concept ;
     skos:prefLabel ")Common subdivisions(" .
@@ -6210,8 +6358,9 @@
     skos:prefLabel "((By status)) Amateurs in science (Researchers)" .
 
 <http://example.org/1582> a skos:Concept ;
+    skos:altLabel "auxiliaries in science" ;
     skos:notation "AK4UM" ;
-    skos:prefLabel "Technicians in science, auxiliaries in science" .
+    skos:prefLabel "Technicians in science" .
 
 <http://example.org/1583> a skos:Concept ;
     skos:notation "AK5" ;
@@ -6248,12 +6397,15 @@
     skos:prefLabel "Signs & symbols in science" .
 
 <http://example.org/1592> a skos:Concept ;
+    skos:altLabel "notations" ;
     skos:notation "AK5MV" ;
-    skos:prefLabel "Codes, notations" .
+    skos:prefLabel "Codes" .
 
 <http://example.org/1593> a skos:Concept ;
+    skos:altLabel "nomenclature",
+        "terminology" ;
     skos:notation "AK5N" ;
-    skos:prefLabel "Language of science, terminology, nomenclature" .
+    skos:prefLabel "Language of science" .
 
 <http://example.org/1594> a skos:Concept ;
     skos:notation "AK5NN" ;
@@ -6264,8 +6416,9 @@
     skos:prefLabel "Data processing" .
 
 <http://example.org/1596> a skos:Concept ;
+    skos:altLabel "science writing" ;
     skos:notation "AK5QE" ;
-    skos:prefLabel "Authorship in science, science writing" .
+    skos:prefLabel "Authorship in science" .
 
 <http://example.org/1597> a skos:Concept ;
     skos:notation "AK5QG" ;
@@ -6280,35 +6433,41 @@
     skos:prefLabel "Illustration in science" .
 
 <http://example.org/1600> a skos:Concept ;
+    skos:altLabel "education and training in science(" ;
     skos:notation "AK6A" ;
-    skos:prefLabel ")Study, education and training in science(" .
+    skos:prefLabel ")Study" .
 
 <http://example.org/1601> a skos:Concept ;
     skos:notation "AK6C" ;
     skos:prefLabel ")Research(" .
 
 <http://example.org/1602> a skos:Concept ;
+    skos:altLabel "collections of objects(" ;
     skos:notation "AK6QT" ;
-    skos:prefLabel ")Exhibitions, collections of objects(" .
+    skos:prefLabel ")Exhibitions" .
 
 <http://example.org/1603> a skos:Concept ;
     skos:notation "AK6R" ;
     skos:prefLabel "((Science museums by place))" .
 
 <http://example.org/1604> a skos:Concept ;
+    skos:altLabel "mysteries in science(" ;
     skos:notation "AK6SV" ;
-    skos:prefLabel ")Curiosities, mysteries in science(" .
+    skos:prefLabel ")Curiosities" .
 
 <http://example.org/1605> a skos:Concept ;
     skos:prefLabel "Natural wonders of the world" .
 
 <http://example.org/1606> a skos:Concept ;
+    skos:altLabel "deceptions",
+        "hoaxes(" ;
     skos:notation "AK6SX" ;
-    skos:prefLabel ")Frauds, deceptions, hoaxes(" .
+    skos:prefLabel ")Frauds" .
 
 <http://example.org/1607> a skos:Concept ;
+    skos:altLabel "popular science(" ;
     skos:notation "AK6SY" ;
-    skos:prefLabel ")Recreations, popular science(" .
+    skos:prefLabel ")Recreations" .
 
 <http://example.org/1608> a skos:Concept ;
     skos:prefLabel ")Relations with other subjects(" .
@@ -6361,8 +6520,9 @@
     skos:prefLabel ")Europe other the Mediterranean(" .
 
 <http://example.org/1621> a skos:Concept ;
+    skos:altLabel "Medieval and Renaissance together (general)" ;
     skos:notation "AK8FA" ;
-    skos:prefLabel "Post-Ancient, Medieval and Renaissance together (general)" .
+    skos:prefLabel "Post-Ancient" .
 
 <http://example.org/1622> a skos:Concept ;
     skos:notation "AK8FB" ;
@@ -6389,8 +6549,9 @@
     skos:prefLabel ")20th century(" .
 
 <http://example.org/1628> a skos:Concept ;
+    skos:altLabel "futurology in science" ;
     skos:notation "AK8V" ;
-    skos:prefLabel "Scientific trends, futurology in science" .
+    skos:prefLabel "Scientific trends" .
 
 <http://example.org/1629> a skos:Concept ;
     skos:notation "AK92" ;
@@ -6405,8 +6566,9 @@
     skos:prefLabel ")Individuals - A/Z(" .
 
 <http://example.org/1632> a skos:Concept ;
+    skos:altLabel "science and society" ;
     skos:notation "AK9A" ;
-    skos:prefLabel "Social aspects of science, science and society" .
+    skos:prefLabel "Social aspects of science" .
 
 <http://example.org/1633> a skos:Concept ;
     skos:notation "AK9EF" ;
@@ -6432,8 +6594,9 @@
     skos:prefLabel "Planning and development in science" .
 
 <http://example.org/1639> a skos:Concept ;
+    skos:altLabel "science system" ;
     skos:notation "AK9KA" ;
-    skos:prefLabel "Social system of science, science system" .
+    skos:prefLabel "Social system of science" .
 
 <http://example.org/1640> a skos:Concept ;
     skos:notation "AK9KBV" ;
@@ -6481,8 +6644,9 @@
     skos:prefLabel ")Informal structures( Invisible colleges" .
 
 <http://example.org/1652> a skos:Concept ;
+    skos:altLabel "folklore & mythology(" ;
     skos:notation "AK9KW" ;
-    skos:prefLabel ")Custom, folklore & mythology(" .
+    skos:prefLabel ")Custom" .
 
 <http://example.org/1653> a skos:Concept ;
     skos:notation "AK9L" ;
@@ -6516,16 +6680,19 @@
     skos:prefLabel "Autonomy of science" .
 
 <http://example.org/1662> a skos:Concept ;
+    skos:altLabel "limits of science" ;
     skos:notation "AKAF" ;
-    skos:prefLabel "Scientific constraints, limits of science" .
+    skos:prefLabel "Scientific constraints" .
 
 <http://example.org/1663> a skos:Concept ;
     skos:notation "AKAG" ;
     skos:prefLabel "Scientific criteria" .
 
 <http://example.org/1664> a skos:Concept ;
+    skos:altLabel "aesthetics of science",
+        "intuition in science" ;
     skos:notation "AKAI" ;
-    skos:prefLabel "Imagination in science, intuition in science, aesthetics of science" .
+    skos:prefLabel "Imagination in science" .
 
 <http://example.org/1665> a skos:Concept ;
     skos:notation "AKB" ;
@@ -6559,19 +6726,22 @@
     skos:prefLabel "Scientific revolutions" .
 
 <http://example.org/1673> a skos:Concept ;
+    skos:altLabel "laws of nature" ;
     skos:notation "AKR" ;
-    skos:prefLabel "Scientific laws, laws of nature" .
+    skos:prefLabel "Scientific laws" .
 
 <http://example.org/1674> a skos:Concept ;
     skos:notation "AKRN" ;
     skos:prefLabel "Causation in scientific explanation" .
 
 <http://example.org/1675> a skos:Concept ;
-    skos:prefLabel "(Phenomena studied, objects of scientific enquiry)" .
+    skos:altLabel "objects of scientific enquiry)" ;
+    skos:prefLabel "(Phenomena studied" .
 
 <http://example.org/1676> a skos:Concept ;
+    skos:altLabel "Formal logic" ;
     skos:notation "AL" ;
-    skos:prefLabel "Logic, Formal logic" .
+    skos:prefLabel "Logic" .
 
 <http://example.org/1677> a skos:Concept ;
     skos:notation "AL2" ;
@@ -6594,8 +6764,9 @@
     skos:prefLabel ")Study & education in logic(" .
 
 <http://example.org/1682> a skos:Concept ;
+    skos:altLabel "relations with other subjects)" ;
     skos:notation "AL26T" ;
-    skos:prefLabel "(Phase relations, relations with other subjects)" .
+    skos:prefLabel "(Phase relations" .
 
 <http://example.org/1683> a skos:Concept ;
     skos:notation "AL27" ;
@@ -6631,12 +6802,14 @@
     skos:prefLabel "Leibnitz & logic" .
 
 <http://example.org/1692> a skos:Concept ;
+    skos:altLabel "Eastern logic" ;
     skos:notation "AL2X" ;
-    skos:prefLabel "Oriental logic, Eastern logic" .
+    skos:prefLabel "Oriental logic" .
 
 <http://example.org/1693> a skos:Concept ;
+    skos:altLabel "individual logicians( ]IT" ;
     skos:notation "AL32" ;
-    skos:prefLabel ")Biography, individual logicians( ]IT" .
+    skos:prefLabel ")Biography" .
 
 <http://example.org/1694> a skos:Concept ;
     skos:notation "AL33" ;
@@ -6663,8 +6836,9 @@
     skos:prefLabel "((From viewpoint of a particular logician or philosopher))" .
 
 <http://example.org/1700> a skos:Concept ;
+    skos:altLabel "etc))" ;
     skos:notation "AL33BF" ;
-    skos:prefLabel "((From viewpoint of a particular doctrine, etc))" .
+    skos:prefLabel "((From viewpoint of a particular doctrine" .
 
 <http://example.org/1701> a skos:Concept ;
     skos:notation "AL33CA" ;
@@ -6682,15 +6856,17 @@
     skos:prefLabel "<Metaphilosophy>" .
 
 <http://example.org/1705> a skos:Concept ;
+    skos:altLabel "logical theory" ;
     skos:notation "AL33FD" ;
-    skos:prefLabel "Philosophy of logic (narrowly), logical theory" .
+    skos:prefLabel "Philosophy of logic (narrowly)" .
 
 <http://example.org/1706> a skos:Concept ;
     skos:prefLabel "(Relations with other subjects)" .
 
 <http://example.org/1707> a skos:Concept ;
+    skos:altLabel "informal logic" ;
     skos:notation "AL33FX" ;
-    skos:prefLabel "Natural language & logic, informal logic" .
+    skos:prefLabel "Natural language & logic" .
 
 <http://example.org/1708> a skos:Concept ;
     skos:notation "AL33G" ;
@@ -6773,8 +6949,9 @@
     skos:prefLabel ")Names(" .
 
 <http://example.org/1729> a skos:Concept ;
+    skos:altLabel "reference(" ;
     skos:notation "AL33GWW" ;
-    skos:prefLabel ")Referring, reference(" .
+    skos:prefLabel ")Referring" .
 
 <http://example.org/1730> a skos:Concept ;
     skos:notation "AL33GXE" ;
@@ -6897,12 +7074,14 @@
     skos:prefLabel "(Systems of logic)" .
 
 <http://example.org/1761> a skos:Concept ;
+    skos:altLabel "traditional logic (general)" ;
     skos:notation "AL9X" ;
-    skos:prefLabel "Classical logic (general), traditional logic (general)" .
+    skos:prefLabel "Classical logic (general)" .
 
 <http://example.org/1762> a skos:Concept ;
+    skos:altLabel "Modern logic (general)" ;
     skos:notation "AL9Y" ;
-    skos:prefLabel "Symbolic logic (general), Modern logic (general)" .
+    skos:prefLabel "Symbolic logic (general)" .
 
 <http://example.org/1763> a skos:Concept ;
     skos:notation "ALA" ;
@@ -7016,23 +7195,26 @@
     skos:prefLabel "(Logical operations)" .
 
 <http://example.org/1792> a skos:Concept ;
+    skos:altLabel "argument" ;
     skos:notation "ALD" ;
-    skos:prefLabel "Reasoning, argument" .
+    skos:prefLabel "Reasoning" .
 
 <http://example.org/1793> a skos:Concept ;
     skos:prefLabel "(Elements)" .
 
 <http://example.org/1794> a skos:Concept ;
+    skos:altLabel "sources of error" ;
     skos:notation "ALDF" ;
-    skos:prefLabel "Fallacies, sources of error" .
+    skos:prefLabel "Fallacies" .
 
 <http://example.org/1795> a skos:Concept ;
     skos:notation "ALDG" ;
     skos:prefLabel "Formal fallacies" .
 
 <http://example.org/1796> a skos:Concept ;
+    skos:altLabel "fallacies of ambiguity" ;
     skos:notation "ALDH" ;
-    skos:prefLabel "Verbal fallacies, fallacies of ambiguity" .
+    skos:prefLabel "Verbal fallacies" .
 
 <http://example.org/1797> a skos:Concept ;
     skos:notation "ALDJ" ;
@@ -7066,8 +7248,9 @@
     skos:prefLabel "Socratic method" .
 
 <http://example.org/1805> a skos:Concept ;
+    skos:altLabel "likeness" ;
     skos:notation "ALDV" ;
-    skos:prefLabel "Analogy, likeness" .
+    skos:prefLabel "Analogy" .
 
 <http://example.org/1806> a skos:Concept ;
     skos:notation "ALEB" ;
@@ -7082,16 +7265,18 @@
     skos:prefLabel "Formalization" .
 
 <http://example.org/1809> a skos:Concept ;
+    skos:altLabel "entailment" ;
     skos:notation "ALEH" ;
-    skos:prefLabel "Implication, entailment" .
+    skos:prefLabel "Implication" .
 
 <http://example.org/1810> a skos:Concept ;
     skos:notation "ALEN" ;
     skos:prefLabel "Inference" .
 
 <http://example.org/1811> a skos:Concept ;
+    skos:altLabel "postulational method" ;
     skos:notation "ALF" ;
-    skos:prefLabel "Axiomatics, postulational method" .
+    skos:prefLabel "Axiomatics" .
 
 <http://example.org/1812> a skos:Concept ;
     skos:notation "ALF3E" ;
@@ -7109,8 +7294,9 @@
     skos:prefLabel "Derivable formulae" .
 
 <http://example.org/1816> a skos:Concept ;
+    skos:altLabel "WFF" ;
     skos:notation "ALF3HL" ;
-    skos:prefLabel "Well-formed formulae, WFF" .
+    skos:prefLabel "Well-formed formulae" .
 
 <http://example.org/1817> a skos:Concept ;
     skos:notation "ALFH" ;
@@ -7133,8 +7319,9 @@
     skos:prefLabel ")Semantics( ]IT" .
 
 <http://example.org/1822> a skos:Concept ;
+    skos:altLabel "solution (general)" ;
     skos:notation "ALFV" ;
-    skos:prefLabel "Problem solving (general), solution (general)" .
+    skos:prefLabel "Problem solving (general)" .
 
 <http://example.org/1823> a skos:Concept ;
     skos:notation "ALG" ;
@@ -7210,20 +7397,24 @@
     skos:prefLabel "Quantifiers" .
 
 <http://example.org/1842> a skos:Concept ;
+    skos:altLabel "expressions" ;
     skos:notation "ALKR" ;
-    skos:prefLabel "Terms, expressions" .
+    skos:prefLabel "Terms" .
 
 <http://example.org/1843> a skos:Concept ;
+    skos:altLabel "connotation" ;
     skos:notation "ALKS" ;
-    skos:prefLabel "Intension, connotation" .
+    skos:prefLabel "Intension" .
 
 <http://example.org/1844> a skos:Concept ;
+    skos:altLabel "denotation" ;
     skos:notation "ALKT" ;
-    skos:prefLabel "Extension, denotation" .
+    skos:prefLabel "Extension" .
 
 <http://example.org/1845> a skos:Concept ;
+    skos:altLabel "descriptions" ;
     skos:notation "ALKV" ;
-    skos:prefLabel "Denoting phrases, descriptions" .
+    skos:prefLabel "Denoting phrases" .
 
 <http://example.org/1846> a skos:Concept ;
     skos:notation "ALKW" ;
@@ -7237,12 +7428,14 @@
     skos:prefLabel "(Types of propositions)" .
 
 <http://example.org/1849> a skos:Concept ;
+    skos:altLabel "judgements" ;
     skos:notation "ALL" ;
-    skos:prefLabel "Propositions (narrowly), judgements" .
+    skos:prefLabel "Propositions (narrowly)" .
 
 <http://example.org/1850> a skos:Concept ;
+    skos:altLabel "categorical propositions" ;
     skos:notation "ALLM" ;
-    skos:prefLabel "Simple propositions, categorical propositions" .
+    skos:prefLabel "Simple propositions" .
 
 <http://example.org/1851> a skos:Concept ;
     skos:notation "ALLN" ;
@@ -7261,16 +7454,19 @@
     skos:prefLabel "Compound propositions" .
 
 <http://example.org/1855> a skos:Concept ;
+    skos:altLabel "hypothetical propositions",
+        "implicative propositions" ;
     skos:notation "ALLR" ;
-    skos:prefLabel "Conditional propositions, hypothetical propositions, implicative propositions" .
+    skos:prefLabel "Conditional propositions" .
 
 <http://example.org/1856> a skos:Concept ;
     skos:notation "ALLS" ;
     skos:prefLabel "Counterfactuals" .
 
 <http://example.org/1857> a skos:Concept ;
+    skos:altLabel "alternative propositions" ;
     skos:notation "ALLU" ;
-    skos:prefLabel "Distinctive propositions, alternative propositions" .
+    skos:prefLabel "Distinctive propositions" .
 
 <http://example.org/1858> a skos:Concept ;
     skos:notation "ALLV" ;
@@ -7281,8 +7477,9 @@
     skos:prefLabel "Truth function propositions 11 * For basic or atomic or molecular propositions see Philosophical logic AHS K" .
 
 <http://example.org/1860> a skos:Concept ;
+    skos:altLabel "assertions" ;
     skos:notation "ALME" ;
-    skos:prefLabel "Statements, assertions" .
+    skos:prefLabel "Statements" .
 
 <http://example.org/1861> a skos:Concept ;
     skos:notation "ALMG" ;
@@ -7363,92 +7560,105 @@
 
 <http://example.org/1881> a skos:Concept ;
     skos:notation "ALOT3C" ;
-    skos:prefLabel ")Theory of types( 09 * For proofs, proof-theory (applies mainly to mathematical logic) see AM4 P 09 * For models, model theory (applies mainly to mathematical logic) see AM4 Q" .
+    skos:prefLabel ")Theory of types(" .
 
 <http://example.org/1882> a skos:Concept ;
-    skos:notation "ALT" ;
-    skos:prefLabel "Inductive logic, empirical logic" .
+    skos:altLabel "proof-theory (applies mainly to mathematical logic) see AM4 P" ;
+    skos:prefLabel " * For proofs" .
 
 <http://example.org/1883> a skos:Concept ;
+    skos:altLabel "model theory (applies mainly to mathematical logic) see AM4 Q" ;
+    skos:prefLabel " * For models" .
+
+<http://example.org/1884> a skos:Concept ;
+    skos:altLabel "empirical logic" ;
+    skos:notation "ALT" ;
+    skos:prefLabel "Inductive logic" .
+
+<http://example.org/1885> a skos:Concept ;
     skos:notation "ALT3B" ;
     skos:prefLabel ")Hypotheses(" .
 
-<http://example.org/1884> a skos:Concept ;
+<http://example.org/1886> a skos:Concept ;
     skos:notation "ALTCP" ;
     skos:prefLabel "Prediction" .
 
-<http://example.org/1885> a skos:Concept ;
+<http://example.org/1887> a skos:Concept ;
     skos:notation "ALTEN" ;
     skos:prefLabel ")Inference(" .
 
-<http://example.org/1886> a skos:Concept ;
+<http://example.org/1888> a skos:Concept ;
     skos:prefLabel "((Other forms of argument))" .
 
-<http://example.org/1887> a skos:Concept ;
+<http://example.org/1889> a skos:Concept ;
     skos:notation "ALU" ;
     skos:prefLabel "Mathematical logic ]IT" .
 
-<http://example.org/1888> a skos:Concept ;
+<http://example.org/1890> a skos:Concept ;
+    skos:altLabel "logic of necessity & probability" ;
     skos:notation "ALV" ;
-    skos:prefLabel "Modal logic, logic of necessity & probability" .
+    skos:prefLabel "Modal logic" .
 
-<http://example.org/1889> a skos:Concept ;
+<http://example.org/1891> a skos:Concept ;
     skos:notation "ALVBK" ;
     skos:prefLabel ")Modalities(" .
 
-<http://example.org/1890> a skos:Concept ;
+<http://example.org/1892> a skos:Concept ;
     skos:notation "ALVBL" ;
     skos:prefLabel "Alethic modality" .
 
-<http://example.org/1891> a skos:Concept ;
+<http://example.org/1893> a skos:Concept ;
     skos:notation "ALVBM" ;
     skos:prefLabel "Sense modality" .
 
-<http://example.org/1892> a skos:Concept ;
+<http://example.org/1894> a skos:Concept ;
     skos:notation "ALVBN" ;
     skos:prefLabel "De dicto & de re" .
 
-<http://example.org/1893> a skos:Concept ;
+<http://example.org/1895> a skos:Concept ;
     skos:notation "ALVV" ;
     skos:prefLabel "Tense logic" .
 
-<http://example.org/1894> a skos:Concept ;
+<http://example.org/1896> a skos:Concept ;
     skos:notation "ALVW" ;
     skos:prefLabel "Problematic mode" .
 
-<http://example.org/1895> a skos:Concept ;
+<http://example.org/1897> a skos:Concept ;
     skos:notation "ALVX" ;
     skos:prefLabel "Temporal mode" .
 
-<http://example.org/1896> a skos:Concept ;
+<http://example.org/1898> a skos:Concept ;
+    skos:altLabel "logic of parts & wholes" ;
     skos:notation "ALWE" ;
-    skos:prefLabel "Mereology, logic of parts & wholes" .
+    skos:prefLabel "Mereology" .
 
-<http://example.org/1897> a skos:Concept ;
+<http://example.org/1899> a skos:Concept ;
     skos:notation "ALWH" ;
     skos:prefLabel "Practical logic" .
 
-<http://example.org/1898> a skos:Concept ;
+<http://example.org/1900> a skos:Concept ;
+    skos:altLabel "logic of norms" ;
     skos:notation "ALWJ" ;
-    skos:prefLabel "Deontic logic, logic of norms" .
+    skos:prefLabel "Deontic logic" .
 
-<http://example.org/1899> a skos:Concept ;
+<http://example.org/1901> a skos:Concept ;
     skos:notation "ALWJBK" ;
     skos:prefLabel ")Deonitic modalities(" .
 
-<http://example.org/1900> a skos:Concept ;
+<http://example.org/1902> a skos:Concept ;
     skos:notation "ALWJU" ;
     skos:prefLabel "Logic of permission" .
 
-<http://example.org/1901> a skos:Concept ;
+<http://example.org/1903> a skos:Concept ;
+    skos:altLabel "logic of imperatives" ;
     skos:notation "ALWJV" ;
-    skos:prefLabel "Logic of command, logic of imperatives" .
+    skos:prefLabel "Logic of command" .
 
-<http://example.org/1902> a skos:Concept ;
+<http://example.org/1904> a skos:Concept ;
     skos:notation "ALWJW" ;
     skos:prefLabel "Logic of questions" .
 
-<http://example.org/1903> a skos:Concept ;
+<http://example.org/1905> a skos:Concept ;
     skos:notation "ALWJX" ;
     skos:prefLabel "Prohairetic logic" .
 
