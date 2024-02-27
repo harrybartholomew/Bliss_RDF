@@ -60,3 +60,3135 @@ AA6X            04)Influence on other subjects(
                          and Oriental are treated simply like
                          historical schools is given at AA7.
 AA7             03History of philosophy in general
+                     *   Period divisions only. For history of
+                         philosophy in particular places, see Western
+                         philosophy (AB) & Oriental philosophy (AI).
+                     *   Add to AA7 letters A/V from Auxiliary Schedule
+                         4B - e.g. epistemology in the 20th century
+                         (i.e. covering both Western & Oriental
+                         studies) AAG R7R.
+                     *   Alternative (not recommended) for libraries
+                         wishing to cite Branches & Viewpoints before
+                         broad traditions and historical `schools'. If
+                         this option is taken, assign notation as
+                         follows:
+                     *   | AA7 Periods
+                     *   | . . . . . * Add to AA7 as above from
+                         Schedule 4B.
+                     *   | AA8 . . Western philosophy in general
+                     *   | . . . . . . * Instead of AB.
+                     *   | AA9 . . . By place
+                     *   | . . . . . . . * Instead of ADA.
+                     *   | . . . . . . . * Add to AA9 letters D/Z from
+                     *   | . . . . . . . Schedule 2.
+                     *   | AAB . . . By broad period & place
+                     *   | . . . . . . . * Instead of ADB/ADX.
+                     *   | . . . . . . . * Add to AA letters B/X
+                         following AD
+                     *   | . . . . . . . - e.g. AAR Renaissance.
+                     *   | AAY . . . Individual Western philosophers
+                         A/Z
+                     *   | . . . . . . . * Instead of alternative at
+                         AE.
+                     *   | AB . . Eastern philosophy
+                     *   | . . . . . . * Instead of AI/AJ.
+                     *   | . . . . . . * Add to AB letters A/Y
+                         following AI.
+                     *   | . . . . . . * Add to AC letters A/W
+                         following AJ.
+                     *   | ACX . Biography
+                     *   | . . . . . * Instead of AA8.
+                     *   | ACY . Metaphilosophy as qualifier
+                     *   | . . . . . * Instead of AA9.
+                     *   | AD . Viewpoints & schools
+                     *   | . . . . . * Instead of AAA/AAC.
+                     *   | . . . . . * Add to AD letters A/V following
+                         AB.
+                     *   | . . . . . * Add to AE letters A/Y following
+                         AC, e.g.
+                     *   | . . . . . Rationalism AEG.
+                     *   | AF . Branches
+                     *   | . . . . . * Instead of AAF/AAH.
+                     *   | . . . . . * Add to AF letters A/Y following
+                         AF
+                     *   | . . . . . * Add to AG letters A/Y following
+                         AG
+                     *   | . . . . . * Add to AH letters A/Y following
+                         AH
+                     *   | * Examples of retroactive synthesis:
+                     *   | Epistemology in Indian philosophy AGR BM,
+                     *   | Rationalism in Renaissance philosophy AEG
+                         AAR.
+AA83            03Biography of philosophers
+AA84            04Collective biography ]IT
+AA8A            04Individual philosophers - A/Z ]IT
+                     *   Alternative (not recommended) for libraries
+                         wishing to keep all individuals in one simple
+                         A/Z file, rather than subordinating them to
+                         period & place, e.g. at AD. Other alternatives
+                         for A/Z arrangements will be found under
+                         Western & under Oriental philosophy (at AB8,
+                         AE and AI8).
+                     *   Add to AA8 the first three letters of the name
+                         of each philosopher, e.g. AA8 KAN for KANT.
+                     *   For subdivision of an individual philosopher's
+                         works see Auxiliary Schedule AA2.
+AA9             03)Metaphilosophy as qualifier(
+                     *   Use this position only when qualifying
+                         concepts in AAB/AAE - i.e. when a particular
+                         viewpoint or doctrine is itself subject to
+                         metaphilosophical enquiry & when it covers
+                         both Western & Oriental traditions.
+                     *   Add to -9 letters D/X following AF - e.g.
+                         metaphilosophy of rationalism AAC G9D.
+AAA             03(Viewpoints & schools in general philosophy)
+                     **  Facet.
+                     **  Made lowercase italic - Colin Sept.
+                     *   Doctrines, standpoints, systems & methods. For
+                         a fuller explanation of this facet, see notes
+                         under Western philosophy at ABA.
+                     *   General studies only, embracing both Western &
+                         Oriental traditions.
+@               04Studies of general philosophy from particular
+                           viewpoints
+                     *   Read carefully the second note under ABA for
+                         an explanation of the role of these viewpoints
+                         (AAB B/AAB V). Their applicability to general
+                         philosophy is likely to be relatively rare.
+                     *   The notes under the particular viewpoints at
+                         ABB/ABV give further guidance to their
+                         application.
+AABB            04((From the viewpoint of a broad philosophical
+                           tradition))
+                     *   Add to AAB B letters B/J following A in AB/AJ.
+AABC            04((From the viewpoint of a religious belief))
+                     **  Subfacet
+                     *   Add to AAB C letters G/V following P in PG/PV
+                         - e.g. World philosophy from Jewish viewpoint
+                         AAB_CL.
+AABD            04((From the viewpoint derived from a particular
+                           philosopher)) ]IT
+                     *   It is most unlikely that this classmark will
+                         ever be used, since individual philosophers
+                         are invariably associated with one of the
+                         broad traditions. See ABB (Western viewpoint)
+                         & AIB B (Oriental viewpoints).
+AABF            04((From the viewpoint of a particular doctrine))
+                     *   Add to AAB letters F/V following AC.
+AAC             04Studies about particular viewpoints in general
+                           philosophy ]IT
+                     *   Class here only studies which embrace both
+                         Western and Oriental traditions.
+AACC            05About the viewpoint of a religious belief ]IT
+                     *   Add to AAC C letters G/V following P in PG/PV.
+                     *   It is unlikely that this classmark will often
+                         be used, since particular religions are
+                         invariably associated with one of the broad
+                         traditions.
+AACD            05About the viewpoint derived from a particular
+                           philosopher ]IT
+                     *   It is most unlikely that this classmark will
+                         ever be used, since individual philosophers
+                         are invariably associated with one of the
+                         broad traditions.
+AACE            05Doctrines, standpoints, 'isms' in general philosophy ]
+                     *   Add to AAC letters F/V following AC.
+                     *   A selection of the major doctrines is given
+                         here for convenience, and to indicate the
+                         scope of this class.
+AACG            06Rationalism
+AACH            06Empiricism
+AACJD           06Pragmatism
+AACJV           06Naturalism
+AACN            06Idealism
+AACPD           06Pantheism
+AACQ            06Optimism & pessimism
+AACRD           06Scepticism
+AACRL           06Monism & pluralism
+AACSE           06Eclecticism
+AACTJ           06Phenomenology
+AACU            06Analytical philosophy
+AACUN           07Linguistic philosophy
+@               04(Historical schools of philosophy)
+                     **  Facet
+                     *   These are defined by period & place and are
+                         therefore only found within a particular broad
+                         tradition. See AD Western philosophy & AI
+                         Oriental philosophy.
+AAF             03(Branches & fields & subjects in general philosophy)
+                     **  Facet.
+                     *   General studies only, embracing both Western &
+                         Oriental traditions.
+                     *   Add to AA letters F/H following A in AF/AH.
+                     *   A selection of the major branches is given
+                         here for convenience & to show the scope of
+                         this class.
+AAFB            04Comprehensive works on branches of philosophy
+                     *   Very little, if anything, will locate here.
+                     *   See explanatory notes & examples at AG.
+AAFD            04Metaphilosophy
+                     *   General studies only; see notes at AAF.
+AAGG            04Metaphysics
+AAGH            05Ontology
+AAGM            05Cosmology
+AAGQ            05Special topics in metaphysics
+AAGR            04Epistemology
+AAGW            04Philosophy of language & logic
+AAHD            04Philosophy of mind & action
+AAHJ            04Axiology
+AAHK            05Ethics
+AAHP            05Aesthetics
+AAHR            04Philosophy of particular subjects (general)
+                     *   Alternative (not recommended) to locating with
+                         subject.
+                     *   Not restricted to one broad tradition. Even if
+                         this option is used most of the literature
+                         will go at AHR (where instructions for use are
+                         given).
+@               02(Philosophy by broad traditions)
+                     **  Facet
+                     *   For explanation of this position, see
+                         Introduction section 7.4.
+                     *   For an alternative arrangement, whereby broad
+                         tradition is cited after Viewpoints & Branches
+                         of philosophy, see AA7.
+AB              03Western philosophy
+                     *  MC3
+AB2             04(Common subdivisions)
+                     *   As for AA.
+AB7             04History of Western philosophy ]IT
+                     *   General only; specific periods & places go
+                         under historical schools AD.
+@               05((By periods & places))
+                     *   Alternative (not recommended) for libraries
+                         wishing to cite period or place AFTER
+                         Viewpoints, doctrines, etc. If this option is
+                         taken proceed as follows:
+                     *   AB7 By place in general
+                     *   | ________* First note at ADA would now
+                     *   | _________ apply here.
+                     *   | ________* Add to AB7 letters D/Z from
+                     *   | _________ Schedule 2.
+                     *   AB8 By period
+                     *   | ________* Notes under Period at ADA
+                     *   | _________ would apply here now, except
+                     *   | _________ for the example in the
+                     *   | _________ second note. This would
+                     *   | _________ now be: Pre-Socratic
+                     *   | _________ rationalism ACG B8D.
+                     *   | ________* Add to AB8 letters B/V
+                     *   | _________ following AD in ADB/ADV, e.g.
+                     *   | _________ Empiricism - 18th century
+                     *   | _________ - British ACH_B8T_E.
+AB8             04Biography of Western philosophers ]IT
+@               05Individual philosophers - A/Z ]IT
+                     *   Alternative (not recommended) for libraries
+                         wishing to keep all Western philosophers in
+                         one A/Z file (rather than under period and
+                         place in ADB/ADY) AND to cite individual
+                         philosophers AFTER Viewpoints (ACF/ACV).
+                     *   Add to AB8 three letters for each
+                         philosopher's name.
+                     *   Each philosopher may be qualified by Auxiliary
+                         Schedule AA2.
+                     *   For another alternative keeping all Western
+                         philosophers in one A/Z file but citing them
+                         before Viewpoints AND Branches, see AE.
+AB9             04)Metaphilosophy as qualifier( ]IT
+                     *   Use this position only when qualifying
+                         concepts in AB/AD (that is, when a particular
+                         viewpoint is itself subject to
+                         metaphilosophical enquiry).
+                     *   Add to AB9 letters D/X following AF - e.g.
+                         metaphilosophy of (Western) rationalism ACG
+                         B9D.
+ABA             04Viewpoints & schools in Western philosophy
+                     *  MC3
+                     **  Facet.
+                     *   Standpoints, methods of enquiry, etc. from
+                         which the subjects of philosophy (the
+                         branches, problems, etc.) are treated.
+                     *   This facet should normally be used only for
+                         works about these viewpoints and not for works
+                         written from them (ABB/ABV).
+                     *   But provision is made at ABB/ABV for
+                         specifying works from a viewpoint, if
+                         required.
+                     *   Compound classes reflecting the examination of
+                         one viewpoint by another can be specified by
+                         normal retroactive synthesis. For example, an
+                         empiricist treatment (ABH) of the subject
+                         existentialism (ACT L) would be ACT LBH.
+                     *   Note that qualification by a viewpoint from
+                         which a subject is treated can only be made
+                         after the exact subject has been specified
+                         (this is the normal BC2 rule for all forms of
+                         presentation).
+                     *   For philosophical methods per se, see
+                         metaphilosophy AFD.
+@               05Studies from particular viewpoints
+ABB             05((From the viewpoint of a broad philosophical
+                           tradition))
+                     *   Add to ABB letters B/J following A, e.g.
+                         Oriental view of Western epistemology AGR BBI.
+ABC             05((From the viewpoint of a religious belief))
+                     *   Add to ABC letters G/V following P in PG/PV,
+                         e.g. Jewish critiques of Scholasticism, ADM
+                         DBC L.
+ABD             05((From the viewpoint derived from a particular
+                           philosopher))
+                     **  Reserve ABW for (Derived from a particular
+                         historical view or branch AD/AH)?
+                     *   Use only when the philosopher is explicitly
+                         named in the work & does not already appear as
+                         an explicit viewpoint in ACF/ACX, e.g. Thomist
+                         viewpoint (ABD THO) but not Hegelian viewpoint
+                         (which appears at ACN T).
+                     *   Use only for viewpoints derived from the
+                         philosophers, not for the views of the
+                         philosophers themselves (which go with the
+                         philosopher).
+                     *   Add to ABD the first three letters of the
+                         names of philosophers.
+ABF             05((From the viewpoint of a particular doctrine))
+                     *   Add to AB letters F/V following AC in ACF/ACV,
+                         e.g. critique of existentialism from the
+                         empiricist point of view ACT LBH.
+@               05Studies about particular viewpoints
+ACB             05((About the viewpoint of a broad philosophical
+                           tradition))
+                     *   Use only in cases where a subject classed in
+                         one broad tradition needs qualification by
+                         another, e.g. Oriental doctrine in Western
+                         neo-Platonism.
+                     *   Add to ACB letters B/J following A, e.g.
+                         Oriental doctrines in neo-Platonism ACO_SCB_I.
+ACC             05((About the viewpoint of a religious belief))
+                     *   Add to ACC letters G/V following P in PG/PV -
+                         e.g. a work about Jewish views of the
+                         metaphysics of space and time AGQ CCL.
+ACD             05((About the viewpoint derived from a particular
+                           philosopher))
+                     *   Do not use for writing about the views of the
+                         philosophers themselves, which go with the
+                         philosopher.
+                     *   Add to ACD the first three letters of the
+                         names of philosophers, e.g. for works about
+                         the Thomist viewpoint ACD_THO.
+                     *   Exclude any such viewpoints already enumerated
+                         in ACF/ACW.
+ACE             05((Doctrines, standpoints, `isms' in Western
+                           philosophy))
+                     *   Treated as subjects; see explanatory notes
+                         under Viewpoints and schools above (at ABA).
+                         See ABF for writing from the viewpoint of a
+                         particular doctrine, etc.
+                     *   Doctrines (theories, etc.) relating uniquely
+                         to a specific philosophical problem are
+                         subordinated to the problem, e.g. nominalist
+                         theory of universals to universals at AGK.
+ACF             06Schools & systems of Western philosophy
+                     *   Schools usually imply a particular period and
+                         place, as well as a standpoint and/or a
+                         particular philosopher (e.g. 17th century
+                         British empiricism). But for classes ACF/ACY
+                         the concept `school' may usually be assumed
+                         and it is therefore not needed as an explicit
+                         qualifier.
+ACFY            07Rationalism & related viewpoints ]IT
+                     *   For Scepticism & related viewpoints see ACR B.
+ACG             08Rationalism
+ACGJ            09Cartesianism
+ACGL            08Intellectualism
+ACGN            08Universalism
+ACGP            08Innatism
+ACGR            08Nativism
+ACGY            07Empiricism & related viewpoints ]IT
+ACH             08Empiricism
+ACHJ            09Sensationalism, sensationism
+ACHL            09Sensualism
+ACHN            09Phenomenalism
+                     *   For Phenomenology see ACT J.
+ACHP            09Positivism, Comtism
+                     *   For logical positivism see ACU L
+ACHS            09Associationism
+ACHT            09Psychologism
+ACHV            09Behaviourism
+                     *   For Behaviourism in psychology see IAR.
+ACHX            09Physicalism
+ACHY            09Biologism
+ACJB            07Pragmatism & related viewpoints ]IT
+ACJD            08Pragmatism
+ACJF            08Humanism
+ACJH            08Instrumentalism
+ACJK            08Utilitarianism
+ACJM            08Intuitionism
+ACJO            08Anti-intellectualism
+ACJQ            08Bergsonism
+ACJS            07Naturalism & related viewpoints ]IT
+ACJV            08Naturalism
+ACK             08Materialism
+ACKJ            09Dialectical materialism, philosophy of Marxism
+                     *   For Historical materialism see Class L
+                         History.
+ACKL            08Atomism
+                     *   For logical atomism see ACU J
+ACKO            08Mechanicism, mechanism
+ACKP            09Neo-mechanism
+ACKQ            08Evolutionism
+ACKR            08Dynamicism
+ACKT            08Energism
+ACKV            08Cosmicism
+ACKX            08Organicism
+ACKY            08Holism
+ACL             08Realism
+ACLJ            09Neo-realism
+ACLL            09Naive realism
+ACLN            09Representative realism
+ACLP            09Critical realism
+ACLR            09New realism
+ACLT            09Conceptual realism
+ACM             07Idealism & related viewpoints ]IT
+ACN             08Idealism
+ACNJ            09Objective idealism
+ACNL            09Subjective idealism
+ACNN            09Absolute idealism, absolutism
+ACNP            09Transcendental idealism, transcendentalism
+ACNQ            10Kantianism, critical idealism, critical philosophy
+ACNR            11Neo-Kantianism
+ACNT            09Hegelianism
+ACNV            10Neo-Hegelianism
+ACNX            08Immaterialism
+ACOB            08Subjectivism
+ACOD            08Solipsism
+ACOF            08Individualism
+ACOH            08Personalism
+ACOJ            08Spiritualism
+                     *   See also Theological systems PGD T
+ACOL            08Panpsychism
+ACON            08Voluntarism
+ACOP            08Platonism
+ACOS            09Neo-Platonism
+ACOV            09Christian Platonism
+ACOX            08Romanticism
+ACPB            07Pantheism & related viewpoints ]IT
+ACPD            08Pantheism
+ACPF            08Deism
+                     **  Ken: despite your reservations I think this
+                         should go in --the concept of divinity is
+                         clear in Pantheism and Occasionalism.
+                     *   Treated as a philosophical view of divinity as
+                         being demonstrated by reason. If in doubt,
+                         prefer PBC D.
+ACPH            08Atheism
+                     *   See also PBC T under Natural theology
+ACPL            08Animism
+ACPN            08Vitalism
+ACPP            09Neo-vitalism
+ACPR            08Parallelism
+ACPT            08Occasionalism
+ACQ             07Optimism & pessimism & related viewpoints ]IT
+ACQJ            08Optimism
+ACQL            08Pessimism
+ACQN            08Meliorism
+ACQP            08Epicureanism
+ACQS            08Stoicism
+ACQU            08Fatalism
+ACQW            08Nihilism
+ACRB            07Scepticism & related viewpoints ]IT
+ACRD            08Scepticism
+ACRF            08Irrationalism
+ACRH            08Cynicism
+ACRJ            08Agnosticism
+                     *   See also Theological systems PGB T
+ACRL            07Monism & pluralism & related viewpoints ]IT
+ACRM            08Monism
+ACRN            09Neural monism
+ACRP            09Monadism
+ACRR            08Dualism
+ACRT            08Reductionism
+ACRV            08Pluralism
+ACSC            07Eclecticism & related viewpoints ]IT
+ACSE            08Eclecticism
+ACSG            08Syncretism
+ACSJ            08Traditionalism
+ACSL            08Dogmatism
+ACSN            08Conventionalism
+ACSR            08Relativism
+ACST            08Culturism
+ACT             07Phenomenology & related viewpoints ]IT
+ACTJ            08Phenomenology
+                     *   See also Phenomenalism ACH N
+ACTL            08Existentialism
+ACTP            08Hermeneutics
+ACTR            08Structuralism
+ACTS            08Post-structuralism
+ACTV            09Deconstruction
+ACTW            08Postmodernism
+ACTY            07Feminism
+ACU             07Analytical philosophy, philosophical analysis
+                     *   For philosophy conceived as analysis see AFR
+                         T.
+ACUJ            08Logical atomism
+ACUL            08Logical positivism, logical empiricism
+ACUN            08Linguistic philosophy
+                     *   See also Philosophy of language and logic AGW
+ACUP            09Ordinary language philosophy
+                     *   See also Philosophy of language and logic AGW
+ACV             07Other specific viewpoints - A/Z ]IT
+                     *   For viewpoints special to a given context -
+                         e.g. Representationalism in perception
+                         AGS_MCV.
+ACY             05Schools special to a period & place -
+                     *   For application under particular
+                         periods/places - e.g. Pre-Socratic schools ADD
+                         CY. Nothing will appear here (at ACY).
+@               04(History of special periods & places)
+                     **  Facet.
+                     *   For the general history of Western philosophy,
+                         see AB7. The classes below are for the
+                         specific periods and places.
+                     *   The preferred arrangement is to divide first
+                         by broad period and then, within each period,
+                         by place (at the national, or equivalent
+                         level, without local divisions). Then within
+                         each place, divide by individual philosophers
+                         & their schools.
+                     *   Individual philosophers may be qualified by
+                         Auxiliary Schedule AA2. For well-known
+                         philosophers classmarks are given, and these
+                         may be qualified directly by Auxiliary
+                         Schedule AA2. When notation is provided for an
+                         alphabetical span of names (e.g. ADR Q Pic -
+                         Su), add two letters for the names of
+                         individuals in accordance with section 10.82
+                         of the introduction. When no notation for
+                         names is provided under a period and country
+                         (as at ADS G Spanish 17th century philosophy),
+                         add three letters for the name of an
+                         individual. These alphabetical devices may
+                         then be qualified by Auxiliary Schedule AA2.
+ADA             05((By place))
+                     *   Use only for general works on a country, etc.
+                         not restricted to a particular period (in
+                         which case it goes first under the period).
+                     *   In the modern period the philosophy of a
+                         country is often regarded as a national
+                         `school'. For libraries wishing to recognise
+                         this an alternative is provided at ADP where
+                         all the modern philosophy of a given country
+                         is kept together.
+                     *   Add to ADA letters D/Z from Schedule 2 - e.g.
+                         history of British philosophy ADA E.
+                     *   Any given country may be qualified
+                         retroactively in the normal way (by direct
+                         addition to the country's classmark of 2/9,
+                         A/D following A) - e.g. British empiricism,
+                         ADA ECH.
+@               05((By period))
+                     *   Periods are relatively broad, since it is not
+                         helpful to break philosophy up into numerous
+                         short periods. So Schedule 4 is not used here
+                         & periods are enumerated.
+                     *   Any given period may be qualified
+                         retroactively in the normal way - e.g.
+                         Pre-Socratic rationalism ADD CG.
+                     *   Within each period classes produced
+                         retroactively are then followed by specific
+                         countries & within each country by special
+                         schools & by individual philosophers of the
+                         period.
+                     *   Any individual philosopher may be qualified by
+                         the application of Auxiliary Schedule AA2.
+                     *   Alternatives (not recommended) are provided at
+                         AB8 and at AE for libraries wishing to keep
+                         together all individual philosophers in one
+                         A/Z file.
+ADB             06Ancient Western philosophy
+                     *  MC3
+                     *   c. 600 BC - 450 AD.
+ADC             07Ancient Greek philosophy
+                     *   Schools of philosophy are usually specified by
+                         a synthesis of period, place & viewpoint. In
+                         the case of Ancient Greek philosophy a number
+                         of viewpoints unique to the time & place have
+                         produced schools with distinctive names and
+                         these are enumerated here.
+ADCCY           08((Schools))
+ADD             08Pre-Socratic period -
+ADDCY           09((Schools))
+                     *   See also names of individuals whose name may
+                         be used to signify a quasi-school e.g.
+                         Empedocles for Empedoclean doctrines.
+ADDD            10Milesian school, Ionian school
+ADDE            10Pythagorean school
+ADDF            10Eleatic school
+ADDG            10Elean-Eretrian school
+ADDH            10Sophists
+ADDJ            10Megarian school
+ADDK            10Other schools A/Z ]IT
+@               09((Individual philosophers))
+ADDL            10A - Anax ]IT
+ADDLR           10Anaxagoras
+ADDM            10Anaxag - Anaxil ]IT
+ADDMN           10Anaximander
+ADDMP           10Anaximenes
+ADDN            10Anaxim - Dem ]IT
+ADDNR           10Democritus
+ADDO            10Den - Emped ]IT
+ADDOL           10Empedocles
+ADDP            10Emped - Herac ]IT
+ADDPL           10Heraclitus of Ephesus
+ADDQ            10Herac - Leu ]IT
+ADDQP           10Leucippus
+ADDR            10Leuc - Mel ]IT
+ADDRS           10Melissus of Samos
+ADDS            10Mel - Parm ]IT
+ADDSR           10Parmenides of Elea
+ADDSY           10Pythagoras
+ADDT            10Pyth - Thal ]IT
+ADDTV           10Thales
+ADDV            10Thal - Zen ]IT
+ADDW            10Zeno of Elea
+ADDX            10Zen - Zy ]IT
+ADE             08Socratic & Platonic period -
+ADECY           09((Schools))
+ADED            10Cynics school
+ADEE            10Platonic schools -
+ADEF            10Old Academy
+                     *   Include here general works on Academy. For New
+                         Academy see ADF L; for Middle Academy see ADG
+                         D.
+@               09((Individual philosophers))
+ADEH            10Socrates
+ADEJ            10Plato
+                     *   See also Platonism ACO P.
+ADEN            10Others A/Z ]IT
+ADF             08Aristotelean period -
+ADFCY           09((Schools))
+ADFD            10Peripatetics school
+ADFE            10Stoics
+ADFF            10Epicureans
+ADFG            10Hedonists
+ADFH            10Cyrenaics
+ADFJ            10Sceptics
+ADFK            10Pyrrhonists
+                     *   If distinguished from Sceptics.
+                     *   See also Pyrrho ADF TR
+ADFL            10New Academy
+                     *   For Old Academy see ADE F.
+ADFM            10Greek Eclectics
+ADFN            10Others A/Z ]IT
+@               09((Individual philosophers))
+ADFO            10Aristotle
+@               10Others ]IT
+ADFP            11A - Carn ]IT
+ADFPD           11Carneades
+ADFQ            11Carn - Chry ]IT
+ADFQR           11Chrysippus
+ADFR            11Chry - Diog ]IT
+ADFRG           11Diogenes of Sinope
+ADFS            11Diog - Epic ]IT
+ADFSR           11Epicurus
+ADFT            11Epic - Pyrr ]IT
+ADFTR           11Pyrrho of Elis
+ADFU            11Pyrr - Stra ]IT
+ADFUT           11Strato of Lampsacus
+ADFV            11Strat - Theo ]IT
+ADFVT           11Theophrastus
+ADFW            11Theo - Tim ]IT
+ADFWV           11Timon of Philus
+ADFX            11Tim - Zen ]IT
+ADFY            11Zeno of Citium
+ADFZ            11Zen - Zy ]IT
+ADG             08Hellenistic period -
+                     *   c. 330BC - 30BC.
+ADGCY           09((Schools))
+ADGD            10Middle Academy, Hellenistic Academy
+@               09(Individual philosophers)
+                     *   See under Graeco-Roman period ADH P/Y
+ADH             07Graeco-Roman period -
+ADHCY           08((Schools))
+ADHD            09Alexandrine schools (general) -
+                     *   For early Christian philosophy see ADI T.
+ADHE            09Neo-Pythagoreans
+ADHF            09Neo-Platonists
+ADHG            09Gnostics
+                     *   Philosophical aspects only. For religious
+                         aspects see POL WMA.
+ADHH            09Manichaeism
+                     *   Philosophical aspects only. For religious
+                         aspects see POM WMA.
+ADHI            09Hermetic philosophy
+                     *   See also Hermes Trismegistus ADH RM
+ADHJ            09Apologists
+ADHK            09Syncretism
+ADHL            09Peripatetics
+ADHM            09Dogmatic school
+ADHN            09Patristic stoicism
+@               08((Individual philosophers))
+ADHP            09Aenesidimus
+ADHQ            09Aen - Ant ]IT
+ADHQT           09Antiochus of Ascalon
+ADHR            09Ant - Herm ]IT
+ADHRM           09Hermes Trismegistus
+ADHS            09Herm - Pan ]IT
+ADHSR           09Panaetius of Rhodes
+ADHT            09Pan - Phi ]IT
+                     *   For Philo Judaeus see AIJ NL
+ADHU            09Phi - Plot ]IT
+ADHUP           09Plotinus
+ADHV            09Plot - Por ]IT
+ADHVT           09Porphyry
+ADHW            09Por - Pos ]IT
+ADHWS           09Posidonius of Apanea
+ADHX            09Pos - Pro ]IT
+ADHXS           09Proclus
+ADHY            09Pro - Z ]IT
+ADI             07Roman age -
+ADICY           08((Schools))
+@               08((Individual philosophers))
+ADIF            09A - Cic ]IT
+ADIFE           09Cicero
+ADIG            09Cic - Epi ]IT
+ADIGT           09Epictetus
+ADIH            09Epi - Marc ]IT
+ADIHR           09Marcus Aurelius
+ADIJ            09Marc - Plu ]IT
+ADIJR           09Plutarch
+ADIK            09Plu - Sen ]IT
+ADIKT           09Seneca
+ADIL            09Sen - Sex ]IT
+ADILX           09Sextus Empiricus
+ADIP            07Other places in ancient Western philosophy ]IT
+                     *   Add to ADI P letters E/L following C in
+                         Schedule_2.
+ADIR            07Christian philosophy, Catholic philosophy
+                     *   For Patristic thought see Church History POL
+                         E.
+ADIT            08Early Christian philosophy
+ADITCY          09((Schools))
+ADIV            09((Individual philosophers A/Z))
+                     *   For Medieval Christian philosophy see ADM
+ADJ             06Medieval philosophy
+                     *  MC3
+                     *   c. 450 - 1450.
+ADJCY           07((Schools))
+                     **  Jack made indent 08 - you had 09, Colin Sept.
+                     *   For Scholasticism see ADM D.
+ADK             07Arabic philosophy, Islamic philosophy ]IT
+                     *   Alternative (not recommended) for libraries
+                         preferring to collocate this with general
+                         medieval philosophy.
+                     *   If this option is taken add to ADK letters A/S
+                         following AIK.
+ADL             07Medieval Jewish philosophy ]IT
+                     *   Alternative (not recommended) for libraries
+                         wishing to collocate this with general
+                         medieval philosophy. If this option is taken,
+                         add to ADL letters P/Q following AIJ.
+ADM             07Christian medieval philosophy
+ADMCY           08((Schools))
+ADMD            09Scholasticism
+                     *   Philosophical school within which writers
+                         confined their speculation to what was deemed
+                         orthodox in terms of Christian doctrine.
+                     *   See also Scholastic school proper ADM RD
+ADME            07Early period in medieval philosophy ]IT
+@               08((Individual philosophers))
+ADMF            09A - Am ]IT
+ADMFR           09Saint Ambrose
+ADMG            09Am - Aug ]IT
+ADMH            09Saint Augustine
+ADMJ            09Aug - Bo ]IT
+ADMJS           09Boethius
+ADMK            09Bo - Clem ]IT
+ADMKE           09Clement of Alexandria
+ADML            09Clem - Je ]IT
+ADMLR           09Saint Jerome
+ADMM            09Jer - Joh ]IT
+ADMMS           09John the Scot, Johannes Scotus
+ADMN            09Joh - Or ]IT
+ADMNR           09Origen
+ADMP            09Or - Z ]IT
+ADMR            0711th - 12th centuries ]IT
+ADMRCY          08((Schools))
+ADMRD           09Scholastic school
+                     *   This is for the scholastic school in the
+                         narrow sense.
+@               08((Individual philosophers))
+ADMRF           09Peter Abelard
+ADMS            09Ab - Be ]IT
+ADMSR           09Saint Bernard
+ADMT            09Ber - Jo ]IT
+ADMTN           09John of Salisbury
+ADMU            09Joh - Ros ]IT
+ADMUS           09Roscelin
+ADMV            09Ros - Z ]IT
+ADN             0713th - 14th centuries ]IT
+ADNCY           08((Schools))
+ADND            09Dominican schoolmen
+ADNF            09Franciscan schoolmen
+@               08((Individual philosophers))
+ADNH            09A - Aq ]IT
+ADNHS           09St Thomas Aquinas
+ADNJ            09Aq - Ba ]IT
+ADNJR           09Roger Bacon
+ADNK            09Bac - Du ]IT
+ADNKS           09Duns Scotus
+ADNL            09Duns - Gro ]IT
+ADNLS           09Robert Grosseteste
+ADNM            09Gro - Oc ]IT
+ADNMW           09William of Occam
+ADNN            09Oc - Z ]IT
+ADO             06Modern Western philosophy
+                     *  MC3
+ADOR            07((By period))
+                     *   Use this location only if the alternative
+                         given below under `By place' is followed, in
+                         which case it takes periods only.
+                     *   Add letters R/W following AD below.
+ADP             07((By place))
+                     *   In the modern period many countries have
+                         developed national schools in philosophy.
+                     *   An alternative (not recommended) for libraries
+                         wishing to cite Place before Period is given
+                         here. If this option is taken, proceed as
+                         follows: Add to ADP letters D/Z from Schedule
+                         2 & to each nation state classmark add the
+                         letters R/V following AD to indicate the
+                         period.
+                     *   Individual philosophers will then file A/Z
+                         under each century, using the letter given
+                         under that period and country in the preferred
+                         arrangement - e.g. Dutch philosophy ADP JV;
+                         17th century Dutch philosophy ADP JVS; Spinoza
+                         ADP_JVS_J.
+@               07((By period then place))
+                     *   This is the preferred arrangement, continuing
+                         that for ancient & medieval philosophy, in
+                         which broad period is cited first.
+ADQ             08((By place))
+                     *   For works on the general modern philosophy of
+                         particular countries, not qualified by a
+                         specific period.
+                     *   Add to ADQ letters D/Z from Schedule 2.
+                     *   A selection of the more prominent countries in
+                         philosophy is given here for convenience.
+ADQE            09British philosophy
+ADQF            09French philosophy
+ADQGB           09Spanish philosophy
+ADQI            09Italian philosophy
+ADQJV           09Netherlands philosophy
+ADQK            09German philosophy
+ADQN            09Russian philosophy
+ADQY            09American philosophy
+                     *   Philosophy of the United States.
+@               08((By period))
+                     *   The order of countries under each period is
+                         consistent with that in Schedule 2, although
+                         the notation is shortened.
+ADR             0915th - 16th centuries -, Renaissance philosophy
+ADR7            10((By place))
+                     *   In this period the significance of nation
+                         states was relatively undeveloped in
+                         philosophy and so place is cited after
+                         doctrines, etc. and the nationality of
+                         individuals is ignored.
+                     *   To qualify a doctrine etc. by country, add to
+                         - 7 letters D/N from Schedule 2 (where hyphen
+                         represents classmark of topic) - e.g. Humanism
+                         in Renaissance Italy, ADR D7I.
+ADRCY           10((Schools & doctrines))
+ADRD            11Humanism
+@               10((Individual philosophers))
+ADRF            11A - Bo ]IT
+ADRFM           11Bohme J -, Behmen J -
+ADRG            11Bo - Bru ]IT
+ADRGU           11Bruno G -
+ADRH            11Bru - Er ]IT
+ADRJ            11Erasmus
+ADRK            11Er - Mon ]IT
+ADRM            11Montaigne M -
+ADRN            11Mon - Mor ]IT
+ADRNS           11More T -
+ADRP            11Mor - Pic ]IT
+ADRPS           11Pico della Mirandolo G -
+ADRQ            11Pic - Su ]IT
+ADRQU           11Suarez F -
+ADRR            11Su - Z ]IT
+ADS             0917th century ]IT
+ADSE            10)British philosophy(
+ADSECY          11((Schools & doctrines))
+ADSED           12Cambridge Platonists
+@               11((Individual philosophers))
+ADSEF           12A - Bac ]IT
+ADSEG           12Bacon F ]IT
+ADSEH           12Bac - Hob ]IT
+ADSEJ           12Hobbes T ]IT
+ADSEK           12Hob - Loc ]IT
+ADSEL           12Locke J -
+ADSEM           12Loc - Z ]IT
+ADSF            10)French philosophy(
+@               11((Individual philosophers))
+ADSFF           12A - Bay ]IT
+ADSFG           12Bayle P -
+ADSFH           12Bay - Des ]IT
+ADSFJ           12Descartes R -
+ADSFK           12Des - Gas ]IT
+ADSFL           12Gassendi P -
+ADSFM           12Gas - Mal ]IT
+ADSFN           12Malebranche N -
+ADSFP           12Mal - Pas ]IT
+ADSFQ           12Pascal B ]IT
+ADSFR           12Pas - Z ]IT
+ADSG            10)Spanish philosophy(
+ADSH            10)Portuguese philosophy(
+ADSI            10)Italian philosophy(
+@               11((Individual philosophers))
+ADSIF           12A - Vic ]IT
+ADSIG           12Vico G B -
+ADSIH           12Vic - Z ]IT
+ADSJ            10)Netherlands philosophy, Low Countries philosophy(
+@               11((Individual philosophers))
+ADSJF           12A - Gea ]IT
+ADSJG           12Gealinex A -
+ADSJH           12Geu - Spi ]IT
+ADSJJ           12Spinoza B de -
+ADSJK           12Spi - Z ]IT
+ADSK            10)German philosophy(
+@               11((Individual philosophers))
+ADSKF           12A - Lei ]IT
+ADSKL           12Leibnitz G W von -
+ADSKM           12Lei - Z ]IT
+ADSL            10Other Western countries in 17th century ]IT
+                     *   Add to ADS L letters D/N from Schedule 2 as
+                         appropriate.
+ADT             0918th century ]IT
+ADTCY           10((Schools & doctrines))
+ADTD            11Enlightenment, Age of reason
+ADTE            10)British philosophy(
+@               11((Individual philosophers))
+ADTEF           12A - Ber ]IT
+ADTEG           12Berkeley G -
+ADTEH           12Ber - But ]IT
+ADTEJ           12Butler J -
+ADTEK           12But - Ham ]IT
+ADTEL           12Hamilton W -
+ADTEM           12Ham - Hum ]IT
+ADTEN           12Hume D -
+ADTEP           12Hum - Hut ]IT
+ADTEQ           12Hutcheson F -
+ADTER           12Hut - Mac ]IT
+ADTES           12Mackintosh J -
+ADTET           12Mac - Z ]IT
+ADTF            10)French philosophy(
+@               11((Individual philosophers))
+ADTFF           12A - Ale ]IT
+ADTFFM          12Alembert J L d' -
+ADTFG           12Ale - Bon ]IT
+ADTFGN          12Bonnet C -
+ADTFH           12Bon - Bos ]IT
+ADTFHS          12Bossuet J B -
+                     **  CHECK: Bossuet or Bossvet?
+ADTFI           12Bos - Buf ]IT
+ADTFIU          12Buffon G L L de -
+ADTFJ           12Buf - Cab ]IT
+ADTFJN          12Cabanis P J G -
+ADTFK           12Cab - Con ]IT
+ADTFL           12Condillac E B de -
+ADTFM           12Condorcet M J A de -
+ADTFN           12Con - Des ]IT
+ADTFO           12Destutt de Tracy A L C -
+ADTFP           12Des - Did ]IT
+ADTFQ           12Diderot D -
+ADTFR           12Did - Hel ]IT
+ADTFRV          12Helvetius C A -
+ADTFS           12Hel - Mon ]IT
+ADTFT           12Montesquieu C L de S de -
+ADTFU           12Mon - Rou ]IT
+ADTFV           12Rousseau J J -
+ADTFW           12Rou - Vol ]IT
+ADTFX           12Voltaire F M A de -
+ADTFY           12Vol - Z ]IT
+ADTG            10)Spanish philosophy(
+ADTH            10)Portuguese philosophy(
+ADTI            10)Italian philosophy(
+ADTJ            10)Netherlands philosophy(
+ADTK            10)German philosophy(
+ADTKCY          11((Schools & doctrines))
+ADTKD           12Die Aufklärung
+                     **  Colin: the a in klarung should have dieresis.
+@               11((Individual philosophers))
+ADTKF           12A - Fic ]IT
+ADTKG           12Fichte J G -
+ADTKH           12Fic - Goe ]IT
+ADTKJ           12Goethe J W von -
+ADTKK           12Goe - Her ]IT
+ADTKL           12Herbart J F -
+ADTKM           12Herder J G von -
+ADTKN           12Her - Kan ]IT
+ADTKP           12Kant I -
+ADTKQ           12Kan - Sch ]IT
+ADTKR           12Schiller J C -
+ADTKS           12Sch - Wol ]IT
+ADTKT           12Wolff C -
+ADTKV           12Wol - Z ]IT
+ADTL            10Other Western countries in the 18th_century ]IT
+                     *   Add to ADT L letters D/N from Schedule 2 as
+                         appropriate.
+ADU             0919th century ]IT
+ADUE            10)British philosophy(
+@               11((Individual philosophers))
+ADUEF           12A - Ale ]IT
+ADUEFN          12Alexander S -
+ADUEG           12Ale - Bai ]IT
+ADUEGN          12Bain A -
+ADUEH           12Bai - Ben ]IT
+ADUEI           12Bentham J -
+ADUEJ           12Ben - Bra ]IT
+ADUEK           12Bradley F H -
+ADUEL           12Bra - Car ]IT
+ADUEM           12Carlyle T -
+ADUEN           12Car - Col ]IT
+ADUEO           12Coleridge S T -
+ADUEP           12Col - Dar ]IT
+ADUEPR          12Darwin C -
+                     *   Philosophical aspects only.
+ADUEQ           12Da - Gre ]IT
+ADUER           12Green T H -
+ADUES           12Gre - Mil ]IT
+ADUET           12Mill J S ]IT
+ADUEU           12Mil - Sid ]IT
+ADUEV           12Sidgwick H -
+ADUEW           12Sid - Spe ]IT
+ADUEX           12Spencer H -
+ADUEY           12Spe - Z ]IT
+ADUF            10)French philosophy(
+@               11((Individual philosophers))
+ADUFF           12A - Com ]IT
+ADUFG           12Comte A -
+ADUFH           12Com - Tai ]IT
+ADUFJ           12Taine H A -
+ADUFK           12Tai - Z ]IT
+ADUG            10)Spanish philosophy(
+ADUH            10)Portuguese philosophy(
+ADUI            10)Italian philosophy(
+ADUJ            10)Dutch & Belgian & Netherlands philosophy(
+ADUK            10)German philosophy(
+@               11((Individual philosophers))
+ADUKF           12A - Feu ]IT
+ADUKG           12Feuerbach L A -
+ADUKH           12Fen - Heg ]IT
+ADUKJ           12Hegel G W F -
+ADUKK           12Heg - Mac ]IT
+ADUKL           12Mach E -
+ADUKM           12Mac - Nie ]IT
+ADUKN           12Nietzsche F W -
+ADUKP           12Nie - Sch ]IT
+ADUKQ           12Schelling F W J von -
+ADUKR           12Sch - Schl ]IT
+ADUKS           12Schleiermacher F E D -
+ADUKT           12Schl - Scho ]IT
+ADUKV           12Schopenhauer A -
+ADUKW           12Scho - Z ]IT
+ADUN            10)Danish philosophy(
+@               11((Individual philosophers))
+ADUNF           12A - Kie ]IT
+ADUNG           12Kierkegaard S A -
+ADUNH           12Kie - Z ]IT
+ADUP            10Other European countries in 19th century ]IT
+                     *   Add to ADU P letters E/N from Schedule 2 as
+                         appropriate.
+ADUS            10)American philosophy(
+ADUSCY          11((Schools))
+ADUSD           12Transcendental schools, Brook Farm -
+ADUSE           12Concord school
+@               11((Individual philosophers))
+ADUSF           12A - Eme ]IT
+ADUSG           12Emerson R W -
+ADUSH           12Eme - Jam ]IT
+ADUSJ           12James W -
+ADUSK           12Jam - Pie ]IT
+ADUSL           12Pierce C S -
+ADUSM           12Pie - Z ]IT
+ADUT            10Other Western countries in 19th century ]IT
+                     *   Add to ADU T letters O/Z from schedule 2 as
+                         appropriate.
+ADV             0920th century ]IT
+ADVE            10)British philosophy(
+@               11((Individual philosophers))
+ADVEF           12A - Aus ]IT
+ADVEG           12Austin J L -
+ADVEH           12Aus - Aye ]IT
+ADVEI           12Ayer A J -
+ADVEK           12Aye - Col ]IT
+ADVEL           12Collingwood R G -
+ADVEM           12Col - Moo ]IT
+ADVEN           12Moore G E -
+ADVEP           12Moo - Rus ]IT
+ADVEQ           12Russell B -
+ADVER           12Rus - Ryl ]IT
+ADVES           12Ryle G -
+ADVET           12Ryl - Str ]IT
+ADVEU           12Strawson P F -
+ADVEV           12Stra - Whi ]IT
+ADVEW           12Whitehead A N -
+ADVEY           12Whi - Z ]IT
+ADVF            10)French philosophy(
+@               11((Individual philosophers))
+ADVFF           12A - Alt ]IT
+ADVFFN          12Althusser L -
+ADVFG           12Alt - Bau ]IT
+ADVFGN          12Baudrillard J -
+ADVFH           12Bau - Ber ]IT
+ADVFHN          12Bergson H -
+ADVFK           12Ber - Cam ]IT
+ADVFKN          12Camus A -
+ADVFL           12Cam - Der ]IT
+ADVFLN          12Derrida J -
+ADVFM           12Der - Fou ]IT
+ADVFMR          12Foucault M -
+ADVFN           12Fou - Lac ]IT
+ADVFNR          12Lacan J -
+ADVFP           12Lac - Lyo ]IT
+ADVFPR          12Lyotard J F -
+ADVFQ           12Lyo - Mar ]IT
+ADVFQT          12Marcel G -
+ADVFR           12Mar - Mer ]IT
+ADVFRT          12Merleau-Ponty M -
+ADVFS           12Mer - Sar ]IT
+ADVFST          12Sartre J P -
+ADVFT           12Sar - Z ]IT
+ADVG            10)Spanish & Portuguese philosophy(
+ADVI            10)Italian philosophy(
+@               11((Individual philosophers))
+ADVIF           12A - Cro ]IT
+ADVIG           12Croce B -
+ADVIH           12Cro - Ros ]IT
+ADVIJ           12Rosmini Serbati A -
+ADVIK           12Ros - Z ]IT
+ADVJ            10)Dutch & Belgian philosophy(
+ADVK            10)German philosophy(
+@               11((Individual philosophers))
+ADVKF           12A - Ado ]IT
+ADVKFN          12Adorno T -
+ADVKG           12Ado - Gad ]IT
+ADVKGN          12Gadamer H G -
+ADVKH           12Gad - Hab ]IT
+ADVKHN          12Habermas J -
+ADVKJ           12Hab - Hei ]IT
+ADVKJN          12Heidegger M -
+ADVKK           12Hei - Hus ]IT
+ADVKKN          12Husserl E G A -
+ADVKL           12Hus - Jas ]IT
+ADVKLN          12Jaspers K -
+ADVKM           12Jas - Mar ]IT
+ADVKMR          12Marcuse H -
+ADVKN           12Mar - Sch ]IT
+ADVKNR          12Schlick M -
+ADVKP           12Sch - Wit ]IT
+ADVKR           12Wittgenstein L -
+ADVKS           12Wit - Z ]IT
+ADVN            10)Russian philosophy(
+@               11((Individual philosophers))
+ADVNF           12A - Ber ]IT
+ADVNG           12Berdiaev N A -
+ADVNH           12Ber - Z ]IT
+ADVP            10Other European countries in 20th century ]IT
+                     *   Add to ADV P letters E/N from Schedule 2 as
+                         appropriate.
+ADVS            10)American philosophy(
+@               11((Individual philosophers))
+ADVSF           12A - Car ]IT
+ADVSG           12Carnap R -
+ADVSH           12Car - Dew ]IT
+ADVSJ           12Dewey J -
+ADVSK           12Dew - Kuh ]IT
+ADVSL           12Kuhn T S -
+ADVSM           12Kuh - Qui ]IT
+ADVSN           12Quine W V -
+ADVSP           12Qui - Raw ]IT
+ADVSQ           12Rawls J -
+ADVSR           12Raw - Ror ]IT
+ADVSS           12Rorty R -
+ADVST           12Ror - San ]IT
+ADVSU           12Santanyana G -
+ADVSV           12San - Sea ]IT
+ADVSW           12Searle J R -
+ADVSY           12Sea - Z ]IT
+ADVT            10Other Western countries in 20th century ]IT
+                     *   Add to ADV T letters O/Z from Schedule 2 as
+                         appropriate.
+ADW             0921st century ]IT
+                     *   For countries add to ADW letters E/T following
+                         ADV.
+                     *   For individual philosophers construct notation
+                         by the method used in ADV.
+AE              07Individual Western philosophers - A/Z ]IT
+                     *   Alternative (not recommended) for libraries
+                         preferring to have one A/Z file of individual
+                         philosophers rather than to subordinate them
+                         to period & place. See note at AB8.
+                     *   An additional alternative here is to treat the
+                         philosopher as the primary facet (within the
+                         Western tradition) and to use Auxiliary
+                         Schedule AA2 for qualifying a given
+                         philosopher.
+AFAY            04Branches & fields & subjects_of philosophy
+                     *  MC3
+                     *   Problems, topics, etc. reflecting the
+                         questions investigated by philosophy as
+                         distinct from the viewpoints, `models', etc.
+                         used to assist the investigation.
+                     *   These classes are not completely mutually
+                         exclusive & some compounding between their
+                         concepts occurs. Use ordinary retroactive
+                         synthesis unless the relationship clearly
+                         calls for `forward building'; - e.g.
+                         Metaphysics - Mode of thinking AGG FH
+                         (retroactive compounding); but Universals -
+                         Epistemological treatment AGK GR (forward
+                         building, dropping only the initial A).
+AFB             05)Comprehensive works in philosophy(
+                     *   Works covering a wide range of problems, not
+                         confined to one branch or field, but
+                         considering branches & fields rather than
+                         general history of philosophy. Very little
+                         will locate here; it will take such works as
+                         Kant's Critique of Pure Reason and
+                         Wittgenstein's Tractatus Logico-Philosophicus.
+                         But systematic works (such as Spinoza's Ethics
+                         or Bradley's Appearance and Reality) which are
+                         metaphysical systems go under the latter.
+AFD             05Metaphilosophy
+                     *  MC3
+                     *   For strictly philosophical writing about
+                         philosophy, its nature, scope, etc.
+                     *   For philosophical analysis see ACU.
+AFF             06Nature of philosophy ]IT
+AFG             07Philosophical enquiry
+AFH             08Modes of thinking
+AFJJ            08Methods
+AFJK            08Deduction
+AFJL            08Axiomatic methods
+AFJM            08Dialectic
+AFJN            07Philosophical arguments
+AFJP            08Infinite regress
+AFJQ            08Reductio ad absurdum
+AFJR            07Cognition
+AFJS            07Proofs
+AFJT            07Explanation
+AFJV            07Validity
+AFK             06Theories in philosophy
+AFL             06Philosophical questions
+AFLL            07As problems ]IT
+AFLM            07As paradoxes ]IT
+AFLP            07As dilemmas ]IT
+AFLR            07As pseudo-questions ]IT
+                     **  Jack: no index entries - ok? - Colin Sept.
+AFM             06Field & boundaries of philosophy
+                     *   For relations to other studies see AFX.
+AFN             06Scope & limitations of philosophy
+AFNP            07Philosophy as science of the sciences ]IT
+AFP             06Role of philosophy
+AFPR            07Speculation ]IT
+AFPS            07Synthesis ]IT
+AFPT            07System-building ]IT
+AFPV            07Criticism ]IT
+AFPW            07Description ]IT
+AFPX            07Revision of concepts ]IT
+AFPY            07Analysis ]IT
+AFR             07Language study ]IT
+                     *   See also philosophy of language & logic AGW
+AFSR            08Verbal recommendation
+AFSS            08Search for definition
+AFST            08Depth grammar
+                     **  Jack: check indent code here - Sept Colin.
+AFSV            08Logical investigation -
+AFSW            08Logical grammar
+AFSX            08Logical geography
+AFSY            07Therapy ]IT
+AFT             06Purpose of philosophy
+AFU             06Meaning of philosophy
+                     *   See also Nature of philosophy AFF
+AFV             06Value of philosophy
+AFX             06Relations of metaphilosophy with other subjects ]IT
+                     *   For example, the relations between modern
+                         philosophy and religion. But the philosophy of
+                         a special subject goes with the subject (e.g.
+                         Religion, Art, History).
+                     *   An alternative to this is given at AHR/AHV.
+                     **  Ask Ken to clarify. Need Add note? Divide by
+                         whole classification? Normally `relations'
+                         would file at beginning of class and qualify
+                         specific subclass.
+                     *   Certain modifications of this principle are
+                         found below (e.g. Ethics, Logic).
+AGG             05Metaphysics
+                     *  MC3
+AGGK            06Systematic works of metaphysics
+                     **  Ask Ken.
+AGGM            06First principles
+AGGP            07Originating principles
+AGH             06Ontology
+AGHJ            07Ontological priority
+AGHL            07Ontological commitment
+AGHN            07Ontological relativity
+AGHP            07Ontological differences
+                     **  Ask Ken. Title of book "Heidegger's theory of
+                         O. d.
+AGHR            07Reality
+AGHS            08Nature of reality, nature of things
+AGHT            08Essence
+                     **  KB.
+AGHV            07The absolute
+                     *   See also The infinite AGQ C
+AGHX            07Being, existence
+AGHY            08Entities
+AGJ             09Universals & particulars
+AGJK            10Particulars
+AGJN            11Individuals
+AGJP            11Things
+AGJR            11Objects
+AGJT            11Monads
+AGK             10Universals
+AGKK            11Realism (Metaphysics)
+                     **  Ken: should this be synthesised from
+                         Viewpoints?
+AGKL            12Theory of forms, theory of ideas
+AGKM            11Nominalism
+AGKN            11Conceptualism
+AGKP            11Properties of universals
+AGKQ            11Qualities
+AGKR            12Primary qualities
+AGKS            12Secondary qualities
+AGKT            11Attributes
+AGKV            11Relations
+AGKW            12Internal relations
+AGKX            12External relations
+AGLB            08Substance
+AGLC            08Facts
+AGLE            07Subsistence
+AGLF            08Subsistent entities
+AGLG            07Non-being, non-existence, negation
+                     **  KB.
+AGLH            07Nothingness
+AGLJ            07Action
+AGLK            07Change
+AGLL            07Potentiality
+                     **  KB.
+AGLM            07Becoming
+AGLN            07Mechanism (Metaphysics)
+AGLP            07Polarity
+AGLQ            07Opposition
+AGLR            07Contrariety
+AGLS            07Complementarity
+                     **  KB.
+AGLT            07Events
+AGLV            07Categories
+AGLW            07Types
+AGM             06Cosmology
+                     *   For strictly philosophical, non-empirical
+                         treatments (usually metaphysical speculation).
+                         For scientific studies (empirical, based on
+                         observation and measurement, see Class D.
+AGMR            07Universe
+AGMS            08Nature of universe ]IT
+AGMT            08Origin of universe, cosmogony
+AGMV            08Design of universe
+AGMW            09Cosmic harmony
+                     **  KB: in Dewey.
+AGMX            08Order of universe
+AGMY            08Unity of universe
+AGN             07Philosophy of nature
+                     *   Distinguish from Natural philosophy, the old
+                         term for the Natural sciences (especially
+                         Physics).
+AGNR            08Order & disorder in nature
+AGNS            08Laws of nature
+AGNV            08Bifurcation of nature
+AGNW            07Life, philosophy of life -
+                     *   See also Meaning of life AGQ T
+AGNX            08Origin of life
+                     **  KB.
+AGNY            08Organic form
+                     **  KB:
+AGP             07Space & time
+AGPQ            08Space
+AGPR            08Time
+AGPS            08Duration, simultaneity
+AGPT            08Serialism
+AGPV            07Motion
+AGPW            07Rest
+AGPX            07Matter
+AGPY            08Physical existence
+@               06((Special topics in metaphysics))
+AGQB            07Infinity
+AGQC            08The infinite
+AGQD            07Causation, causality
+AGQF            07Freedom & determination
+                     *   Strictly metaphysical studies of the general
+                         concept. For freedom & determination in human
+                         action, see AHH.
+AGQG            08Freedom
+AGQH            08Determination
+AGQJ            07Necessity
+AGQK            08Natural necessity
+AGQL            08Logical necessity
+AGQN            07Teleology
+AGQP            08Final causes
+AGQQ            08Purpose
+AGQR            08Means & ends
+AGQT            07Meaning of life
+                     *   See also Philosophy of life AGN W
+AGR             05Epistemology
+                     *  MC3
+AGSJ            06Knowledge
+AGSKK           07Nature of knowledge ]IT
+@               08(Properties)
+AGSKM           09Justification
+AGSKN           09Inconsistency
+AGSKP           08Definition of knowledge
+AGSKQ           09As justified true belief ]IT
+AGSKR           09Dispositional analysis
+AGSKS           09Causal analysis
+AGSKV           08Criteria for knowledge
+AGSKW           08Conditions of knowledge
+AGSKX           08Epistemic logic
+AGSL            07Sources of knowledge, origins of knowledge
+AGSM            08Perception, sense perception -
+AGSMBA          09(Viewpoints)
+AGSMCV          10Representationalism
+AGSMV           10Sense datum theory
+AGSMW           10Phenomenalism (Epistemology)
+AGSMX           10Causal theory of perception
+AGSN            08Sensation, sense experience
+AGSNJ           09The given
+AGSNL           10Sensa
+AGSNN           10Sense impressions
+AGSNP           10Sense data
+AGSNR           10Sensibilia
+AGSNT           10Percepts
+AGSNV           09Intentionality of sensation
+AGSNX           10Intentional objects
+AGSPJ           08Appearances
+AGSPL           09Phenomena
+AGSPN           09Illusions
+AGSPQ           09Delusions
+AGSPR           09Hallucinations
+AGSQ            08Logical constructions
+                     *   See also Seductionism ACR T
+AGSR            08External world
+AGSRV           09Physical objects
+AGSRW           09Material objects
+AGSS            08Reason, intellect
+AGSTB           08Revelation
+AGSU            08Intuition
+AGSUV           08Innate ideas
+AGSUW           08Memory
+AGSV            08Inference
+                     *   Only strictly epistemological discussions go
+                         here. Most of the literature goes in Logic AL.
+AGSVK           09Induction
+AGSVN           09Deduction
+AGSW            08Analogy
+AGSX            08Verbal testimony
+AGSYB           08Tradition
+AGSYD           08Ideology
+AGSYF           08Dogma
+AGTB            07Foundations of knowledge
+AGTC            07Validity of knowledge
+AGTE            08Evidence
+AGTF            08Confirmation
+AGTG            08Proof
+AGTH            08Verification
+AGTJ            08Falsification
+AGTK            08Incorrigibility
+AGTM            07Degrees of knowledge
+AGTP            07Limits & scope of knowledge
+AGTQ            08Absolute knowledge
+AGTR            08The unknowable
+AGTS            09Noumena
+AGTV            08Relativity of knowledge
+AGTX            07Objects of knowledge
+AGU             07Kinds of knowledge, ways of knowing
+AGUJ            08Propositional knowledge, factual knowledge, knowing
+                           that
+AGUK            09Necessary knowledge
+AGUL            09Contingent knowledge
+AGUM            09A priori knowledge
+AGUN            09A posteriori knowledge, empirical knowledge
+AGUP            09Analytic knowledge
+AGUQ            09Synthetic knowledge
+AGUR            09Synthetic a priori knowledge
+AGUS            08Practical knowledge, knowing how
+AGUT            08Knowledge by acquaintance
+AGUV            09Direct knowledge, direct awareness, immediate
+                           knowledge
+AGUW            09Knowledge without observation
+AGUX            09Knowledge by description
+AGUXW           09Tacit knowledge
+AGUY            09Personal knowledge
+AGVB            08Disciplines of knowledge
+AGVCH           08Structure of knowledge
+AGVCK           09Relationships between kinds of knowledge
+AGVCN           09Classification of knowledge
+AGVCR           09Integration of knowledge
+AGVCT           09Unity of knowledge
+AGVD            06Cognition
+AGVE            06Experience
+AGVF            07Modes of experience
+AGVG            06Understanding
+AGVH            07Forms of understanding
+AGVJ            06Explanation
+AGVK            06Judgement
+AGVL            06Opinion
+AGVM            06Assent
+AGVN            06Belief
+AGVP            07Belief that
+AGVQ            07Belief in
+AGVR            06Unbelief
+                     **  KB.
+AGVS            06Faith
+AGVT            06Certainty
+AGVV            06Uncertainty, doubt
+AGW             05Philosophy of language & logic, philosophical logic
+                     *  MC3
+                     *   For strictly philosophical treatment and
+                         analysis of the concepts below, e.g. meaning,
+                         naming, truth.
+                     *   See Class X Linguistics for `philosophy of
+                         language' in sense of philosophical problems
+                         about linguistics as the empirical study of
+                         language, or arising out of linguistics (e.g.
+                         philosophical implications of Chomsky's work
+                         on generative grammar).
+                     *   See Logic AL for `philosophy of logic' in
+                         sense of philosophical problems about logic
+                         (i.e. formal logic) or arising out of work in
+                         formal logic.
+                     *   See also Logical investigation
+                         (Metaphilosophy) AFS_V
+AGXB            06Communication
+AGXC            07Symbolism, symbolic forms
+AGXD            08Signs, philosophical semiotics
+AGXDX           09Philosophical syntactics
+AGXDY           09Philosophical pragmatics
+AGXE            08Symbols
+AGXEY           09Verbal communication
+AGXF            10Language
+AGXGC           11Ordinary language
+AGXGH           11Ideal language
+AGXGM           12Logically perfect language
+AGXH            07Conceptual schemes
+AGXJ            07Categorical frameworks
+AGXK            06Philosophical semantics, theory of meaning
+                     *   For semantics as part of the social science of
+                         linguistics see Class X Linguistics.
+AGXL            07Meaning
+AGXMC           08Denotation theory
+AGXME           08Image theory
+AGXMG           08Causal theory of meaning
+AGXMJ           08Picture theory
+AGXML           08Verification theory
+AGXMN           09Verification principle
+AGXN            08Meaning of words
+AGXP            09Definition
+AGXQC           10Ostensive definition
+AGXQE           10Denotation, denoting
+AGXQG           10Connotation
+AGXQJ           10Intension, intensionality
+AGXQM           10Extension, extensionality
+AGXQP           09Meaning of sentences, sentential meaning
+AGXR            07Naming
+AGXSC           08Names
+AGXSE           09Proper names
+AGXSG           09Logically proper names
+AGXSL           08Singular terms
+AGXT            07Describing
+AGXUC           08Descriptions
+AGXUG           09Definite descriptions
+AGXUM           09Indefinite descriptions
+AGXV            07Referring, reference
+AGXVY           08Referring expressions
+AGXW            07Predication
+AGXX            08Subject & predicate
+AGXY            07Generality
+AGYB            07Modality
+AGYCM           08Ambiguity, homonymy
+AGYE            07Synonyms
+AGYF            07Meaninglessness
+                     **  cf. ALR W
+AGYG            07Nonsense
+AGYH            06Propositions, statements & sentences
+                     *   Add to each subclass letters J/R following AGU
+                         (Propositional knowledge) - e.g. A priori
+                         statements AGY PM.
+AGYJ            07Propositions
+AGYKC           08Basic propositions
+AGYKE           08Atomic propositions
+AGYKF           08Molecular propositions
+AGYKL           08Hypothetical propositions
+AGYL            08Singular propositions
+AGYM            08Universal propositions
+AGYN            07Statements, assertions
+AGYP            07Sentences
+AGYQ            06Truth & falsity
+AGYR            07Truth
+                     *   Add to AGY R and its subdivisions letters J/R
+                         following AGU (Propositional knowledge) - e.g.
+                         Synthetic a priori truth AGY RR.
+AGYSC           08Correspondence theory -
+AGYSE           08Coherence theory -
+AGYSG           08Pragmatic theory -
+AGYSJ           08Semantic theory -
+AGYSM           08Performative theory -
+AGYSP           08Syntactical theory -
+AGYT            07Falsity
+AGYV            06Facts
+AGYWC           07Atomic facts
+AGYWE           07General facts
+AGYWG           07Negative facts
+AHA             05Logic (use under Eastern systems)
+                     *   For general logic and logic in the Western
+                         tradition see AL. But for logic under
+                         particular Eastern systems of philosophy, use
+                         this relative position, e.g. Nyaya logic AIP
+                         CHA.
+AHB             05Philosophy of formal logic
+                     *   Alternative (not recommended) to subordinating
+                         to logic in AL.
+AHC             05Philosophy of linguistics
+                     *   Alternative (not recommended) to subordinating
+                         to Class X Linguistics.
+AHD             05Philosophy of mind & action, philosophical psychology
+                     *  MC3
+                     *   See Class I Psychology for `philosophical
+                         psychology' in sense of philosophical problems
+                         about the discipline Psychology, or arising
+                         out of work in it.
+AHE             06Philosophy of mind
+AHEL            07Human nature, man
+AHEN            07Persons, human beings
+AHEP            08Mind & body
+AHEPBA          09(Viewpoints)
+AHEPCPT         10)Occasionalism(
+AHEQ            09Mind
+AHER            09Body
+AHES            08Consciousness & brain processes
+AHESL           09Consciousness
+AHESN           10Identity theory -
+AHET            08Mental acts
+AHETL           09Rejection of mental acts
+AHEV            08Mental events, mental processes
+AHEW            09Thought, thinking
+AHEX            09Emotion
+AHEXK           10Feelings
+AHEXM           10Desires
+AHEXP           10Pleasure
+AHEXS           11Pain, suffering
+AHEY            09Memory
+AHEYM           09Imagination
+AHEYQ           09Dreaming
+AHFB            08Experience
+AHFC            08Personal identity
+AHFD            09Personality
+AHFE            09The self
+AHFF            09The soul
+AHFG            08Selfconsciousness
+AHFH            08Privacy
+AHFI            09Introspection
+AHFJ            09Egocentricity
+AHFK            09Private experience
+AHFL            09Private language
+AHFN            08Other minds
+AHFP            08Other persons
+                     **  KB.
+AHFQ            07Animals
+AHG             07Philosophy of action
+AHGJ            08Action, human behaviour
+AHGK            09Antecedents of actions
+AHGL            10Uncertainty
+                     **  KB: Needed first to allow qualification of
+                         following.
+AHGM            10Reasons
+AHGN            10Causes
+AHGP            10Motives
+AHGQ            10Dispositions
+AHGR            10Volitions
+AHGS            11Will
+AHGT            10Intention
+AHGV            10Choice
+AHGW            10Decision
+AHH             09Freewill & determination
+AHHL            10Freewill, freedom
+AHHM            11Voluntary acts
+AHHP            10Determination
+AHHQ            11Involuntary acts
+AHHS            09Consequences of actions
+AHHT            10Responsibility
+AHHV            10Excuses
+AHI             05Philosophy of psychology
+                     *   Alternative (not recommended) to subordinating
+                         to psychology in I.
+AHJ             05Axiology, theory of value
+                     *  MC3
+                     *   General studies only.
+                     *   For values in a particular subject, see
+                         subject.
+AHJJ            06Value judgements
+AHJL            06Intrinsic value
+                     **  KB: Query extrinsic below.
+AHJN            06Extrinsic value
+AHK             06Ethics, moral philosophy
+                     *  MC3
+                     *   Philosophical treatment of ethics is an
+                         integral part of philosophy & should be
+                         located here.
+                     *   Applied ethics (moral knowledge and
+                         experience) should be treated like other
+                         special subjects and is therefore preferred at
+                         PY (where it helpfully precedes the special
+                         social sciences & activities).
+                     *   But alternatives are provided:
+                     *   a) to make this the unitary class for Ethics &
+                         add Applied ethics at AHN;
+                     *   b) to make PY the unitary class.
+                     *   IF a unitary class is provided, prefer it
+                         here.
+                     *   Add to AHK letters A/H following A in AA/AH
+                         with the following additions:
+AHKBA           07(Viewpoints)
+                     **  Colin: deleted space line after facet for page
+                         break reasons.
+AHKCV           08((Special to ethics))
+AHKCVC          09Naturalistic fallacy, Hume's fork, is-ought
+                           relationship
+AHKCVE          09Normative ethics
+AHKCVG          09Meta-ethics
+                     *   Considers logical relations between moral
+                         beliefs & factual beliefs.
+AHKCVJ          09Objectivity & subjectivity
+AHKCVL          09Hedonism
+AHKCVN          09Deontological theories -
+AHKCVP          09Emotivism
+AHKCVR          09Prescriptionism
+AHKHG           07)Philosophy of action(
+AHKHGR          08)Volition & will(
+AHKHGT          08)Intention & choice(
+AHKHH           08)Freewill & determinism(
+AHKHHS          08)Consequences of actions(
+@               07((Special concepts in moral behaviour))
+AHLC            08Nature & logic of morality ]IT
+                     *   Add to AHL letters C/H following PYM - e.g.
+                         moral sense AHL_DS.
+AHLJ            08Moral values & principles & rules
+                     *   Add to AHL letters J/N following PYM - e.g.
+                         relativity of values AHL_K.
+AHLO            08Moral concepts, ideas, notions
+                     *   Add to AHL letters O/Y following PYM
+                     *   - e.g. is - ought question AHL_TR.
+                     *   Add to AHM letters B/Y following PYN.
+AHN             08Applied ethics ]IT
+                     *   Alternative (not recommended) to locating at
+                         PY (see notes at head of Ethics above).
+                     *   Add to AHN letters O/S following PY in
+                         PYO/PYS.
+AHNOC           09Moral actions ]IT
+AHNPB           10Virtue & vice ]IT
+AHNSB           09Fields of moral action ]IT
+AHNSD           10Social & private morality ]IT
+@               11((By person))
+AHNT            10Particular fields ]IT
+                     *   Alternative (within the general alternative)
+                         for libraries not wishing to distribute this
+                         subject throughout the classification (which
+                         is the preferred arrangement).
+                     *   Add to AHN letters T/X following PY in
+                         PYT/PYX.
+AHP             06Aesthetics
+                     *  MC3
+                     *   General philosophical studies only.
+                     *   For aesthetics as philosophy of art see Class
+                         W.
+AHPL            07Beauty, theory of beauty -
+AHPN            07Aesthetic experience
+AHPW            07Philosophy of art ]IT
+                     *   Alternative to locating with Art in Class W.
+                     *   Use this alternative only if the general
+                         alternative (for keeping the philosophy of
+                         special subjects with philosophy at AHR) is
+                         chosen.
+AHQ             05Applied philosophy
+                     *   Application of philosophy to practical issues.
+                         Specific applications are covered by the
+                         alternative classes below.
+AHR             05Philosophy of particular subjects ]IT
+                     *   Alternative (not recommended) for libraries
+                         wishing to keep these special `branches' in
+                         philosophy rather than subordinating them to
+                         the specific subjects (which is the preferred
+                         arrangement). If this option is taken, proceed
+                         as follows:
+                     *   Add to AHR numbers & letters 3/9, A/Z from the
+                         whole classification, except for logic,
+                         linguistics, morals & art (which already have
+                         alternatives collocating them with other
+                         branches of philosophy) and religion (which
+                         has a special alternative at AHT below).
+AHT             06Philosophy of religion
+                     *   Alternative (not recommended) to locating in
+                         Class P with Religion.
+                     *   If this option is taken, proceed as follows:
+AHTA            07)Philosophy(
+                     **  Colin: Classes down to theodicy taken from
+                         Class P.
+                     *   Add to AHT letters A/H following A in AA/AH.
+AHTY            07Theology
+AHU             08Evidence & bases of religion
+                     *   Add to AHU letters B/J following PB in
+                         PBB/PBJ.
+AHUC            09Natural theology
+AHUCC           09Systems of theology
+AHUCD           10Deism
+AHUCT           10Atheism
+AHUD            09Existence of God
+AHUF            09Revealed theology
+AHUO            08Doctrinal theology
+                     *   Add to AHU letters O/Y following PB in
+                         PBO/PBY.
+AHUOD           09Nature of God & activities of God
+AHUOT           10Theodicy
+AHUS            10Nature of spiritual world
+AHUU            09Nature of man
+AHUW            09Religious experience
+AHUY            10Mysticism
+AHUZ            09Moral theology & ethics
+                     *   Add to AHU_Z letters M/P following PC.
+AHUZMP          10Good & evil
+AI              03Eastern philosophy, Oriental philosophy
+                     *  MC2
+                     *   Citation order here differs from that for
+                         Western philosophy. This reflects three
+                         important differences:
+                     *   Firstly, historical schools are usually
+                         regarded as the primary point of departure in
+                         the study of the literature.
+                     *   Secondly, the schools are characterised by a
+                         combination of religious criteria & place.
+                     *   Thirdly, within a defining religious or moral
+                         system the concept of a school is closely
+                         related to that of major writers or works in
+                         the subject, which then constitute
+                         quasi-schools of their own. Associated with
+                         this feature is the prominence attaching to
+                         the idea of a `classic' forming the root from
+                         which may develop a large interpretative
+                         literature in the form of commentaries,
+                         `sutras' (formulae), etc.
+                     *   So the arrangement below is basically by
+                         religious system, but with a clustering under
+                         place where the religion is inextricably bound
+                         up with its place of origin (notably in the
+                         case of India & China). The filing order of
+                         the religions is designed to collocate with
+                         Western philosophy those systems having a very
+                         close connection with it (i.e. Judaism &
+                         Islam).
+                     *   Qualification of an Eastern system by
+                         Viewpoints & doctrines and by Branches is
+                         effected by adding letters B/H following A
+                         (for Western philosophy, which gives these in
+                         full detail) supplemented by doctrines etc.
+                         special to Eastern philosophies. But for Logic
+                         use the classmark provided under Branches at
+                         AHA, e.g. Nyaya logic AIP CHA. A summary guide
+                         to the subdivision of any Eastern system is
+                         given in Auxiliary Schedule AA1.
+                     **  Colin: check page reference above.
+                     *   To qualify a school or writer, use Auxiliary
+                         Schedule AA2.
+                     *   Add to AI numbers 2/9 following AA in AA2/AA9.
+AI9             04Metaphilosophy as qualifier ]IT
+AIA             04(Viewpoints & doctrines in Eastern philosophy)
+                     *   Add to AI letters B/C following A in AB/AC
+                         with the amendment shown below.
+AIBF            05((From the viewpoint of a particular doctrine))
+                     *   See explanatory notes at ABA regarding classes
+                         ABB/ABV.
+                     *   Add to AIB F letters F/V following AC in
+                         ACF/ACV.
+AIBG            05((Viewpoints reflecting methods of presentation in
+                           Eastern philosophy))
+                     *   Add to AIB letters H/R following AIM B.
+AIC             05((Doctrines common to all philosophy))
+                     *   Do not confuse this location with AIB F. which
+                         is only for the qualification of one doctrine,
+                         etc. by another.
+                     *   Add to AIC letters H/V following AC
+AICG            06)Rationalism(
+AICH            06)Empiricism(
+AICJD           06)Pragmatism(
+AICJV           06)Naturalism(
+AICK            06)Materialism(
+AICN            06)Idealism(
+AICPD           06)Pantheism(
+AICQ            06)Optimism & pessimism(
+AICRD           06)Scepticism(
+AICRL           06)Monism & pluralism(
+AICSE           06)Eclecticism(
+AICT            06)Phenomenology(
+AICU            06)Analytical philosophy(
+AICUN           07)Linguistic philosophy(
+AID             05((Doctrines special to Eastern philosophy))
+                     *   These consist primarily of doctrines special
+                         to Indian and to Chinese philosophy and are
+                         enumerated under these two classes (at AIM and
+                         AJF).
+AIDD            05((Doctrines particular to Indian philosophy))
+                     *   Locate here only those works treating these
+                         doctrines as applicable to Eastern philosophy
+                         in general.
+                     *   Add to AID D letters H/W following AIM D.
+                     *   Add to AID E letters A/V following AIM E.
+AIDF            05((Doctrines particular to Chinese philosophy))
+                     *   Locate here only those works treating these
+                         doctrines as applicable to Eastern philosophy
+                         in general.
+                     *   Add to AID F letters H/Y following AJF D.
+                     *   Add to AID G letters B/D following AJF E.
+AIDGY           05((Doctrines originating from other Eastern
+                           philosophies))
+                     *   Locate here only those works treating these
+                         doctrines as applicable to Eastern philosophy
+                         in general.
+AIE             04(Individual Eastern philosophers)
+                     *   Alternative (not recommended) corresponding to
+                         AE under Western philosophy (see there for
+                         explanation).
+AIF             04(Branches of philosophy)
+                     *   Add to AI letters F/H following A.
+AIFD            05)Metaphilosophy(
+AIGG            05)Metaphysics(
+AIGH            06)Ontology(
+AIGM            06)Cosmology(
+AIGR            05)Epistemology(
+AIGW            05)Philosophy of language & logic(
+AIHD            05)Philosophy of mind & action(
+AIHJ            05)Axiology(
+AIHK            06)Ethics(
+AIHP            06)Aesthetics(
+AIHR            05)Philosophy of particular subjects(
+                     *   Alternative (not recommended) to subordinating
+                         to subject.
+@               04((Systems strongly connected to Western philosophy))
+                     **  Jack: please check indent code here - Colin.
+AIJ             05Jewish philosophy
+AIJI            06((Sources))
+AIJJ            07Hebrew Bible -
+AIJN            06Pre-Christian & early Jewish philosophy
+@               07((Individual philosophers & works))
+AIJNL           08Philo Judaeus
+AIJNN           08Josephus
+AIJO            08Others - A/Z ]IT
+AIJP            06Medieval Jewish philosophy
+                     *   Alternative (not recommended) is to collocate
+                         this with Western philosophy at ADL.
+AIJPI           07((Sources))
+AIJPK           08Talmud
+AIJPL           07(Schools & traditions)
+                     **  Colin - Historical schools facet - ans; more
+                         or less.
+AIJPM           08Kabbalah, Cabbalah
+AIJPMI          09((Sources))
+AIJPML          10Zohar
+AIJPN           09(Individual philosophers - A/Z)
+                     *   See also Ibn Gabirol AIJ PS; Hallevi AIJ PT;
+                         Moses ben Nahmanides AIJ PV
+@               07((Individual philosophers & works in medieval
+                           period))
+AIJPQ           08Sa'adya (ben Josephus)
+@               09Book of beliefs & opinions
+                     **  Jack: need classmark here - Colin Sept.
+AIJPR           08Maimonides, Moses ben Maimon -
+@               09Guide for the perplexed
+                     **  Jack: need classmark here - Colin Sept.
+AIJPS           08Ibn Gabirol S -, Avicebron, Avencebrol
+AIJPT           08Hallevi Y -, Ibn David -
+                     **  Colin: Yehudah is first name.
+AIJPV           08Nahmanides M -
+AIJPW           08Crescas H -
+AIJPX           08Abrabanel I -
+AIJQ            08Others A/Z ]IT
+AIJS            06Modern period ]IT
+@               07(Individual philosophers)
+                     *   Class here only those philosophers who are
+                         specifically Jewish in their view of
+                         philosophy.
+AIJSP           08Ebreo L -, Judah Abrabanel
+                     **  Colin: Leone is first name.
+                     *   For Spinoza see ADS JJ
+AIJSR           08Mendelssohn M -
+AIJSS           08Cohen H -
+AIJST           08Ginzberg A -, Achad Haam -
+AIJSU           08Buber M -
+AIJSV           08Rosenzweig F -
+AIJT            08Others A/Z ]IT
+AIK             05Islamic philosophy, Arab philosophy, Muslim
+                           philosophy
+                     *   Alternative (not recommended) is to collocate
+                         this with Western philosophy at ADK.
+AIKBA           06(Viewpoints & doctrines)
+AIKBB           07((From the viewpoint of a broad philosophical
+                           tradition))
+AIKBBD          08Influence of Western philosophy ]IT
+AIKBBDC         09)Greek philosophy(
+AIKBBDHF        09)Neo-Platonism(
+                     **  Jack: check indent code - Colin.
+@               10(Individual works)
+AIKBBDHFT       11Theologia Aristotelis
+AIKBBDIR        09)Christian philosophy(
+AIKBC           07((From the viewpoint of a religious belief))
+@               08)Theodicy(
+AIKBCBOT        09Kalam, Muslim Scholastic theology
+AIKCE           07(Doctrines, standpoints, `isms')
+AIKCOS          08)Neo-Platonism(
+AIKCSG          08)Syncretism(
+AIKCV           07((Special doctrines))
+AIKCVD          08Dicta philosophorum
+                     **  Not checked - but assume is ok.
+AIKCVF          08Fatalism
+AIKI            06(Schools & traditions)
+AIKK            07Mu'tazilah school
+AIKL            07Sufism, Islamic mysticism
+AIKM            07Ishraqi school, Illuminationist school
+@               06((Individual philosophers & works))
+AIKP            07Al-Kindi Y -
+AIKQ            07Al-Farabi, Abunaser, Alfarabius
+@               08((Works))
+AIKQ62          09Virtuous city -
+AIKRE           07Epistles of the Brethren of Purity, Ishwan al-Safari
+                     **  Jack: check indent code - Colin.
+AIKRG           07Al-Rasi, Rhazes
+AIKRJ           07Al-Ash'ari
+AIKRN           07Avicenna, Ibn Sina
+AIKRP           07Al-Ghazali A H M -, Algazel
+@               08((Works))
+@               09Incoherence of the philosophers -
+                     **  Jack: classmark?
+AIKRR           07Averroes, Ibn Rushd -
+AIKS            07Others - A/Z ]IT
+AIKV            06Modern period ]IT
+                     *   Post c. 1400 AD.
+AIKVP           07Individual philosophers - A/Z ]IT
+@               04((Systems independent of Western philosophy))
+AIM             05Indian philosophy
+                     *  MC3
+AIMA            06(Viewpoints & doctrines)
+                     *   The viewpoints & doctrines facet at AIA is
+                         amplified here by an array of terms,
+                         reflecting the presentation of doctrines, etc.
+                         (which cite after & therefore file before
+                         those from AC) and another quasi-array (i.e.
+                         its concepts reflect varying characteristics)
+                         of concepts particular to Indian philosophy
+                         (which file after those from AC).
+AIMBG           07((Viewpoints reflecting methods of study &
+                           presentation & practice))
+AIMBH           08Hermeneutics, exegesis
+AIMBJ           08Commentaries, bhasyas
+AIMBK           09Subcommentaries, tikas
+AIMBM           09Sutras
+                     *   Variously translated as formulae, aphorisms,
+                         etc.
+AIMBP           09Karikas
+                     *   Summaries, usually in verse.
+AIMBR           09Meditation
+                     *   Most of the literature refers to Yogic
+                         systems; see AIO L.
+AIMC            07((Doctrines in Western philosophy))
+                     *   Add to AIM C letters B/Y following AC.
+AIMD            07((Doctrines from other Eastern philosophies))
+                     *   So far as they may be considered as elements
+                         in Indian philosophy.
+AIMDD           08((From Chinese philosophy))
+                     *   Add to AIM DD letters H/Y following AJF D.
+                     *   Add to AIM DE letters B/D following AJF E.
+AIMDF           08((From other Eastern philosophies))
+                     **  Jack how does this relate to AIMD - Colin??
+@               07((Doctrines special to Indian & related
+                           philosophies))
+                     **  Jack what is classmark here - Colin?
+                     *   It is very difficult to equate these very
+                         closely with particular concepts in Western
+                         branches of philosophy, to which many of them
+                         show multiple relations. The order of terms
+                         below is roughly the order in which these
+                         concepts come in AC except that the `goal'
+                         represented by the union of Brahman & Atman
+                         comes last.
+AIMDH           08Sunyata, emptiness of phenomena, being & not-being
+AIMDJ           08Dharmas, factors of existence
+                     *   See also Atomistic theory AIP DDQ
+AIMDK           09Tattwas, categories of that-ness
+                     *   These are usually, but not exclusively,
+                         associated with the Samkhya system AIO K.
+AIMDL           10Prakriti, Pradhana
+                     *   Basic substance or matter.
+AIMDM           10Purusha, pure consciousness
+AIMDN           10Buddhi, Mahat, cosmic consciousness
+AIMDP           10Ahamkara, senses
+AIMDQ           10Manas
+                     *   Mind as coordinating faculty.
+AIMDR           10Five motor organs
+                     **  Colin: five in index stoplist - jack does not
+                         want as entry point.
+AIMDT           10Tanmatras
+                     *   Five `potentials'.
+AIMDV           10Five atoms -
+                     *   Earth, fire, etc.
+                     **  Jack notes as above, Colin.
+AIMDW           10Other categories - A/Z ]IT
+AIMEA           08Chakras, Cakras
+                     *   Psychic centres in occult physiology.
+AIMEB           09Muladhara, Kundalini
+                     *   See also Kundalini Yoga AIO T
+AIMEC           09Saharara, Samadhi
+                     *   Self enlightenment.
+AIMED           08Avidya
+                     *   Effect of universal ignorance on pure
+                         consciousness - empirical reality.
+                     *   See also Vedanta-Sankara AIO BI.
+AIMEG           08Maya, illusion
+AIMEH           08Person, Podgala, Pudgala
+AIMEJ           08Ahankara, Selfconsciousness
+AIMEK           08Karma
+                     *   Action, works.
+AIMEM           08Duhkha
+                     *   Suffering resulting from desires, and the
+                         actions taken to satisfy them.
+AIMEO           08Samsara, cycle of rebirth, transmigration,
+                           reincarnation
+AIMEQ           08Liberation, Moksa
+                     *   From Samsara; in Buddhist philosophy,
+                         approximates to Nirvana.
+AIMES           08Brahman-Atman
+AIMET           09Atman
+                     *   Self, spiritual essence of man, merging
+                         monistically with Brahman in liberation.
+AIMEV           09Brahman
+                     *   Ultimate being, world soul, cosmic principle
+                         of unity.
+AIMF            06(Branches of philosophy)
+                     **  KB: Ask Ken re citation order.
+                     *   Add to AIM letters F/H following A in AF/AH.
+AIMI            06((Sources & classic writers & works))
+                     *   AIM I/J are used only to qualify specific
+                         systems below.
+@               06((Systems by originating work))
+AIMK            07Vedas
+AIML            08Rigveda
+AIMM            08Yajurveda
+AIMN            08Samaveda
+AIMO            08Atharvaveda
+AIMP            07Mahabharata
+AIMQ            07Upanishads
+AIMR            07Brahmasutra
+AIMS            07Bhagavad-Gita
+AIMT            07Puranas
+AIMU            08Bhagavata
+AIMV            07Other works ]IT
+                     **  Allow for Buddhist.
+                     **  * Reserve this classmark! e.g. AINIW.
+AIMW            06Other systems ]IT
+AIN             06Hindu philosophy
+                     *  MC3
+                     *   Hindu philosophy in general & all specific
+                         systems within it are divided like Indian
+                         philosophy in general (AIM A/AIM W).
+AINY            07Mimamsa-Vedanta
+AIOA            08Vedanta
+AIOB            09Advaita Vedanta, non-dualistic Vedanta
+@               10((Writers))
+AIOBI           11Sankara
+AIOBJ           12Others - A/Z ]IT
+@               10((Originating works))
+AIOBP           11)Mahabharata(
+AIOBR           11)Brahmasutra(
+AIOBRI          12Sankara
+AIOBS           11)Bhagavad-Gita(
+AIOBSI          12Sankara
+                     **  Jack: Is Sankara a compound class? - Colin
+                         december.
+@               10((Systems))
+AIOBW           11Praty-abhijna
+AIOBX           11Virasaiva advaita
+AIOC            11Visistadvaita, Vaisnava
+                     *   Qualified non-dualism.
+@               12((Writers))
+AIOCI           13Ramaniya
+AIOCJ           13Others - A/Z ]IT
+@               12((Originating works))
+AIOCR           13)Brahmasutra(
+AIOCS           13)Bhagavad-Gita(
+AIOD            11Saiva Siddhantam
+@               12((Writers))
+AIODI           13Mehkanda-devar
+AIODJ           13Others - A/Z ]IT
+@               12((Originating works))
+AIODR           13)Brahmasutra(
+AIOE            11Dvaita
+                     *   Dualism.
+                     *   See also Bhakti Yoga AIO V
+@               12((Writers))
+AIOEI           13Ananda-tirtha
+AIOEJ           13Others - A/Z ]IT
+@               12((Originating works))
+AIOEP           13)Mahabharata(
+AIOER           13)Brahmasutra(
+AIOES           13)Bhagavad-Gita(
+AIOEV           13)Bhagavata(
+AIOF            11Bheda-bheda
+AIOG            11Dvaitadvaita
+@               12((Orginating works))
+AIOGR           13)Brahmasutra(
+@               14((Writers))
+AIOGRI          15Nimbarka
+AIOGS           13)Bhagavad-Gita(
+AIOH            11Suddhadvaita
+@               12((Originating works))
+AIOHR           13)Brahmasutra(
+@               14((Writers))
+AIOHRI          15Vallabhacarya
+AIOI            08Mimamsa
+AIOIBH          09)Hermeneutics(
+AIOIGW          09)Philosophy of language & logic(
+AIOIGWCVE       10External prototype theory of language
+                     **  Jack: check indent - Colin.
+@               09((Systems))
+AIOIW           10Purva Mimamsa
+@               11((Writers))
+AIOIWI          12Jaimini
+AIOJB           10Bhatta Mimamsa
+@               11((Writers))
+AIOJBI          12Kumarila
+AIOJP           10Prabhakara Mimamsa, Gurumata
+AIOK            08Samkhya
+@               09((Special doctrines))
+AIOKDK          10)Tattwas, Categories(
+AIOKDL          11)Prakriti(
+AIOKDM          11)Purusha(
+AIOKDN          11)Buddhi(
+AIOKDQ          11)Manas(
+@               09((Writers & works))
+AIOKI           10Isvarakrsna
+AIOKJD          10Yuktidipika
+AIOKJK          10Kapila
+AIOL            08Yoga
+@               09((Writers))
+AIOLI           10Patanjali
+                     *   See also Raja yoga AIO X
+AIOLJD          10Vyasa
+AIOM            09Hatha yoga
+                     *   Alternative (not recommended) to treating as
+                         primarily concerned with health & wellbeing
+                         (at HKB V).
+AION            09Tantric yoga
+                     *   General term for physiological systems.
+                     *   Alternative (not recommended) to locating at
+                         HKB V.
+AIOO            09Mantra yoga
+                     *   Primary technique is enunciation of certain
+                         syllables, words, etc.
+AIOP            10Transcendental meditation
+@               11((Writers))
+AIOPI           12Maharishi Mahesh
+AIOQ            09Yantra yoga
+                     *   Primary techniques are sight & form.
+@               10)Meditation(
+                     **  Jack: classmark for this. Colin Sept.
+AIOQBR          11Mandalas
+AIOR            09Laya yoga & Kundalini yoga
+AIOS            10Laya yoga
+AIOT            10Kundalini yoga
+AIOTW           11Sahaja yoga
+AIOU            09Jnana yoga, Gnana yoga
+AIOV            09Bhakti yoga
+                     *   See also Dvaita vedanta AIO E
+AIOW            09Karma yoga
+AIOX            09Raja yoga, royal yoga
+AIOY            09Others ]IT
+AIOYB           10Tibetan yoga
+AIPB            07Nyaya-Vaisesika
+AIPC            08Nyaya
+AIPCHA          09)Logic(
+                     *   See 6th note at AI.
+@               10((Writers & works))
+AIPCHAIG        11Gautama, Aksapada Gautama -
+AIPCHAIJ        11Vatsyayana
+AIPCHAIL        11Uddyotat-kara
+AIPCHAIN        11Jayanta Bhatta
+AIPCHAIP        11Gangesa Upadhyaya
+AIPCHAIQ        12Navya-Nyaya
+                     **  Jack: check classmark ok - Colin Sept.
+AIPCHAJ         11Others - A/Z ]IT
+AIPD            07Vaisesika
+AIPDDQ          08)Atomistic theory(
+@               08((Other categories))
+AIPDDRG         09Theory of six categories
+AIPDDRJ         09Jivas, eternal souls
+@               08((Writers))
+AIPDIK          09Kanada U -
+AIPDIP          09Prasasta-pada Acarya
+AIPDIV          09Vallabhacarya
+AIPDJ           09Others - A/Z ]IT
+AIPM            07)Modern Hindu philosophy(
+@               08((Writers))
+AIPMID          09Ramakrishna
+AIPMIG          09Vivekananda
+AIPMIK          09Tagore R -
+AIPMIN          09Aurobindo
+AIPMIR          09Radhakrishnan
+AIQ             06Buddhist philosophy
+                     *  MC3
+AIQBR           07)Meditation(
+AIQBS           08Kammathanas
+                     *   Objects of concentration.
+AIQBT           08Dhyanas
+                     *   Stages in meditation.
+AIQBU           08Sampattis
+                     *   Attainments, consciousnesses.
+@               07((Special doctrines))
+AIQDH           08)Sunyata(
+AIQDJ           08)Dharmas(
+@               08)Liberation(
+                     **  Jack - check classmark is ok. Colin Sept.
+AIQEQ           09Nirvana
+@               07((Individual writers, persons))
+AIQI            08Buddha, Siddhartha Gauthama
+                     *   If Buddha per se is specific subject.
+@               07((Systems))
+AIR             08Hinayana
+AIS             09Theravada
+AIT             10Sarvastivada
+@               11((Writers))
+AITI            12Vasubandhu
+AITJ            12Others - A/Z ]IT
+AIU             10Sautrantika
+@               11((Writers))
+                     **  Jack: this duplicates class above AISI? -
+                         Colin Sept.
+AIUI            12Kumaralata
+                     **  Jack: Vaibhasika - Colon R942 - nowhere in
+                         Authorities.
+AIUJ            12Others - A/Z ]IT
+                     **  Jack: classmark needed - Colin Sept.
+AIV             08Mahayana
+@               09((Systems by orginating works))
+AIVVB           10Prajnaparamita
+AIX             09Madhyamaka
+@               10((Special doctrines))
+AIXDH           11)Sunyata(
+@               10((Writers))
+AIXID           11Nagarjuna
+AIXIG           11Arya-deva
+AIXIK           11Buddhapalita
+AIXIN           11Candrakirti
+AIXJ            11Others - A/Z ]IT
+AIY             09Yogacara, Vijnanavada
+@               10((Writers))
+AIYID           11Lankavatara
+AIYIG           11Saramati
+AIYIK           11Maitreya
+AIYIN           11Azanga
+AIYIQ           11Vasubandhu
+AIYIV           11Yogacarabhumisastram
+AIYJ            11Others - A/Z ]IT
+AJB             08(National schools)
+                     *   Add to AJB letters D/Z from Schedule 2
+                     *   - e.g. Tibetan Buddhist philosophy AJB RN.
+AJC             06Jain philosophy
+@               07((Writers))
+AJCID           08Umasvati
+AJCIK           08Kunda-Kunda
+AJD             06Indian materialism, Carvaka
+@               07(Branches of philosophy)
+AJDGQF          08)Freedom & determination(
+AJDGR           08)Epistemology(
+AJE             06Other Indian philosophical systems ]IT
+AJF             05Chinese philosophy
+                     *  MC3
+                     *   Letters A/O following AJF are added to all
+                         systems of Chinese philosophy.
+@               06(Viewpoints & doctrines)
+AJFCJF          07)Humanism(
+AJFDD           07((From Indian philosophy))
+                     *   Add to AJF DD letters H/W following AIM D.
+                     *   Add to AJF DE letters A/V following AIM E.
+AJFDF           07((From other Eastern systems))
+                     *   So far as they may be considered as relating
+                         to Chinese philosophy.
+@               06((Special doctrines))
+AJFDH           07Ch'i
+                     *   Material force, matter-energy.
+AJFDJ           07T'ai-chin
+                     *   Great ultimate.
+AJFDL           07Tao, The Way
+                     *   Of man & of virtue in Confucius; of nature in
+                         Lao Tzu.
+AJFDN           08Te, virtue
+AJFDP           09Jen
+                     *   Humanity, love.
+AJFDR           09I, Yi, righteousness
+AJFDS           09Li (Tao)
+                     *   Ritual norms, principle.
+AJFDT           09Chung
+                     *   True to oneself.
+AJFDV           09Hsiao
+                     *   Filial piety.
+AJFDY           08Yin Yang
+                     *   Cosmic elements of opposed or contrasting
+                         forces.
+AJFEB           07T'ien
+                     *   Heaven, as supreme spiritual reality.
+AJFED           08T'ien Ming, Mandate of Heaven -
+AJFF            06(Branches of philosophy)
+                     *   Add to AJF letters F/H in AF/AH.
+@               06((Classic works))
+AJFJ            07Wu ching, Five classics
+                     *   Usually assumed to be Confucian but in fact
+                         antedating Confucianism.
+AJFK            08I Ching, Classic of changes, Book of changes -
+AJFL            08Shu ching, Classic of history -
+AJFM            08Shih Ching -
+AJFN            08Li Chi -
+AJFO            08Ch'un Ch'iu -
+AJG             06Classical age of Chinese philosophy -
+                     *   Age of hundred philosophers c. 550 BC -
+                         200_BC.
+                     *   Add to AJG letters A/O following AJF.
+AJH             06Taoism
+                     *   Add to AJH letters A/O following AJF.
+@               07((Writers & works))
+AJHR            08Lao-Tzu, Tao-te Ching -
+AJHS            08Chuang-Tzu
+AJHT            08Lieh-Tzu
+AJJ             06Confucianism
+                     *   Add to AJJ letters A/O following AJF.
+@               07((Writers & works))
+AJJR            08Confucius
+AJJS            09Analects, Lun-yu
+AJJT            08Canons of Confucian classics
+@               09((Minor classics))
+AJJUO           10Hsiao Ching -
+AJJV            08Mencius, Meng-tzu
+AJJWC           08Hsun Tzu -
+AJJWF           08Fung Chung-Shu
+AJJWH           08Yang Hsiung -
+AJJWJ           08Wang Ch'ung -
+AJJWL           08Li Ao -
+AJJWN           08Han Yu -
+AJJWX           08Others - A/Z ]IT
+AJK             07Neo-Confucianism
+                     *   Add to AJK letters A/O following AJF & letters
+                         R/W following AJJ.
+AJL             08Li Hsueh system
+@               09((Writers))
+AJLXC           10Ch'eng brothers -
+AJLXD           11Ch'eng I -
+AJLXE           11Ch'eng Hao -
+AJLXG           10Chu Hsi -
+AJLXJ           10Others - A/Z ]IT
+AJM             08Hsin Hsueh system -
+@               09((Writers))
+AJMXC           10Lu Chiuh-yuan -
+AJMXE           10Wang Yang Ming -
+AJMXJ           10Others - A/Z ]IT
+AJN             08Han Hsueh system -
+@               09((Writers))
+AJNXC           10Ku Yen-wu -
+AJNXJ           10Others - A/Z ]IT
+AJO             07)Modern Confucianism(
+                     *   Since c. 1850.
+AJOX            08Writers - A/Z ]IT
+AJP             06Moism
+@               07((Writers))
+AJPXC           08Mo Ti -
+AJPXJ           08Others - A/Z ]IT
+AJQ             06Yin Yang system
+                     **  Check - doctrines & systems?
+AJR             06Dialecticians school
+@               07((Writers))
+AJRXC           08Hui Shih -
+AJS             06Legalist school
+@               07((Writers))
+AJSXC           08Han-Fei
+AJT             05((Philosophies based on other Oriental religions))
+                     *   This is a logical completion of the
+                         Place/Religion facet rather than a class
+                         reflecting a real literature.
+@               05((Philosophy of other parts of the East))
+AJV             06Ancient world ]IT
+                     *   Add to AJV letters C/O following C in Schedule
+                         2 (except for Israel, Arabia, India & China).
+AJW             06Modern world ]IT
+                     *   Except for literature on the religion-based
+                         philosophies above.
+                     *   Add to AJW letters O/T in Schedule 2.
+AJX             02Tradition of special significance to library ]IT
+                     *   Alternative (not recommended) for libraries
+                         having a special collection on a particular
+                         tradition (e.g. German philosophy) which is
+                         distributed to some degree by the preferred
+                         arrangement but which the library wishes to
+                         keep together (i.e. by subordinating to the
+                         tradition all other facets in philosophy). If
+                         a library takes this action, proceed as
+                         follows:
+                     *   Add to AJX letters B/H following A in AB/AH -
+                         e.g. (assuming German philosophy is the
+                         special tradition) idealism in German
+                         philosophy AJX CN.
+AK              01Science of science, Formal science, Abstract science,
+                           Scientia
+                     *   Science in its broadest sense. Includes
+                         'formal' science of logic and mathematics as
+                         well as empirical sciences (natural and
+                         social) and those applications often described
+                         as `sciences' (e.g. medical sciences,
+                         engineering sciences, information sciences).
+                         It excludes only the Humanities (Philosophy,
+                         history, religion, arts, philology). For works
+                         on a particular science, see the appropriate
+                         class (e.g. B Physics, HM Medicine).
+                     *   The connections of science with technology as
+                         a whole area are very close, both conceptually
+                         and bibliographically. So separate provision
+                         is made for them, when treated together, in
+                         AY. Class AY also takes that literature which
+                         considers the detailed methods, techniques,
+                         instrumentation, etc of science and technology
+                         and their concrete relations with social
+                         products since it is very difficult to
+                         distinguish the literature on these aspects of
+                         the two classes.
+                     *   So this class AK is restricted mainly to the
+                         more general and abstract consideration of
+                         pure science as a major form of knowledge. For
+                         scientific research, practise of science, etc.
+                         see Empirical science AY.
+@               02)Common subdivisions(
+@               03)Persons in the subject(
+AK4             04Scientist
+                     *   See also Biography of scientists AK ;
+                     *   Social aspects of science AK.
+AK4L            05((By ethnic group))
+                     *   E.g. Jewish scientist ??
+AK4N            05((By sex))
+                     *   E.g. Women scientist ??
+@               05((By status)) Amateurs in science (Researchers)
+                     *   See ??
+AK4UM           06Technicians in science, auxiliaries in science
+AK5             03)Organisations in Science(
+AK5C            04)Conference(
+AK5D            04)International bodies(
+@               05((By name A/Z))
+AK5E            04)National bodies ((By country))(
+                     *   Add to AK letters D/Z from Schedule 2.
+AK5J            05)Government bodies(
+                     **  What about inter-governmental bodies. Also
+                         world government bodies such as UNESCO go at
+                         AK5D or not? CN.
+AK5M            03)Communication & information in science(
+@               04)Semiotics(
+AK5MS           05Signs & symbols in science
+AK5MV           06Codes, notations
+                     *   For metric system, see Metrology
+AK5N            05Language of science, terminology, nomenclature
+AK5NN           06Abbreviations
+AK5P            04Data processing
+                     **  Where does non-data processing element of
+                         computing in science go? CN.
+AK5QE           04Authorship in science, science writing
+                     **  Relationship to creativity, priority,
+                         discovery & invention, intellectual property?
+                         CN.
+AK5QG           05Correspondence in science
+AK5R            04)Documentation(
+AK5RHP          05Illustration in science
+AK6A            03)Study, education and training in science(
+AK6C            04)Research(
+                     *   Empirical and experimental research is closely
+                         allied to practical & experimental work and
+                         these two classes have been integrated at A??
+                         below.
+                     *   This general class Research is retained here
+                         to allow qualification if necessary of class
+                         preceding A in filing order.
+AK6QT           04)Exhibitions, collections of objects(
+AK6R            05((Science museums by place))
+                     *   For special types of collections (e.g. of
+                         living things in biology) see subject
+                         concerned.
+                     *   Add to AK6 R letters C/Z from Schedule 2.
+AK6SV           03)Curiosities, mysteries in science(
+@               04Natural wonders of the world
+                     **  A wonderful classname. CN.
+AK6SX           03)Frauds, deceptions, hoaxes(
+AK6SY           03)Recreations, popular science(
+@               03)Relations with other subjects(
+                     *   For social aspects and organisations of
+                         science, see ??
+                     *   for philosophy of science, see ??
+AK7             03History of science
+                     *   Including works which consider technology as
+                         well but only insofar as it is contributory
+                         to, or inseparable from science.
+AK77            04Historiography of science
+                     *   History of writings & studies in history of
+                         science.
+                     *   Notation provisional; (class taken from L
+                         History (not yet published 1988).
+AK77A           05(History of science as a discipline)
+AK78            06)Sources and methodology(
+                     *   As a subject itself. Early scientific works
+                         (up to 1800) are classed under the period in
+                         which they were contemporary. If limited to a
+                         specific subject, they go under the history of
+                         that subject.
+AK79            04)Ancillary studies in history ((By period and
+                           place))(
+                     *   The universality of science is such that
+                         period is much more significant characteristic
+                         than place. So the preferred arrangement here
+                         is to cite period before place.
+                     *   But an alternative (not recommended)
+                     *   is provided at AK7 B where period may be cited
+                         after place (so filing before it).
+AK7B            05((By period))
+                     *   Alternative
+                     *   for libraries citing place before period (see
+                         note above).
+                     *   Add to AYKB letters from Schedule 4B
+AK7D            05((By place))
+                     *   For general works on history of science in a
+                         given place. If confined to a particular
+                         period, cite period first (from AY)
+                     *   Add to AYK 7 letters D/Z from Schedule 2.
+@               05((By broad period))
+AK8BD           06Pre-history and primitive science (general)
+                     **  Primitive meaning early not always
+                         rudimentary? CN.
+AK8BE           07Ancient science (general)
+                     *   Including works dealing with Ancient &
+                         pre-history together.
+AK8C            07)Near east and Mediterranean(
+                     *   Add to AK8 C letters CD/LL following C in
+                         Schedule 2.
+                     *   Add to AK8 D letters MV/Y following ?? in
+                         Schedule 2. - e.g. Babylonian science ??.
+AK8E            07)Europe other the Mediterranean(
+                     *   Add to AK8 E letters E/N from Schedule 2 so
+                         far as applicable. )Asia other than near East(
+                     *   Add to AK8 E letters O/TQ from Schedule 2.
+                         )Oceania & Australasia(
+                     *   Add to Ak8 E letters TR/U from Schedule 2.
+                         )Africa(
+                     *   Except Egypt and North Africa.
+                     *   Add to AK8 E letters WP/Z from Schedule 2
+AK8FA           06Post-Ancient, Medieval and Renaissance together
+                           (general)
+AK8FB           07Medieval science
+                     *   Add to AK8 F letters D/Z from Schedule 2.
+AK8G            07Renaissance science (1400/1599)
+                     *   Add to AK8 G letters D/Z from Schedule 2.
+                         (Modern period)
+AK8J            08)17th century(
+AK8L            08)18th century(
+AK8N            08)19th century(
+AK8Q            08)20th century(
+AK8V            07Scientific trends, futurology in science
+                     *   Speculations on future history of science.
+                     *   For scientific forecasting see ??
+AK92            03Biography of scientists
+AK94            04)Collective biography(
+AK96            04)Individuals - A/Z(
+                     **  Is it possible to distinguish popular
+                         biography writing (a kind of hagiography) from
+                         critical or literary biography? CN.
+AK9A            02Social aspects of science, science and society
+                     *   Add to AK9 letters E/J following K9.
+                     *   Add to AK9 K ?? letters A/Y following K at
+                         K9Q/KY.
+AK9EF           03)Forecasting(
+AK9EP           04Science policy
+@               05)Organizations(
+AK9EP5          06Policy making bodies
+AK9EP5J         07)Government(
+AK9G            05Planning and development in science
+AK9KA           05Social system of science, science system
+                     *   Science as a subsystem of society as a whole.
+AK9KBV          06Scientific culture
+AK9KD           07(Social processes)
+AK9KDB          08Science input
+                     *   Science as agent of change, etc!
+AK9KFD          06Attitudes to science
+AK9KHK          06Rewards in science
+AK9KHKM         07Scientific awards and medals
+AK9KIG          03)Hostility(
+@               04Antiscience
+AK9KLK          03)Communities(
+@               04Scientific community
+AK9KLKFB        05Institutionalization of science
+@               06)Informal structures( Invisible colleges
+                     *   For specific formal organizations in science,
+                         see Organizations AY.
+AK9KW           03)Custom, folklore & mythology(
+AK9L            03((Other aspects of society))
+                     *   Add to AK9 letters L/Y from the main
+                         classification.
+AK9T            04)Economics(
+@               05Science needs
+@               06Science priorities
+@               05Science resources
+@               05Science potential
+AKAD            02Science as a discipline -
+@               03(Attributes of scientific enquiry)
+AKAE            04Autonomy of science
+AKAF            04Scientific constraints, limits of science
+AKAG            04Scientific criteria
+AKAI            04Imagination in science, intuition in science,
+                           aesthetics of science
+                     **  These could be distinct classes, also creative
+                         thinking in science etc. CN.
+AKB             03Philosophy of science
+                     *   Add to AK letters B/J following A in AB/AJ.
+@               04(Schools of thought) (Special to science or a
+                           particular science)
+                     *   E.g. Evolutionism see Biology Scientism
+                         (Ethics) Scientific values, ethics in science
+                         Responsibilites of science
+AKL             03Logic in science
+                     *   For detailed procedures of scientific
+                         methodology,
+                     *   see Scientific research ??
+AKNB            03Objectives of science
+AKNC            04Expanation in science
+AKNG            05Scientifc theories
+                     *   For theory as investigative method in
+                         scientific research, see AY.
+AKP             06Paradigms
+AKPR            07Scientific revolutions
+AKR             05Scientific laws, laws of nature
+AKRN            06Causation in scientific explanation
+@               02(Phenomena studied, objects of scientific enquiry)
+                     *   See AYU
+AL              02Logic, Formal logic
+                     *  MC2
+                     **  Version based on version from Jack Mills
+                         (10.5.90)
+                     **  Corrected for final page draft Colin Neilson
+                         (5.7.90)
+                     *   Autonomous science of the objective, formal
+                         conditions of valid reasoning.
+                     *   Alternative (not recommended) is to treat as
+                         branch of philosophy, at AHA.
+                     *   Because of the very close relationship to
+                         mathematical logic (AM4) the schedule here has
+                         been made in parallel with that at AM4. Notes
+                         indicate where classes have additional detail
+                         in AM4.
+AL2             03(Common subdivisions)
+                     *   Add to AL2 numbers 2/8 from Auxiliary Schedule
+                         1 with the modifications indicated below.
+AL23B           04)Dictionaries - glossaries(
+AL23C           04)For particular kinds of readers(
+AL23CS          04)For lawyers(
+AL26A           04)Study & education in logic(
+AL26T           03(Phase relations, relations with other subjects)
+                     *   Much of the literature on this will go under
+                         Metaphilosophy of logic, at AL3 3FD.
+AL27            03)History & historical schools(
+                     *   In philosophy itself there is a primary
+                         bifurcation into Western & Oriental
+                         philosophy. This distinction is not retained
+                         under logic. The two broad traditions are
+                         treated simply as two `superschools' under
+                         historical schools & are consequently cited
+                         after specific problems in logic.
+                     *   The treatment in mathematical logic is
+                         slightly different & follows that for
+                         mathematics in general.
+@               04((Periods))
+                     *   General works only on a period, covering both
+                         East and West.
+                     *   Add to AL2 7 letters A/V from Auxiliary
+                         Schedule 4B.
+@               04((Places))
+AL28            05Western logic
+AL29            06((Individual places))
+                     *   General works on them; if restricted to a
+                         given period see AL2 B/V below.
+                     *   Add to AL2 9 letters D/Z from Schedules 2 as
+                         applicable.
+@               06((Broad period divided by Place))
+                     *   Add to AL2 letters B/V - e.g.
+AL2FE           07Stoic logic
+AL2MD           07Scholastic logic
+AL2SKL          07Leibnitz & logic
+AL2X            05Oriental logic, Eastern logic
+                     *   Add to AL2 X letters A/Y following AI - e.g.
+                         Nyaya logic AL2 XOC.
+                     *   Add to AL2 Y letters A/W following AJ.
+AL32            04)Biography, individual logicians( ]IT
+                     *   Alternative (not recommended) to subordinating
+                         individuals to historical schools above AL2
+                         B/V.
+                     *   Arrange A/Z by name. See Introduction, Section
+                         10.24 for notes on alphabetisation.
+AL33            03Philosophy of logic
+                     *   Provision is made for the qualification of any
+                         topic in logic by concepts from philosophy.
+                     *   For historical schools of logic and individual
+                         writers see AL2 7/Y above.
+                     *   Add to AL3 3 letters B/C, F/H following A in
+                         AB/AC, AF/AH. A selection of prominent classes
+                         is given below for convenience.
+AL33B9          04(Metaphilosophy as qualifier)
+AL33BA          04(Viewpoints & schools)
+                     *   To qualify works written from a particular
+                         viewpoint.
+AL33BB          05((From viewpoint of a broad tradition))
+                     *   See example of use at ABB.
+AL33BC          05((From viewpoint of a religion))
+AL33BD          05((From viewpoint of a particular logician or
+                           philosopher))
+                     *   See note at ABD as to use.
+AL33BF          05((From viewpoint of a particular doctrine, etc))
+AL33CA          04(Doctrines & standpoints)
+                     *   For works about these.
+AL33CTJ         05Phenomenological in logic
+AL33FAY         04(Branches of philosophy in logic)
+@               05<Metaphilosophy>
+AL33FD          06Philosophy of logic (narrowly), logical theory
+                     *   Sometimes considered as a separate part of
+                         logic, of which the other part is formal
+                         logic. For philosophical logic, see AL3 3GW.
+@               06(Relations with other subjects)
+                     *   See note at AFX. The logic of a given subject
+                         goes with that subject (collocated with its
+                         philosophy).
+AL33FX          07Natural language & logic, informal logic
+                     *   There are other definitions of informal logic,
+                         but this is probably the most helpful one.
+AL33G           05)Metaphysics(
+AL33GK          06Universals & particulars
+AL33GS          05)Epistemology(
+                     *   See also Epistemic logic AGS KX
+@               06<Ways of knowing>
+AL33GU          07Logic of knowing
+@               06<Belief>
+AL33GVN         07Logic of belief
+@               06<Certainty>
+AL33GVT         07Logic & certitude
+@               05<Philosophy of language & logic>
+                     *   As applied to logic narrowly. Philosophical
+                         treatment of the concepts as they affect
+                         philosophy itself go at AGW (philosophical
+                         logic).
+                     *   A selection of typically relevant concepts is
+                         given below for convenience.
+AL33GW          06Philosophical logic
+AL33GWJ         07)Communication(
+AL33GWL         08)Signs & semiotics(
+AL33GWLN        09)Philosophical syntactics(
+AL33GWLP        09)Philosophical pragmatics(
+AL33GWP         08)Categories(
+AL33GWQ         07)Philosophical semantics(
+AL33GWR         08)Meaning(
+AL33GWT         08)Definition(
+AL33GWU         08)Naming(
+AL33GWUJ        08)Names(
+AL33GWW         08)Referring, reference(
+AL33GXE         08)Meaningless(
+AL33GXK         07)Propositions(
+AL33HD          05)Philosophy of mind & action(
+@               05)Philosophy of psychology(
+AL33HI          06Psychology of logic
+AL33HJ          05)Axiology(
+AL33HK          06Ethics & logic
+@               05)Religion(
+AL33HT          06Religion & logic
+AL33L           03(Agents & instruments)
+AL33M           04Logical machines
+AL33P           05Computers
+@               04)Conceptual aids(
+                     *   See also Algorithms & recursion in
+                         mathematical logic AM4 G
+AL33S           05Symbols
+AL33X           03Mathematics of logic (general)
+                     *   This is applicable primarily to mathematical
+                         logic (AM4). This class is provided for those
+                         occasions when mathematical concepts are used
+                         to qualify concepts in general logic. It uses
+                         the same modification of the provisions from
+                         Auxiliary Schedule AM1 as is used in AM4.
+                     *   Add to AL numbers 34/8H from Auxiliary
+                         Schedule AM1.
+                     *   Add to AL9 numbers 8J/9 and letters A/W from
+                         Auxiliary Schedule AM1 A selection of some
+                         prominent concepts is given to show the scope
+                         & arrangement of the class.
+AL34            04(Forms of mathematical presentation)
+AL35            05Errors
+AL3A            05Theory
+AL3B            05Hypotheses
+AL3E            05Axioms
+AL3F            05Theorems
+AL3H            05Formulae
+AL3J            05Proofs
+AL3L            05Models
+AL3P            05Foundations of mathematics (logic)
+AL62            05((Methods by various characteristics))
+AL74P           04(Mathematical operations & processes)
+AL98J           04(Mathematical relations)
+AL9MN           04)Mathematical properties(
+AL9PA           04)Mathematical elements & systems(
+@               03(Systems of logic)
+AL9X            04Classical logic (general), traditional logic
+                           (general)
+                     *  MC3
+AL9Y            04Symbolic logic (general), Modern logic (general)
+                     *  MC3
+                     *   All formal logic, including Aristotelean, uses
+                         symbols. The term `symbolic logic' denotes the
+                         modern logic, beginning effectively with Boole
+                         & De Morgan, which has developed a much
+                         greater use of symbols in logic & the use of
+                         logic as a calculus.
+                     *   For applications of symbolic logic to
+                         mathematics, see Mathematical logic, AM4 9X.
+ALA             04Deductive logic
+                     *  MC3
+                     *   The vocabulary which follows (ALA/ALS) usually
+                         assumes deductive processes. Insofar as it
+                         applies also to inductive logic, the same
+                         vocabulary may be applied retroactively to it
+                         (at ALT). The classes ALA/ALS themselves
+                         include works dealing with deductive &
+                         inductive logic together.
+ALAD            05(Logical properties)
+                     *   Many of these properties will rarely appear on
+                         their own, but only as qualifiers of
+                         particular concepts (especially in
+                         mathematical logic).
+                     *   Some of these apply primarily or only to
+                         particular concepts in logic (e.g.
+                         enumerability in algorithms). But they are
+                         given here in a unified array for clarity and
+                         simplicity.
+ALAF            06Effectiveness
+                     *   For algorithms, see ALG.
+ALAG            06Complexity
+ALAH            06Consistency
+ALAJ            06Logical form
+ALAL            06Independence
+ALAM            06Completeness
+                     *   For Godel's incompleteness theorem, see
+                         mathematical logic AM.
+ALAN            06Confirmation
+                     *   Relation between propositions when one
+                         supports or adds credence to another.
+ALAP            06Derivability
+ALAQ            06Constructability
+@               06((Decision properties))
+                     *   Applicable primarily in problem solving.
+ALAS            07Enumerability
+ALAT            07Decidability
+ALAU            08Undecidability
+ALAV            08Truth tables
+@               06((Propositional properties))
+                     *   Applicable primarily in propositions, etc.
+ALBB            07Equivalence
+ALBC            08Identity
+ALBE            07Opposition
+ALBH            07Truth
+@               08(Operations)
+ALBJ            09Verification
+ALBK            08Modalities
+                     **  Reserve L/P for Modal logic ALV.
+ALBQ            08Truth values
+@               08(Types)
+ALBS            09Necessary truth
+ALBT            09Contingent truth
+@               05(Logical operations)
+ALD             06Reasoning, argument
+                     *   For forms of argument see arguments (logical
+                         functions) ALC 8L.
+@               07(Elements)
+ALDF            08Fallacies, sources of error
+ALDG            09Formal fallacies
+ALDH            09Verbal fallacies, fallacies of ambiguity
+ALDJ            09Material fallacies
+ALDL            08Paradoxes
+ALDM            09Liar paradox
+ALDP            08Contradictions
+                     *   For logical fictions see ALK W
+@               07((Techniques in reasoning))
+ALDR            08Eristic disputation
+ALDS            08Dialectic
+ALDT            08Socratic method
+ALDV            08Analogy, likeness
+ALEB            06Analysis
+ALED            06Interpretation
+                     *   Assigning meanings to the expressions.
+ALEF            06Formalization
+                     *   Ensuring a theory is well defined.
+ALEH            06Implication, entailment
+                     *   Does not necessarily assume truth of premises.
+ALEN            06Inference
+                     *   Assumes truth of premises asserted.
+ALF             06Axiomatics, postulational method
+ALF3E           07)Axioms(
+@               07)Theorems(
+ALF3H           07)Formulae(
+ALF3HJ          08Derivable formulae
+ALF3HL          08Well-formed formulae, WFF
+ALFH            07Logical syntax
+ALFJ            08Formation rules
+                     *   See also Inference in general ALE N
+ALFN            08Transformation rules
+ALFP            08Vocabulary
+ALFS            07)Semantics( ]IT
+                     *   Main application is to formal structures ALJ
+                         X.
+ALFV            06Problem solving (general), solution (general)
+ALG             07Algorithms (general)
+                     *   Most of the literature goes under formal
+                         structures in mathematical logic, AM4.
+                     *   Details from AM4 G may be added here if
+                         necessary; proceed as follows:
+                     *   Add to ALG letters J/Y following AM4G
+                     *   Add to AL letter H following AM4 A brief
+                         selection of prominent terms is given here for
+                         convenience.
+ALGJ            08Decision procedures
+ALGK            08Solution & solvability
+ALGN            08Calculation & calculability
+ALH             08Recursion
+ALHM            08Forms of algorithms ]IT
+ALJX            05((Formal structures in logic))
+ALJXFS          06)Semantics(
+ALJY            06Logical calculus
+                     *   Use this position for works dealing with
+                         propositional & predicate calculus together.
+@               07(Elements of logical calculus)
+ALK             08Propositions (general)
+                     *   Use this position for works considering
+                         propositions, statements & sentences together.
+                         For the three specifically, see ALL/ALM.
+                     *   For propositions in philosophical logic, see
+                         AGX K.
+                     *   For propositional functions, see Predicate
+                         calculus ALO C8L.
+ALK3A           09)Theory(
+ALK3C           10Theory of types
+ALK3D           11Vicious circle principle -
+@               09(Properties)
+@               09(Elements in propositions)
+                     **  * Allow extra here for Predicate calculus.
+ALKL            10Truth functional elements
+ALKM            10Operators
+ALKN            11Quantifiers
+                     *   For syllogism, see Predicate calculus ALO.
+ALKR            10Terms, expressions
+ALKS            10Intension, connotation
+                     *   See also Definition AGW T
+ALKT            10Extension, denotation
+ALKV            10Denoting phrases, descriptions
+ALKW            11Logical fictions
+ALKX            10Logically proper names
+@               09(Types of propositions)
+ALL             10Propositions (narrowly), judgements
+ALLM            11Simple propositions, categorical propositions
+ALLN            12Universal or particular propositions
+ALLO            12Affirmative or negative propositions
+ALLP            12Singular propositions
+ALLQ            11Compound propositions
+ALLR            12Conditional propositions, hypothetical propositions,
+                           implicative propositions
+ALLS            13Counterfactuals
+ALLU            12Distinctive propositions, alternative propositions
+ALLV            12Conjunctive propositions
+ALLW            12Truth function propositions
+                11    * For basic or atomic or molecular propositions see
+                           Philosophical logic AHS K
+ALME            10Statements, assertions
+ALMG            10Sentences
+ALMI            11Imperative sentences
+@               07(Types of logical calculi)
+ALMS            08Formal systems in general ]IT
+                     *   See also Mathematical logic AM4 MS.
+ALMV            08Calculus of classes
+                     *   For Boolean algebra, see AM.
+                     *   See also Set theory AM5
+ALN             08Propositional calculus
+ALNGJ           09)Decision procedures(
+ALNGJAV         10Truth tables
+ALO             08Predicate calculus
+                     *   Usually assumes classical first order
+                         predicate calculus. For general works
+                         specifically restricted to it, use ALO R.
+@               09(Operations)
+ALOC8J          10Relations
+ALOC8L          10Propositional functions
+                     *   Operations which, when applied to one or more
+                         objects (arguments for the function) yield
+                         another object (value of the function for that
+                         argument).
+@               09(Elements)
+ALOKN           10)Quantifiers(
+ALOKO           10Syllogism
+ALOKOCR         11Reduction (syllogism)
+ALOKP           12Categorical syllogism
+ALOKQ           12Conditional syllogism
+ALOS            09First order predicate calculus (general)
+                     *   General works only; do not qualify by
+                         operations, elements, etc.
+ALOT            09Higher order predicate calculus
+ALOT3C          10)Theory of types(
+@                09   * For proofs, proof-theory (applies mainly to
+                           mathematical logic) see AM4 P
+@                09   * For models, model theory (applies mainly to
+                           mathematical logic) see AM4 Q
+ALT             04Inductive logic, empirical logic
+                     *   See note under deductive logic, ALA.
+                     *   For probability & logic of chance, see AX.
+ALT3B           05)Hypotheses(
+ALTCP           06Prediction
+ALTEN           05)Inference(
+@               04((Other forms of argument))
+ALU             05Mathematical logic ]IT
+                     *   Alternative (not recommended) to AM4 for
+                         libraries wishing to keep all logic together.
+ALV             05Modal logic, logic of necessity & probability
+ALVBK           06)Modalities(
+ALVBL           07Alethic modality
+                     *   Usually assumed.
+ALVBM           08Sense modality
+                     *   For Deontic modalities see deontic logic ALW
+                         JBK
+ALVBN           08De dicto & de re
+ALVV            06Tense logic
+ALVW            06Problematic mode
+ALVX            06Temporal mode
+                     *   For epistemic mode see epistemology AGS KX
+ALWE            05Mereology, logic of parts & wholes
+ALWH            05Practical logic
+ALWJ            06Deontic logic, logic of norms
+ALWJBK          07)Deonitic modalities(
+ALWJU           07Logic of permission
+ALWJV           07Logic of command, logic of imperatives
+ALWJW           07Logic of questions
+ALWJX           07Prohairetic logic
