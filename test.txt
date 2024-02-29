@@ -1,0 +1,20 @@
+AA8A            01Individual philosophers - A/Z ]IT
+                     *   Alternative (not recommended) for libraries
+                         wishing to keep all individuals in one simple
+                         A/Z file, rather than subordinating them to
+                         period & place, e.g. at AD. Other alternatives
+                         for A/Z arrangements will be found under
+                         Western & under Oriental philosophy (at AB8,
+                         AE and AI8).
+                     *   Add to AA8 the first three letters of the name
+                         of each philosopher, e.g. AA8 KAN for KANT.
+                     *   For subdivision of an individual philosopher's
+                         works see Auxiliary Schedule AA2.
+AA9             02)Metaphilosophy as qualifier(
+                     *   Use this position only when qualifying
+                         concepts in AAB/AAE - i.e. when a particular
+                         viewpoint or doctrine is itself subject to
+                         metaphilosophical enquiry & when it covers
+                         both Western & Oriental traditions.
+                     *   Add to -9 letters D/X following AF - e.g.
+                         metaphilosophy of rationalism AAC G9D.
