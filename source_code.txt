@@ -377,7 +377,7 @@ ACD             05((About the viewpoint derived from a particular
                          the Thomist viewpoint ACD_THO.
                      *   Exclude any such viewpoints already enumerated
                          in ACF/ACW.
-ACE             05((Doctrines, standpoints, `isms' in Western
+ACE             05((Doctrines, standpoints, 'isms' in Western
                            philosophy))
                      *   Treated as subjects; see explanatory notes
                          under Viewpoints and schools above (at ABA).
@@ -2052,7 +2052,7 @@ AIKBBDIR        09)Christian philosophy(
 AIKBC           07((From the viewpoint of a religious belief))
 @               08)Theodicy(
 AIKBCBOT        09Kalam, Muslim Scholastic theology
-AIKCE           07(Doctrines, standpoints, `isms')
+AIKCE           07(Doctrines, standpoints, 'isms')
 AIKCOS          08)Neo-Platonism(
 AIKCSG          08)Syncretism(
 AIKCV           07((Special doctrines))
@@ -2587,7 +2587,7 @@ AK4L            05((By ethnic group))
                      *   E.g. Jewish scientist ??
 AK4N            05((By sex))
                      *   E.g. Women scientist ??
-@               05((By status)) Amateurs in science (Researchers)
+@               05((By status)), Amateurs in science (Researchers)
                      *   See ??
 AK4UM           06Technicians in science, auxiliaries in science
 AK5             03)Organisations in Science(
@@ -2741,7 +2741,7 @@ AK9KIG          03)Hostility(
 AK9KLK          03)Communities(
 @               04Scientific community
 AK9KLKFB        05Institutionalization of science
-@               06)Informal structures( Invisible colleges
+@               06)Informal structures(, Invisible colleges
                      *   For specific formal organizations in science,
                          see Organizations AY.
 AK9KW           03)Custom, folklore & mythology(
