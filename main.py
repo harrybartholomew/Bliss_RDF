@@ -32,21 +32,19 @@ def create_node(uri, lines):
     # Labels
     def extract_labels(lines):
 
-        def remove_brackets(string):  # still need to deal with these
+        def remove_surrounding_brackets(string):  # still need to deal with these
             brackets = ["(", "<", "[", "{", ")", ">", "]", "}"]
-            while string[0] in brackets:
-                string = string[1:]
-            while string[-1] in brackets:
-                string = string[:-1]
+            while string[0] in brackets and string[-1] in brackets:
+                string = string[1:-1]
             return string
 
         def add_to_label(label, new_line):
 
-            label += f" {remove_brackets(remove_excess_whitespace(new_line))}"
+            label += f" {remove_excess_whitespace(new_line)}"
             return label
 
         first_line_words = this_line.split()
-        label_string = remove_brackets(remove_excess_whitespace(" ".join(first_line_words[1:])[2:]))
+        label_string = remove_excess_whitespace(" ".join(first_line_words[1:])[2:])
         if label_string[0] == "*":
             return []
         more_labels = True
@@ -62,7 +60,11 @@ def create_node(uri, lines):
             else:
                 more_labels = False
 
-        return label_string.split(", ")
+        labels = remove_surrounding_brackets(label_string).split(", ")
+        bracketless_labels = []
+        for label in labels:
+            bracketless_labels.append(remove_surrounding_brackets(label))
+        return bracketless_labels
 
     labels = extract_labels(lines)
     for i in range(len(labels)):
@@ -162,4 +164,3 @@ def parse_source_file(file_path):
 
 parse_source_file("source_code.txt")
 g.serialize(destination="tbl.ttl")
-print(g.serialize())

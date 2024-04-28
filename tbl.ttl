@@ -175,7 +175,7 @@
     skos:broader <http://example.org/0022> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AABD" ;
-    skos:prefLabel "From the viewpoint derived from a particular philosopher)) ]IT"@en .
+    skos:prefLabel "((From the viewpoint derived from a particular philosopher)) ]IT"@en .
 
 <http://example.org/0027> a skos:Concept ;
     skos:broader <http://example.org/0022> ;
@@ -346,7 +346,7 @@
     skos:notation "AAHR" ;
     skos:note "* Alternative (not recommended) to locating with subject."@en,
         "* Not restricted to one broad tradition. Even if this option is used most of the literature will go at AHR (where instructions for use are given)."@en ;
-    skos:prefLabel "Philosophy of particular subjects (general"@en .
+    skos:prefLabel "Philosophy of particular subjects (general)"@en .
 
 <http://example.org/0062> a skos:Concept ;
     skos:broader <http://example.org/0061> ;
@@ -392,7 +392,7 @@
     skos:notation "AB9" ;
     skos:note "* Add to AB9 letters D/X following AF - e.g. metaphilosophy of (Western) rationalism ACG B9D."@en,
         "* Use this position only when qualifying concepts in AB/AD (that is, when a particular viewpoint is itself subject to metaphilosophical enquiry)."@en ;
-    skos:prefLabel "Metaphilosophy as qualifier( ]IT"@en .
+    skos:prefLabel ")Metaphilosophy as qualifier( ]IT"@en .
 
 <http://example.org/0069> a skos:Concept ;
     skos:broader <http://example.org/0068> ;
@@ -4077,7 +4077,7 @@
     skos:broader <http://example.org/0764> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AGLN" ;
-    skos:prefLabel "Mechanism (Metaphysics"@en .
+    skos:prefLabel "Mechanism (Metaphysics)"@en .
 
 <http://example.org/0805> a skos:Concept ;
     skos:broader <http://example.org/0764> ;
@@ -4355,7 +4355,7 @@
     skos:broader <http://example.org/0866> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AGSMW" ;
-    skos:prefLabel "Phenomenalism (Epistemology"@en .
+    skos:prefLabel "Phenomenalism (Epistemology)"@en .
 
 <http://example.org/0870> a skos:Concept ;
     skos:broader <http://example.org/0866> ;
@@ -5073,7 +5073,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AHA" ;
     skos:note "* For general logic and logic in the Western tradition see AL. But for logic under particular Eastern systems of philosophy, use this relative position, e.g. Nyaya logic AIP CHA."@en ;
-    skos:prefLabel "Logic (use under Eastern systems"@en .
+    skos:prefLabel "Logic (use under Eastern systems)"@en .
 
 <http://example.org/1028> a skos:Concept ;
     skos:broader <http://example.org/0714> ;
@@ -6993,7 +6993,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AJFDS" ;
     skos:note "* Ritual norms, principle."@en ;
-    skos:prefLabel "Li (Tao"@en .
+    skos:prefLabel "Li (Tao)"@en .
 
 <http://example.org/1506> a skos:Concept ;
     skos:broader <http://example.org/1502> ;
@@ -7418,7 +7418,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AK8BE" ;
     skos:note "* Including works dealing with Ancient & pre-history together."@en ;
-    skos:prefLabel "Ancient science (general"@en .
+    skos:prefLabel "Ancient science (general)"@en .
 
 <http://example.org/1619> a skos:Concept ;
     skos:broader <http://example.org/1617> ;
@@ -7532,7 +7532,7 @@
     skos:broader <http://example.org/1650> ;
     skos:inScheme <http://example.org> ;
     skos:note "* For specific formal organizations in science, see Organizations AY."@en ;
-    skos:prefLabel "Informal structures( Invisible colleges"@en .
+    skos:prefLabel ")Informal structures( Invisible colleges"@en .
 
 <http://example.org/1652> a skos:Concept ;
     skos:altLabel "folklore & mythology"@en ;
@@ -7696,7 +7696,7 @@
     skos:notation "AL32" ;
     skos:note "* Alternative (not recommended) to subordinating individuals to historical schools above AL2 B/V."@en,
         "* Arrange A/Z by name. See Introduction, Section 10.24 for notes on alphabetisation."@en ;
-    skos:prefLabel "Biography"@en .
+    skos:prefLabel ")Biography"@en .
 
 <http://example.org/1695> a skos:Concept ;
     skos:broader <http://example.org/1694> ;
@@ -7925,7 +7925,7 @@
     skos:broader <http://example.org/1745> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AL3P" ;
-    skos:prefLabel "Foundations of mathematics (logic"@en .
+    skos:prefLabel "Foundations of mathematics (logic)"@en .
 
 <http://example.org/1755> a skos:Concept ;
     skos:broader <http://example.org/1745> ;
@@ -7958,14 +7958,14 @@
     skos:prefLabel "Mathematical elements & systems"@en .
 
 <http://example.org/1761> a skos:Concept ;
-    skos:altLabel "traditional logic general"@en ;
+    skos:altLabel "traditional logic (general)"@en ;
     skos:broader <http://example.org/1760> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AL9X" ;
     skos:prefLabel "Classical logic (general)"@en .
 
 <http://example.org/1762> a skos:Concept ;
-    skos:altLabel "Modern logic (general"@en ;
+    skos:altLabel "Modern logic (general)"@en ;
     skos:broader <http://example.org/1760> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AL9Y" ;
@@ -8232,7 +8232,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "ALFS" ;
     skos:note "* Main application is to formal structures ALJ X."@en ;
-    skos:prefLabel "Semantics( ]IT"@en .
+    skos:prefLabel ")Semantics( ]IT"@en .
 
 <http://example.org/1824> a skos:Concept ;
     skos:broader <http://example.org/1823> ;
@@ -8441,7 +8441,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "ALOS" ;
     skos:note "* General works only; do not qualify by operations, elements, etc."@en ;
-    skos:prefLabel "First order predicate calculus (general"@en .
+    skos:prefLabel "First order predicate calculus (general)"@en .
 
 <http://example.org/1881> a skos:Concept ;
     skos:broader <http://example.org/1880> ;
@@ -8822,7 +8822,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AGKK" ;
     skos:note "** Ken: should this be synthesised from Viewpoints?"@en ;
-    skos:prefLabel "Realism (Metaphysics"@en .
+    skos:prefLabel "Realism (Metaphysics)"@en .
 
 <http://example.org/0796> a skos:Concept ;
     skos:broader <http://example.org/0764> ;
@@ -9073,7 +9073,7 @@
     skos:broader <http://example.org/1200> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AIJPQ" ;
-    skos:prefLabel "Sa'adya (ben Josephus"@en .
+    skos:prefLabel "Sa'adya (ben Josephus)"@en .
 
 <http://example.org/1203> a skos:Concept ;
     skos:altLabel "Moses ben Maimon -"@en ;
@@ -9501,7 +9501,7 @@
     skos:broader <http://example.org/1578> ;
     skos:inScheme <http://example.org> ;
     skos:note "* See ??"@en ;
-    skos:prefLabel "By status)) Amateurs in science (Researchers"@en .
+    skos:prefLabel "(By status)) Amateurs in science (Researchers"@en .
 
 <http://example.org/1585> a skos:Concept ;
     skos:broader <http://example.org/1583> ;
@@ -9514,7 +9514,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AK5E" ;
     skos:note "* Add to AK letters D/Z from Schedule 2."@en ;
-    skos:prefLabel "National bodies ((By country"@en .
+    skos:prefLabel "National bodies ((By country))"@en .
 
 <http://example.org/1591> a skos:Concept ;
     skos:broader <http://example.org/1590> ;
@@ -9762,7 +9762,7 @@
     skos:prefLabel "Paradoxes"@en .
 
 <http://example.org/1822> a skos:Concept ;
-    skos:altLabel "solution (general"@en ;
+    skos:altLabel "solution (general)"@en ;
     skos:broader <http://example.org/1791> ;
     skos:inScheme <http://example.org> ;
     skos:notation "ALFV" ;
@@ -10507,7 +10507,7 @@
     skos:broader <http://example.org/1875> ;
     skos:inScheme <http://example.org> ;
     skos:notation "ALOKOCR" ;
-    skos:prefLabel "Reduction (syllogism"@en .
+    skos:prefLabel "Reduction (syllogism)"@en .
 
 <http://example.org/1884> a skos:Concept ;
     skos:altLabel "empirical logic"@en ;
@@ -10826,17 +10826,17 @@
     skos:broader <http://example.org/1609> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AK79" ;
-    skos:prefLabel "Ancillary studies in history ((By period and place"@en .
+    skos:prefLabel "Ancillary studies in history ((By period and place))"@en .
 
 <http://example.org/1617> a skos:Concept ;
     skos:broader <http://example.org/1616> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AK8BD" ;
     skos:note "** Primitive meaning early not always rudimentary? CN."@en ;
-    skos:prefLabel "Pre-history and primitive science (general"@en .
+    skos:prefLabel "Pre-history and primitive science (general)"@en .
 
 <http://example.org/1621> a skos:Concept ;
-    skos:altLabel "Medieval and Renaissance together general"@en ;
+    skos:altLabel "Medieval and Renaissance together (general)"@en ;
     skos:broader <http://example.org/1616> ;
     skos:inScheme <http://example.org> ;
     skos:notation "AK8FA" ;
@@ -11131,7 +11131,7 @@
     skos:inScheme <http://example.org> ;
     skos:notation "AK8G" ;
     skos:note "* Add to AK8 G letters D/Z from Schedule 2. (Modern period)"@en ;
-    skos:prefLabel "Renaissance science (1400/1599"@en .
+    skos:prefLabel "Renaissance science (1400/1599)"@en .
 
 <http://example.org/1659> a skos:Concept ;
     skos:broader <http://example.org/1575> ;
@@ -11185,7 +11185,7 @@
     skos:note "* For propositional functions, see Predicate calculus ALO C8L."@en,
         "* For propositions in philosophical logic, see AGX K."@en,
         "* Use this position for works considering propositions, statements & sentences together. For the three specifically, see ALL/ALM."@en ;
-    skos:prefLabel "Propositions (general"@en .
+    skos:prefLabel "Propositions (general)"@en .
 
 <http://example.org/1854> a skos:Concept ;
     skos:broader <http://example.org/1849> ;
@@ -11397,7 +11397,7 @@
     skos:note "* Add to AL numbers 34/8H from Auxiliary Schedule AM1."@en,
         "* Add to AL9 numbers 8J/9 and letters A/W from Auxiliary Schedule AM1 A selection of some prominent concepts is given to show the scope & arrangement of the class."@en,
         "* This is applicable primarily to mathematical logic (AM4). This class is provided for those occasions when mathematical concepts are used to qualify concepts in general logic. It uses the same modification of the provisions from Auxiliary Schedule AM1 as is used in AM4."@en ;
-    skos:prefLabel "Mathematics of logic (general"@en .
+    skos:prefLabel "Mathematics of logic (general)"@en .
 
 <http://example.org/1760> a skos:Concept ;
     skos:broader <http://example.org/1676> ;
@@ -11419,7 +11419,7 @@
         "* Add to ALG letters J/Y following AM4G"@en,
         "* Details from AM4 G may be added here if necessary; proceed as follows:"@en,
         "* Most of the literature goes under formal structures in mathematical logic, AM4."@en ;
-    skos:prefLabel "Algorithms (general"@en .
+    skos:prefLabel "Algorithms (general)"@en .
 
 <http://example.org/1900> a skos:Concept ;
     skos:altLabel "logic of norms"@en ;
@@ -11897,7 +11897,7 @@
     skos:prefLabel "Logical properties"@en .
 
 <http://example.org/0031> a skos:Concept ;
-    skos:altLabel "'isms' in general philosophy "@en,
+    skos:altLabel "'isms' in general philosophy ]"@en,
         "standpoints"@en ;
     skos:broader <http://example.org/0028> ;
     skos:inScheme <http://example.org> ;
