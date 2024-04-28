@@ -32,10 +32,21 @@ def create_node(uri, lines):
     # Labels
     def extract_labels(lines):
 
-        def remove_surrounding_brackets(string):  # still need to deal with these
+        def move_visibility_to_note(string):
+            split_string = string.split()
+            if split_string[-1][0] == "]":
+                g.add((uri, SKOS.editorialNote, Literal(string.split()[-1])))
+                return " ".join(split_string[:-1])
+            return " ".join(split_string)
+
+        def remove_surrounding_brackets(string):
             brackets = ["(", "<", "[", "{", ")", ">", "]", "}"]
+            removed_brackets = ""
             while string[0] in brackets and string[-1] in brackets:
+                removed_brackets += string[0]
                 string = string[1:-1]
+            if removed_brackets != "":
+                g.add((uri, SKOS.editorialNote, Literal(removed_brackets)))
             return string
 
         def add_to_label(label, new_line):
@@ -44,7 +55,7 @@ def create_node(uri, lines):
             return label
 
         first_line_words = this_line.split()
-        label_string = remove_excess_whitespace(" ".join(first_line_words[1:])[2:])
+        label_string = move_visibility_to_note(" ".join(first_line_words[1:])[2:])
         if label_string[0] == "*":
             return []
         more_labels = True
@@ -63,7 +74,7 @@ def create_node(uri, lines):
         labels = remove_surrounding_brackets(label_string).split(", ")
         bracketless_labels = []
         for label in labels:
-            bracketless_labels.append(remove_surrounding_brackets(label))
+            bracketless_labels.append(remove_surrounding_brackets(move_visibility_to_note((label))))
         return bracketless_labels
 
     labels = extract_labels(lines)
