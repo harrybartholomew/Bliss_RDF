@@ -35,7 +35,7 @@ def create_node(uri, lines):
         def move_visibility_to_note(string):
             split_string = string.split()
             if split_string[-1][0] == "]":
-                g.add((uri, SKOS.editorialNote, Literal(string.split()[-1])))
+                g.add((uri, SKOS.editorialNote, Literal(string.split()[-1], lang="en")))
                 return " ".join(split_string[:-1])
             return " ".join(split_string)
 
@@ -46,7 +46,7 @@ def create_node(uri, lines):
                 removed_brackets += string[0]
                 string = string[1:-1]
             if removed_brackets != "":
-                g.add((uri, SKOS.editorialNote, Literal(removed_brackets)))
+                g.add((uri, SKOS.editorialNote, Literal(removed_brackets, lang="en")))
             return string
 
         def add_to_label(label, new_line):
@@ -99,6 +99,14 @@ def create_node(uri, lines):
                 return line[is_note:]
 
         def new_note(note, lines_ahead):
+
+            def add_note(note):
+                if "**" in note:
+                    note_type = SKOS.editorialNote
+                else:
+                    note_type = SKOS.scopeNote
+                g.add((uri, note_type, Literal(note.replace("*", "").strip(), lang="en")))
+
             note_continues = True
             note = remove_excess_whitespace(note)
             lines_ahead += 1
@@ -109,10 +117,10 @@ def create_node(uri, lines):
                         note = add_to_note(note, next_line)
                         lines_ahead += 1
                     else:
-                        g.add((uri, SKOS.note, Literal(note, lang="en")))
+                        add_note(note)
                         return lines_ahead
                 else:
-                    g.add((uri, SKOS.note, Literal(note, lang="en")))
+                    add_note(note)
                     return lines_ahead
 
         def add_to_note(note, new_line):

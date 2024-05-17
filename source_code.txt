@@ -1235,7 +1235,7 @@ AE              07Individual Western philosophers - A/Z ]IT
                          Western tradition) and to use Auxiliary
                          Schedule AA2 for qualifying a given
                          philosopher.
-AFAY            04Branches & fields & subjects_of philosophy
+AFAY            04Branches & fields & subjects of philosophy
                      *  MC3
                      *   Problems, topics, etc. reflecting the
                          questions investigated by philosophy as
