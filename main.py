@@ -181,5 +181,5 @@ def parse_source_file(file_path):
                 hierarchy = create_hierarchy(hierarchy, uri, lines[i])
 
 
-parse_source_file("source_code.txt")
-g.serialize(destination="tbl.ttl")
+parse_source_file("Bliss A-AL Philosophy & Logic source.txt")
+g.serialize(destination="Bliss A-AL Philosophy & Logic")
